@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers>=4.40.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+accelerate>=0.30.0
+
+# For training (optional)
+datasets>=2.19.0
+pyyaml>=6.0
