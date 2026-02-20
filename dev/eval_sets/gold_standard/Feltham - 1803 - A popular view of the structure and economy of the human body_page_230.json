@@ -1,0 +1,16 @@
+{
+  "doc_id": "Feltham - 1803 - A popular view of the structure and economy of the human body_page_230.xml",
+  "text": "210\nprinciple of irritability in a much greater degree\nthan any other muscle of the body.\nThe pulse is quicker in young than in old subjects,\nbecause the former are more irritable than\nthe latter; upon which principle it is, that the\npulse is continually quicker in weak than in robust\npersons*. In a new-born infant the pulse-is\nabout 134 in a minute; in middle age from 60\nto 80; in extreme old age from 50 to 24. In\nGreenland, the body is exposed, during long\nwinters, to such cold, that the pulse is reduced\nto 40 or 50 strokes in a minute.\nTo the circulation of the blood, rightly and\nequally performed, we are indebted for life,\nhealth, and at last gradual decay. But if by any\nmeans the blood in its rotatory motion should be\nimpeded or disturbed, it will become the fruitful\ncause of diseases and death. So long as the blood\nand humours of the body are in circulation, life\n* The pulse is not affected by electricity, unless by the impulse\nof shocks, or the irritation of sparks; yet Cavallo and\nothers have asserted to the contrary; but later and more accurate\nexperiments have decided that the pulse is not in the least\ninfluenced either by negative or positive electricity. Mr. Wilkinson,\nfrom repeated trials, never observed any increase in the\ncirculation, See Note to page 199. on this subject.\nexists,",
+  "entities": [
+    {
+      "text": "Greenland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Mr. Wilkinson",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "doc_id": "Anonymous - 1744 - Reasons against the bill now depending in parliament intitled a bill for inlarging and regulating the trade to the levant seas_page_6.xml",
+  "text": "[ 6 ]\nBut the Bill says; factors shall no longer be traded to, than whilst under the Protection of\nthe Ambassador or Consuls: To this it is answered, That they must continue so for their own\nSecurity, otherwise they must immediately fall into the State of Subjects of the Sultan, and\nmust pay the Poll Tax; and as to the Regulations of the Company, they will be under small\nDifficulty of submitting to them; for in a little time their Nation must have the forming them.\nBut this does not separate them from their own Nation, or exempt them from its Jurisdiction,\nto which they are, by the strongest Motives, bound.\nIt has been urged, that these English Jews are in no Connexion with those of Turkey, but\nwill live separate as Englishmen: But it is known they are the very same People; for as well\nThose, as These, are generally Refugees from Italy or Spain. And those very Persons, who have\nthought themselves most interested in the Event of this Bill, are no more Englishmen, than any\nConstantinople Jew may be at any Time by Denization.\nIt is known to all who have lived at Aleppo, that the Leghorn Jews, who live there under\nFrench Protection, wear their Beards, and live and converse altogether with the Jews of the\nPlace, with whom they intermarry. The chief Partner of the Jew at Smyrna, who has been\ncited in a late Case, does the same at Smyrna; and it is known, that they all contribute, in\nsome Form or other, either by a Rate or free Gift, to the Maintenance of the national Poor;\nwhich is a heavy Charge, and many of them have been heard to complain of it as such.\nSeveral of the Jews now living at Constantinople, and elsewhere, are descended from such as\ncame from Italy under some foreign Protection ; but, mixing there with their own People, the next\nGeneration of them became Subjects of the Sultan: The same thing will no doubt happen with\nthe English Jews; and as to such of them as may not marry, there are not wanting Inducements\nto their considering themselves as at Home in Turkey.\nThe Protection given to stranger Jews, by the Christian Ambassadors in Turkey, is very different\nfrom what the English Jews are to have from this Bill; for those stranger Jews are not\nconsidered as the Subjects of any one of the States by whom they are protected, but as Subjects\nof States not in Amity with the Porte, and who are allowed to resort to Turkey, under\nthe Protection of some one of the Nations established there: But they are not received into the\nCommunity of any of the Nations they are under, or have a Place at their national Assemblies;\nnor can those who are protected by France, who are the greater Number, trade to or from\nFrance; and, in case of any Difficulties, they are to be helped out at their own particular\nExpence; they pay their Consulage, and are exempted from being treated as Subjects of the\nCountry; and even in this, their Pretensions are to be treated with great Moderation.\nThe Turks allow the Protection of their own Subjects by foreign Ambassadors, with the\nCommission of an Honorary Druggoman in the same Manner; and a Vizier, or other great\nMinister, will often ask this as a Favour, in Behalf of a Jew or Christian they may be disposed\nto favour.\nThe other Reason against admitting the Jews into the Levant Company, is, that they will in\ntime get all the Trade into their own Hands; but this is the least Inconveniency that can happen\nby this proposed Regulations: This Apprehension is founded solely on the Preference they will have\nfrom their Brethren in Turkey: The large Communities of Jews there, have a great Influence, which\nwill be employed in favour of their Brethren against the King's Christian Subjects; and it must\nand will bear them down in the End. They are not afraid of the Skill or Industry of the Jews;\nthose are in every Man, as God has given him Talents, and he has employed them: Nor are they\napprehensive the Jews, by their Oeconomy, can go cheaper to Market than they; for they have\nseen as many Instances of Vanity and Excess in Turkey, amongst them, as amongst any other Set\nof People; and their national Expences there must be great. There have, indeed, been Suggestions\nthat they could do Business for less Commission: But this is an Abuse; and there was\nlately a very flagrant Instance at Constantinople, of a Jew House, which had pretended to mighty\nMatters of this kind ; and a great Circulation was carried on for some time, but all ended in a\nscandalous Failure; the two partners disappeared; some of the Creditors upon the Place got somewhat\nin a sort of Scramble, but for the foreign Correspondents, who were chiefly at Venice and\nHolland, there was not any thing left. What, therefore, the King's Christian Subjects hope for,\nis, that they shall not, by this Bill, be put within the Reach of a most undue Influence and Preference;\nwhich must be the Case, if the Jews come at all into this Trade.",
+  "entities": [
+    {
+      "text": "Turkey",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Italy",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Spain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Constantinople",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Aleppo",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Smyrna",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Smyrna",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Constantinople",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Italy",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Turkey",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Turkey",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Turkey",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Levant",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Turkey",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Turkey",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Constantinople",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Venice",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Holland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Levant Company",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

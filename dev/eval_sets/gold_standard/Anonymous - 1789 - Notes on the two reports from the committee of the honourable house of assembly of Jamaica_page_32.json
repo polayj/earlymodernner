@@ -1,0 +1,96 @@
+{
+  "doc_id": "Anonymous - 1789 - Notes on the two reports from the committee of the honourable house of assembly of Jamaica_page_32.xml",
+  "text": "[ 31 ]\n\"the different precincts and parishes, for returns\nof all trials of slaves, with the charges, conviction,\nand punishment severally had thereon, for\nseveral years last past, viz. From the 1st of\nJanuary 1784, to the 30th of September 1788:\nFrom these returns we are enabled to state the\nfollowing circumstances:—\nIn the parishes and Precinct of St. Catherine,\nSt. John, St. Dorothy, and St. Thomas in the\nVale, containing 21,772 slaves, the number of\ncapital conviction and executions were four\nonly, in the said interval:\nIn the parish of St. Andrew, containing 9,613\nslaves, we find only one execution, in the said\ninterval:\nIn the parishes and Precinct of St. Thomas in\nthe East, and St. David, containing 23,373 slaves,\nthe number of capital conviction and executions\nwere ten, in the said interval:\nIn the parishes and Precinct of St. Mary and\nSt. George, containing 22, 194 slaves, the\nnumber of capital convictions and executions were\nfour, in the said interval:\nIn the parish of St. Ann, containing 13,324\nslaves, the number of capital conviction and\nexecutions were two, in the said interval:\nIn the parish of Trelawny, containing 19,318\nslaves, the number of capital conviction and\nexecutions were seven, in the said interval:\n\" In",
+  "entities": [
+    {
+      "text": "St. Catherine",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. John",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Dorothy",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Thomas in the Vale",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Andrew",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Thomas in the East",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. David",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Mary",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. George",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Ann",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Trelawny",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

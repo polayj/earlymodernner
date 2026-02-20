@@ -1,0 +1,146 @@
+{
+  "doc_id": "Anonymous - 1752 - The art of making sugar_page_1.xml",
+  "text": "30\nThe ART of making SUGAR.\ntexture, a shining snowy whiteness, and so transparent that common print may\nbe read through the thickest part of a large loaf.\nThis sort of sugar may be scented with different flowers, by strewing the\nflowers on the moist cloths, and renewing them as often as the cloths are\nchanged, and twice a day besides: the water, filtering through the cloth carries\ndown with it those particles of the flowers in which their fragrance resides, and\nleaves them in the sugar.\nLabar relates, that twelve hundred pounds of refined sugar yield only five\nhundred and forty-six of sugar royal.\nThe French prepare, in imitation of the royal, a sort of sugar which\nthey call sucre tappe. This is no other than the common clayed sugar rasped\nvery fine before drying, and rammed into small moulds which have been previously\nmoistened with water. This sort of sugar looks very beautiful: but as\nits particles have no natural union, they separate upon the least moisture, and\nrun into melasses.\n3. Of Sugar-Candy.\nSugar-candy is made from the muscavado or clayed sugar, by dissolving\nthem in weak lime water, and after due clarification setting them to\ncrystalize or shoot in a hot room. The moulds are furnished with a number of\nsmall sticks laid across for the sugar to shoot upon: their lower apperture is almost\nclosed, so as to suffer the part which remains liquid to filter through very slowly.\nWhen the sugar is sufficiently boiled, it is carried with all possible expedition\ninto an hot stove, immediately poured into the moulds, and the stove kept strongly\nheated. The sugar concretes upon the stick into crystalline masses, of a white or\nbrown colour, according as the sugar was pure or impure.\nAPPENDIX.\nThe Art of fermenting and distilling Melasses, &c. for RUM,\nor inflammable Spirit.\n1. Of the Fermentation of the Cane Juice in general.\nAll kinds of sweet vegetable juices are capable of being converted, by means of\nslow fermentation, into vinous liquors, which may either be preserved in that\nform, or made to yield by distillation an inflammable spirit; by a hasty fermentation,\nor a slow one long continued, they are changed into vinegars. The native\njuice of the sugar cane, as it is eminently sweet, is likewise in a particular manner\ndisposed to ferment; but without a great deal of address runs, beyond the process\nof vinous fermentation, into an acetous state. After it has undergone a degree of\nfire, it becomes less susceptible of these changes; and does not ferment readily\nwithout the assistance of such matters as promote this operation: such is the flower\nor head which arises upon liquors during fermentation, &c.\nHere",
+  "entities": [
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "SUGAR",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar royal",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sucre tappe",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "clayed sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "melasses",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar-Candy",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar-candy",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "muscavado",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "clayed sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Melasses",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "RUM",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cane",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "vinegars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "lime water",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar cane",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "cane juice",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

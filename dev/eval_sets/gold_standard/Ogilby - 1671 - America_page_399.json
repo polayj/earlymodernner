@@ -1,0 +1,61 @@
+{
+  "doc_id": "Ogilby - 1671 - America_page_399.xml",
+  "text": "Chap. XVI.\nAMERICA.\n341\nCommander, who upon their first arrival here committed such horrid Cruelties\nand Massacres, that (as the fore-mention'd Bartholomeo de las Casas writes) five thousand\nInhabitants were in a short time reduc'd to less than three hundred, multitudes\nbeing put to death in a most inhumane and barbarous manner, some roasted alive,\nothers torn in pieces by the Spanish Dogs, besides many other studied ways of Butchery,\ntoo dreadful to be read with patience; nor were they free from Civil War\namongst themselves, which first began in this Island.\nAttempts of\nthe English\nupon this\nIsland.\nThe first and onely Attempters upon this Island since the Spaniards made themselves\nMasters thereof, have been the English, who in the Year 1592. under the Conduct\nof Sir Anthony Shirley Landed upon it, & got clear possession thereof, none of the\nSpaniards that were then upon the Place daring to make the least resistance, but not\nthinking it worth the keeping, they soon deserted it, and made Sail back again for\nEngland: after which they remain'd unmolested for a long time, till in the Year\n1654. a Fleet of English was set out for Hispaniola by Cromwell, under the Command\nof Colonel Venables, with a Design for the taking of St. Domingo; but meeting with\nill success in the Enterprize, and being forc'd to quit that Island with loss of Men,\nand frustration of their hopes, they steer'd their Course for Jamaica, and on the\ntenth of May in the Year abovesaid, with little opposition possess'd themselves of it.\nUpon their approach to St. Jago the Inhabitants thereof deserted it, and betook\nthem to the Mountains, gaining time by a pretence of Treaty, to secure their Women\nand Goods; and oftentimes making Incursions upon the stragling Parties of\nthe English, slew and took many Prisoners by surprize: but being weary of this\nwild and irregular kind of living, they betake themselves at last to the Isle of Cuba,\nwhere many of them, the Grandees especially, were permitted by favour to continue,\nthe rest being by the Vice-Roy commanded back, with promise of speedy\nand considerable Supplies; by that time this remnant of the Spaniards was near\ntir'd out with hardship and necessity, some being very much discourag'd and driven\nto utter despondence of Mind, others destroy'd out-right, part of the long promis'd\nand expected Supply arrives, the greatest part being to follow soon after, but\nfinding",
+  "entities": [
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "AMERICA",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Hispaniola",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Domingo",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Jago",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cuba",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Bartholomeo de las Casas",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Sir Anthony Shirley",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Cromwell",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Colonel Venables",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

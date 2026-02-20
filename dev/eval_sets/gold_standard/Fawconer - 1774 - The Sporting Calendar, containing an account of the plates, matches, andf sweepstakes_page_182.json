@@ -1,0 +1,56 @@
+{
+  "doc_id": "Fawconer - 1774 - The Sporting Calendar, containing an account of the plates, matches, andf sweepstakes_page_182.xml",
+  "text": "124\nOCTOBER, 1773.\nSame day a sweepstakes of 500gs each, h. st B. C. was\nwon by\nLord Grosvenor's Mambrino — 1\nLord Clermont's Marc Anthony, 8st. — 2\nMr. Vernon's Florizel, 8st. 6lb. p. ft. — Four to 1 on\nMambrino.\nSame day Mr. Scawen's Alexis, 3 years old, 7st. 4lb.\nbeat Lord Clermont's Pulpé, 4 years old, 8st. 4 lb. Ditch\nin, 200gs.— Three to 1 on Pulpé.\nSame day Mr. Walker's Hibernian, 8st. beat Mr.\nStrode's Cicero, 8st. 7lb. R. M. for 100gs. — Two to 1\non Cicero.\nSame day Lord Clermont's Johnny, 7st. 7lb. beat Mr.\nBrand's Don Carlos, 8st. B. C. 200gs. — Six to 5 on\nJohnny.\nSame day Mr. Scawen's Mecea, 8st. paid 25gs compromise\nto Lord Clermont's Squirrella, 7st. 10lb. across the\nFlat, 100gs, h. ft.\nSame day Lord Clermont's Hercules, 7st. 9lb. paid\n100gs compromise to Mr. Ogilvy's Consul, 8st. 7lb. Ditch\nin. — Lord Clermont to have staked 6oogs to 400.\nSame day Lord Ossory's Chalkstone, 7st. 11lb. paid\nforfeit to Lord Grosvenor's Sweet William, 8st. 10lb. B.\nC. 200gs. h. ft.\nOn the 20th the 140gs for 6 year olds, carrying 8st.\n10lb. and aged 9st. 2lb. the sole property of subscribers,\nB. C. was won by\nLord Bolingbroke's Marianne, 6 years old — 1\nLord Ossory's Augur, 5 years old — 2\nAt starting, 6 to 4 on Marianne; in running, 6 to 1\non Augur.\nSame",
+  "entities": [
+    {
+      "text": "Lord Grosvenor",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Lord Clermont",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Vernon",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Scawen",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Walker",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Strode",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Brand",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Ogilvy",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Lord Ossory",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Lord Bolingbroke",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

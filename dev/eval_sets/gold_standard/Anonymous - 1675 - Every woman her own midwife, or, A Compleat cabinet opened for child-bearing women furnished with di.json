@@ -1,0 +1,356 @@
+{
+  "doc_id": "Anonymous - 1675 - Every woman her own midwife, or, A Compleat cabinet opened for child-bearing women furnished with di.xml",
+  "text": "26\nPreservatives against the Plague.\nperficiall parts, and there to apply the rumps of Chickens,\nas before is taught you, and so apply to the place some strong\nmaturative, and atractive plaister, or Cataplasme, as hereafter\nshall be shewed you. If the greif be in the head or throte,\nthen apply Ventoses to the neck: If it be in the emunctuaries\nof the heart, then apply them to the shoulders: If in the\nemunctuaries of the liver, then apply them to the buttocks or\nthighs, now when this is done, either by Phlebetomy, or\nVentoses, then within an hour or two at the most after it, you must\ngive the sick some good Cordiall Medicine, which hath power\nto comfort the heart, resist the venomous matter, and also\nprocure sweet, whereof out of the following you may make\nchoice as you list.\nAn excellent good Powder to expell the Plague, which also\nprovoketh sweat.\nRx. Roots of Gentian, Bittanie, Petasitis, ana, ʒ. i. Roots of\nTormentill, Dittander, ana, ʒ iii. Red Sanders ʒ. ß. Fine Pearle\nof both sorts, ana, ℈. i. Fine Bolarmoniack prepared, fine Terra\nsigillata, ana, ʒ. vi. Rindes of Citrons, red Corrall, Roots\nof Zedoiar, shaving of Ebony, bone of a Stags heart, ana, sixteen\ngraines: Fragments of the five pretious stones, ana, ℈. ß.\nShaving of a Unicorns horn, Succini, ana, ℈. ß. Leaves of\nGold and Silver, ana, one and half in number,\nMake all these in fine powder, every one severall by himself,\nand then mix them all together, and give thereof ℈.i. or ℈. iiii.\nmore or lesse as occasion requireth, either in Sorrell, Scabios,\nor Carduus benedictus water two or three ounces, whereunto\nyou must adde a little Sirrup of Lemons, or sour Citrons, and\ngive it warm, the Bolarmoniack must be pounded small, then\nwashed in Scabios water, and so dryed.\nAnother good Powder.\nRx. Leaves of Dittander, called Dictami cretici, Roots of\nTormentil, Bittanie, Pimpernell, Gentian, Zedoiar, ana, ʒ. i.\nTerra lemnia, Alloes Cicatrina, fine Myrrh, Rinds of sour Citrons,\nana,\nPreservatives against the Plague.\n27\nana ʒ i. Mastick, Saffron, ana, half a drachm. Bosarmoniack\nprepared as beforesaid, ʒ ii.\nAll these must be made in fine pouder, and so mixt together,\nyou may give two scruples, or one drachm thereof with any of\nthe aforesaid waters.\nA good Opiat to expell venome, and provoke sweat.\nConserve of the floures of Burrage, Bugloss, Violets,\nBittanie, ana, ℥. ii. Venus Triacle ℥. ii. Red Terra sigillata,\nTerra lemnia, Mithridate, ana ℥. i. Shaving of Ebonie, And\nHarts-horn, Orient Pearls, Roots of Tormentill, ana 3 i.\nShaving of Unicorns horn, Root of Angelica, ana half a\ndrachm. Sirrup of the Juice of small Sorrell and Bugloss,\nana, so much as shall suffice.\nMix all these together in the form of an Opiat, then take\nof the same Opiat, one drachm and half. Scabios water, Balm\nwater, ana ℥ ii.\nDissolve the Opiat in the waters, and drink it warm, then\nwalk a little upon it, and then goe to bed and sweat.\nAnother excellent good means to expell the venom, and procure\nsweat.\nTake a great white Onyon, and pick out the coar or middle\nof him, then fill the hole with good Venus Triacle, or\nAndromachus Triacle, and Aqua vitae, then stop or cover the\nhole of the Onyon again, and rost him in the hot ashes untill\nhe be soft, then strein it strongly through a cloth, and\ngive it the sick to drinke, and the rest that remains, pound it\nsmall, and apply it to the sore, and sweet upon it.\nNow when he hath taken any of the aforesaid Cordials, if\nhe chance to vomit it up again, then wash his mouth with\nRosewater and Vinegar, and then give him more of the\nsame again, which must be proportioned according to the\nquantitie vomited, for if all were vomited, then give so much\nmore: (if lesse) then according to the quantity vomited, and\nif he vomit that also, then give him more, and so continue it\nto\nH h h",
+  "entities": [
+    {
+      "text": "Chickens",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Gentian",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bittanie",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Petasitis",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Tormentill",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Dittander",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Red Sanders",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pearle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bolarmoniack",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Terra sigillata",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Citrons",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Corrall",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Zedoiar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ebony",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Stags heart",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "pretious stones",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Unicorns horn",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Succini",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Gold",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Silver",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sorrell",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Scabios",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Carduus benedictus water",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sirrup of Lemons",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sour Citrons",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bolarmoniack",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Scabios water",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Dittander",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Dictami cretici",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Roots of Tormentil",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bittanie",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pimpernell",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Gentian",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Zedoiar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Terra lemnia",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Alloes Cicatrina",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Myrrh",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sour Citrons",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mastick",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Saffron",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bosarmoniack",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Opiat",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Conserve of the floures of Burrage",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Burrage",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bugloss",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Violets",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bittanie",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Venus Triacle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Terra sigillata",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Terra lemnia",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mithridate",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ebonie",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Harts-horn",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Orient Pearls",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Tormentill",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Unicorns horn",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Angelica",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sorrell",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bugloss",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Opiat",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Opiat",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Scabios water",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Balm water",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Opiat",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "white Onyon",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Venus Triacle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Andromachus Triacle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Aqua vitae",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Rosewater",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Vinegar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

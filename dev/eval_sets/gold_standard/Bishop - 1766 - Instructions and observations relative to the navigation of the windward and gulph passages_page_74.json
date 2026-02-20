@@ -1,0 +1,86 @@
+{
+  "doc_id": "Bishop - 1766 - Instructions and observations relative to the navigation of the windward and gulph passages_page_74.xml",
+  "text": "( 62 )\nPoint. Within this Point, to the westward,\nhis Majesty's ship Raisonable was lost, off\nFort and Point Gardie; this Point therefore\nmust be avoided. Here we were informed\nthat the Admiral and Fleet were at anchor\nin Diamond Cove or Road.\nThe Diamond Rock, which lay's more than a\nmile from the shore, bears from Point Saline\nW. N. W. distance 7 or 8 miles. The\naforesaid Rock is high and round, and to\nthe N. W. of it is Diamond Cove or Bay,\nwhere we found his Majesty's Fleet at anchor,\nthe 16th of January 1762, under the\ncommand of Rear Admiral Rodney, and the\nnext day we landed his Majesty's Troops in\nCass Navire Bay; but as the Antigua Brig.\nwas ordered to the northward, I chose to\ngo with her, in order to go to Jamaica, and\nso we proceeded to Guadaloupe, where we\nfound a sloop from Lisbon, from Capt. Johnston\nof the Hornet, which gave us an account\nof a Spanish War, and the Captain gave me\na Copy of the King of Spain's Declaration.\nAs the Lieutenant Governor sent the Brigantine\nback to Martinico, I thought it my\nbest way to go back with her; but as a ship\nthen at Guadaloupe (the Alexander, Captain\nAtkinson) was ready, or would be in two or\nthree days, I was determined to secure myself\na passage, and agreed with him, in case\nI should be disappointed at Martinico, as it\nhappened",
+  "entities": [
+    {
+      "text": "Fort and Point Gardie",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Diamond Cove",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Point Saline",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Diamond Cove",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cass Navire Bay",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Antigua",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Guadaloupe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Lisbon",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Spain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Martinico",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Guadaloupe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Martinico",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Rear Admiral Rodney",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Capt. Johnston",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Captain Atkinson",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

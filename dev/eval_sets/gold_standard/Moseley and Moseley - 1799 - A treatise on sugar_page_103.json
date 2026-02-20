@@ -1,0 +1,46 @@
+{
+  "doc_id": "Moseley and Moseley - 1799 - A treatise on sugar_page_103.xml",
+  "text": "( 101 )\nused by those who wish to prolong life; because\nit will not suffer the humours, nor the\nfood, in the body to putrify.\nPOMET says, \"The white and red sugar-\ncandy are better for rheums, coughs, colds,\ncatarrhs, asthmas, wheezings, than common\nsugar; because, being harder, they take longer\ntime to melt in the mouth, and keep the throat\nand stomach moister than sugar does. Put\ninto the eyes, in fine powder, it takes away\ntheir dimness, and heals them being bloodshot;\nit cleanses old sores, being strewed gently on\nthem.\" Histoire général des Drogues, Lib. II.\ncap. 38, anno 1694.\nLEMERY gives nearly a similar account of\nsugar; but says it is hurtful to the teeth, and\ncauses vapours. Traité Universel des Drogues\nSimples, anno 1693.\nHERMANN says, \"Sugar consists of a sweet\nsoft mucilage, and an agreeable sharpness;\nfrom whence it becomes an aliment as well as\na medicine. The Indians boil it in water with\na small quantity of flower for nourishment.\nIt promotes urine, and is specific in coughs,\nhoarseness, sharp humours, and other diseases\nof the lungs.\"\nIt\nH 3",
+  "entities": [
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "POMET",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "LEMERY",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "HERMANN",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

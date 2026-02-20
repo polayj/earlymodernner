@@ -1,0 +1,21 @@
+{
+  "doc_id": "Anonymous - 1740 - A letter from a gentleman at barbados to his friend now in London_page_25.xml",
+  "text": "( 21 )\nOne of the first Pranks he play'd was in this\nManner: He had hurried the President into\nholding a Council of War on the 8th of November\n1739, before the Governor’s Arrival,\nand even before the Declaration of War\nhad reach'd us. On this Occasion, he, who\ntook all upon himself, mov’d the President,\nthat he would give the necessary Orders to\nhave the Intrenchments repair'd and put\ninto the best Order. The Expediency of\nthe Thing was not to be questioned, had\nit been seasonable. But after the Declaration\nof War with Spain was published, and\nrepeated Advices had rais'd strong Apprehensions\nof a War with France, Mr. B—g\nexpress'd his Intentions of having immediate\nCare taken of the Entrenchments. This\nMeasure, however reasonable or indeed necessary\nit had been deemed a few Months\nbefore, when it was not certain there\nwould be any War at all, was now, when a\nWar actually subsisted, call'd a Piece of great\nOppression and Tyranny, design'd to harrass\nthe poor People, because the naughty Governor\nhad been disobliged. The Speaker\ngets his Assembly-men together, and dictates\nto them a message to be sent to the Governor,\n(not as an Act of their Body, but as\ntheir private Opinion) that his Orders for\nrepairing the Entrenchments, tho' lawful,\nwould not be obey'd; which insolent Message\nwas",
+  "entities": [
+    {
+      "text": "Spain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Mr. B—g",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

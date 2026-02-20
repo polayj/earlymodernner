@@ -1,0 +1,36 @@
+{
+  "doc_id": "Anonymous - 1753 - An accurate description of the cacao-tree_page_2.xml",
+  "text": "( 6008 )\nThese Trees are exceedingly different amongst themselves;\nfor, some shoot up in 2 or 3 bodies; others in one, as this. Their\nLeaves are many of them dead, and most discolour'd, unless\non very young Trees. They are not at all beautiful, nor so agreeable\nto the Eye, as the Fruit is to the Palate of them that\nlove Chocolatto. The number of Codds the Tree produces,\nis uncertain: But we reckon, a bearing Tree yields from 2\nto 8 pound of nuts a year; and each Codd contains from 20 to\n30 nuts.\nThe Manner of Curing them is; to cut them down when\nthey are ripe, and to lay them to sweat 3 or 4 dayes in the\nCodds; which is done by laying them on heaps. After this\nthey cut the codds, and take out the nuts, and put them into\na trough cover'd with plantan-leaves, where they sweat again\nabout 16 or 20 days. The nuts that are in each codd, are knit\ntogether by certain fibres, and have about them a white kind\nof pulp, that's agreeable to the palate. By the turning and\nswetting their little strings are broken, and the pulp is imbibed\nand mingled with the substance of the nut. After this, they\nare put to dry 3 or 4 weeks in the Sun, and then they\nbecome of a reddish dark colour, as you see, and so are\ncured.\nWhat is remarkable in this fruit is, that the Codds grow only\nout of the Body or great Limbs and boughs; and that at\nthe same time, and in the same place, there are blossoms, young\nand ripe fruit.\nThese Trees bear at different times; the greatest crop, at most\nof our Cacao walks is in December and January: But at one\nof Colonel Modifords walks, whence this Tree was taken, they\nbear most in May; yet its not above 5 miles from those walks,\nwhich bear alwaies in December: But those that bear\nthen, have some fruit in May; as the other have in December.\nIt's planted first in the Nut, alwaies under shade: Some do\nit under Cassive; others, under Plantan-tree, and some in the\nWoods. The Spaniards used a certain large shady plant,\ncall'd by them Midre di Cacao: We only th' others; and seldom\ntransplant, only where it fails, as it doth many times in open,\npoor and dry lands: for, this Tree requires to be\nshelter'd",
+  "entities": [
+    {
+      "text": "Cacao",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Midre di Cacao",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Chocolatto",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "plantan",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cassive",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Plantan",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

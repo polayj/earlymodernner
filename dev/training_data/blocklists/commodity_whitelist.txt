@@ -1,0 +1,213 @@
+# COMMODITY WHITELIST
+# Based on actual British colonial trade records (1696-1755)
+# Only items on this list (or variations) should be tagged as COMMODITY
+
+# === SUGARS & DERIVATIVES ===
+sugar
+sugars
+suger
+sugers
+brown sugar
+white sugar
+muscavado sugar
+muscovado sugar
+loaf sugar
+sugar loaf
+refined sugar
+molasses
+treacle
+
+# === ENSLAVED PEOPLE (historical trade reality) ===
+negroes
+negro
+negros
+negro's
+slaves
+slave
+servants
+
+# === SPICES ===
+pepper
+ginger
+dry ginger
+nutmeg
+nutmegs
+mace
+cinnamon
+cloves
+pimento
+allspice
+saffron
+
+# === DYES ===
+annatto
+indigo
+indico
+fustic
+fustick
+orchall
+cochineal
+logwood
+brazilwood
+brazil wood
+
+# === COCOA & CHOCOLATE ===
+chocolate
+chocolata
+cocoa
+cacao
+cocoa nuts
+cocoa paste
+
+# === WAXES ===
+bees wax
+beeswax
+bayberry wax
+mirtle wax
+myrtle wax
+wax
+
+# === ANIMAL PRODUCTS ===
+elephant teeth
+elephants teeth
+ivory
+sea horse teeth
+tortoise shell
+tortoiseshell
+hides
+skins
+furs
+leather
+
+# === BEVERAGES ===
+rum
+brandy
+wine
+wines
+madeira wine
+madera wine
+medera wine
+white wine
+claret
+sack
+ale
+beer
+spirits
+lime juice
+lemon juice
+lemon water
+
+# === TEXTILES & FIBERS ===
+cotton
+cotton-wool
+cotton wool
+wool
+silk
+linen
+linnen
+cloth
+cloths
+canvas
+
+# === TOBACCO ===
+tobacco
+tobaccoes
+snuff
+shruff
+
+# === GRAINS & STAPLES ===
+rice
+wheat
+corn
+maiz
+maize
+flour
+oats
+barley
+
+# === FISH (traded goods) ===
+fish
+cod
+codfish
+herring
+stockfish
+salmon
+anchovies
+oysters
+pilchards
+
+# === OTHER PLANT PRODUCTS ===
+tea
+coffee
+opium
+cascarilla
+lignum vitae
+tar
+pitch
+turpentine
+timber
+wood
+lumber
+rosin
+hemp
+flax
+
+# === OILS & FATS ===
+oil
+olive oil
+train oil
+whale oil
+tallow
+
+# === METALS ===
+gold
+silver
+siluer
+iron
+steel
+lead
+copper
+tin
+
+# === FRUITS (traded) ===
+oranges
+orange
+lemons
+lemon
+raisins
+raisans
+currans
+currants
+dates
+figs
+prunes
+almonds
+
+# === LIVESTOCK (traded) ===
+horses
+horse
+cattle
+cattles
+cattel
+sheep
+hogs
+pigs
+
+# === PRESERVED FOODS ===
+salt
+pickles
+vinegar
+bacon
+salt fish
+salt beef
+salt pork
+
+# === MISC TRADE GOODS ===
+succand
+succands
+binellos
+cranberrys
+cranberries
+rose-water
+rosewater
+honey

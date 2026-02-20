@@ -1,0 +1,106 @@
+{
+  "doc_id": "Anonymous - 1728 - Some observations on the Assiento Trade_page_22.xml",
+  "text": "( 18 )\nsettled with their Wives and Families on the Island;\nmuch less to 1500, as there actually were, before the\nEnglish had the Assiento?\nWhen the Company purchased their Negroes in Jamaica,\ngreat Numbers were brought to that Market,\nwhich indeed occasion'd a Circulation of Money for a\nlittle time; but since they have fallen into the Method\nof sending to Africa to purchase Slaves, they have drove\nseveral private Merchants out of the Trade; and if\nthey pursue the same Measures, will, in a little time,\nengross it to themselves; this will be the same Thing\nin its Consequences, as if they obtained an exclusive\nCharter, which has been so much dreaded and opposed\nby the Merchants of Bristol, and other trading Towns\nas well as London.\nAs to the Advantages, which the Island is said to receive\nby the Shipping which import Negroes into Jamaica\nfor the South-Sea Company, are they any new Acquisitions,\nor equal to what they formerly had even in that\nRespect; were not Ships employ'd, before the South-Sea\nCompany obtained the Assiento Contract, to transport\nNegroes for the Spanish Trade, as well as for the Use of\nthe Island? It is evident, that not only those Ships, but\ntheir Cargoes belong'd to private Merchants in London,\nBristol, and Liverpool, who employ'd Factors settled in\nJamaica, and the supplying the private Traders with Negroes\nwas very beneficial to them, as well as to the Inhabitants;\nand those Factors not only employ'd a great\nNumber of People under them, but purchased the Product\nof the Island to load their Ships; and the Money\nlaid out by those Means, as well as for Stores and Necessaries,\ncirculated in the Island, and occasioned a Life and\nSpirit amongst them.\nFourthly, THAT there had been a greater private\nTrade carried on from Jamaica, since the Year 1723, than\nin eighteen Years which he had known the Island.\nHERE I am at a Loss how to take that Gentleman's\nMeaning; if he would be understood a Trade carried\non by the Merchants who reside in Jamaica, it is contrary\n",
+  "entities": [
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Africa",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Bristol",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "South-Sea",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "South-Sea",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Bristol",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Liverpool",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "South-Sea Company",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Merchants of Bristol",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

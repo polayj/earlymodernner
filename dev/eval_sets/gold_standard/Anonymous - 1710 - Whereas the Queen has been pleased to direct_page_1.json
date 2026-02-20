@@ -1,0 +1,131 @@
+{
+  "doc_id": "Anonymous - 1710 - Whereas the Queen has been pleased to direct_page_1.xml",
+  "text": "K. Just Brit & J.\n816. no. 10.\n60\nWhereas the QUEEN\nhas been pleased to direct, that a Monthly\nCorrespondence be Established between this Kingdom, and\nHer Majesties Dominions on the Continent of AMERICA, by\nPacket Boats, to pass to, and from Bristol and New-York, between which\nlast Place, and the several Provinces, Colonies, and Settlements of New-\nEngland, East and West-Jersey, Pensilvania and Rhode-Island, Regular\nInland-Posts are already Settled, and others are about to be settled,\nthrough Maryland, Virginia, North and South-Carolina, for the more\nEasie and Expeditious Conveyance of all Letters and Packets, which\nshall be Conveyed by means of the said Packet-Boats.\nTHESE are therefore to give Notice thereof; and that shortly a\npre-fix'd Time will be published, when Letters and Packets will be taken in\nat the General Post-Office, and at the several Post-Offices throughout\nGreat-Britain, and Ireland, and a Day be appointed in each Month,\nwhen the Mails will be dispatched from the General Post-Office for\nBristol, from whence the Packet Boats are to take their Departure.\nTHE Rates for the Portage of Letters and Packets, to, and from the\nGeneral Post-Office in London and New-York, being as follows.\nFor every Single Letter, not exceeding\none sheet of Paper,\n1s 0d\nFor every Double Letter, not exceeding\ntwo Sheets of Paper,\n2s 0d\nAnd in Proportion to the same Rates for\nevery Packet of Letters.\nAnd for Packets of any kind of greater\nweight, for every Ounce\n4s 0d\nTHE PACKET-BOATS are to be of the Burthen of about\nEighty Tonns, built on purpose for Sailing, of Strength to resist the Seas,\nwell Mann’d, and Commodiously Contrived for Entertaining Passengers,\nwho will be kindly Received, and Entertained on Board, on Easie Terms.\nTHE said PACKET-BOATS are permitted to carry out upon\nFreight, the Quantity of Five Tonns in Goods, and bring Home Ten\nTonns, whereby all People may send small Parcels to New York, or any\nother Place from thence by Land-Carriage, and be accommodated therein\nat Reasonable Rates. As they may be more Particularly Informed by\nWilliam Warren, Undertaker of the said Packet Boats, in Crown-Court,\nin Gracious Street, London,\nPrinted by J. Sowle, in White-hart-Court in Gracious-Street.",
+  "entities": [
+    {
+      "text": "Bristol",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Bristol",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "New-York",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "New-York",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West-Jersey",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Pensilvania",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Rhode-Island",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Maryland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Virginia",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "North",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "South-Carolina",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Great-Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ireland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "AMERICA",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "New York",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Gracious Street",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Gracious-Street",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "William Warren",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "General Post-Office",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "General Post-Office in London",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Crown-Court",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "J. Sowle",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "White-hart-Court",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

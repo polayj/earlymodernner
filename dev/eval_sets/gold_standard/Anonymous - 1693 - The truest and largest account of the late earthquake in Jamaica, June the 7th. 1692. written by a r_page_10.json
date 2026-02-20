@@ -1,0 +1,46 @@
+{
+  "doc_id": "Anonymous - 1693 - The truest and largest account of the late earthquake in Jamaica, June the 7th. 1692. written by a r_page_10.xml",
+  "text": "[10]\nReprobate Sense, whom neither the Mercies of God\nnor yet his Judgments can bring to Repentance,\nyet I hope this hath been an effectual Warning to\nmany of us in the Countrey, who knowing the\nTerrors of the Lord, will for the future be the more\neasily perswaded to an amendment of Life. I\nquestion not but there are many Petty-factors at Port\nRoyal, who have stated their Accounts, and\nballanced their Books with the sole Answer of an\nEarthquake, whose Interest therefore it is to\nrepresent it in the most dreadful manner possible,\nthat they themselves may seem the more excuse\nable to their Employers, as if the whole Island were\ndestroyed thereby, which will discourage Merchants\nfrom Trafficking hither, and will be a means of\nfurther suffering thereby. Yet as I have done my\nbest to give you a true Information hitherto, so I\ncan assure you of the Truth of what I farther\nassert, That by the Blessing of God having hitherto\nreasonable good Weather, the Planters continue\nemploy'd in making of Goods, Cottons, and Indigo's,\n&c. providing them for a Market; and such who\nhave Sugar works, which is the staple of the Island,\nmany of them had Timber buildings, which are\neither little or not at all prejudiced; and others who\nbuilt with Brick, or Stone, have so much time\nbetween this and Crop-time, that they can, and\ndoubtless will fit themselves in some measure in\norder to it: So that I am sufficiently convinced, and\ntherefore would persuade any other, that whosoever\nTrades hither for any manner of Goods for\nCloathing, Houshold-stuff, Arms and Ammunition,\n(which are generally spoiled) all manner of\nProvisions, Plantation Utensils, &c. will come by\nso much to the better Market, by how much they\nhasten\n[11]\nhasten to our Assistance, and need never fear the\nfreighting of their Ships homeward, there being a\npresent damp upon Trade, which I don’t know how\nlong it may continue, so that we shall have great\nquantities of Goods ready for them, to dispatch them\nthe sooner away. God in his Displeasure remembred\nMercy, and therefore this Calamity happened\nin the Day-time, to the safety of many hundred\nSouls; for though such numbers perisht at Port\nRoyal, where they were thronged together in an\nIstmus of Land, yet I cannot hear of fifty Persons,\nboth White and Blacks, that perished throughout\nall the Island beside. — And though in the midst of\nour distress it pleas'd God to give us a signal\nVictory over our Enemies, the French, who happened\nat that time to make the sharpest Attack upon us\nsince the War, having landed some say 200, some\nsay 80 Men at the North-side, which is but weakly\nfurnished with Men, where they intrench'd\nthemselves, but were shamefully beaten out by a vigorous\nOn-set in the Night, by a Party of about thirty\nMen, who slew 7 or 8 outright, and the rest flying\nto their Boats were 30 of them drowned, while\nin the mean time our Fleet which was set out on\npurpose pursuing theirs, we took one Shalop, and\nmade them desperately blow up their great Ship\nsuch as were saved remaining our Prisoners, and\nothers fled home to give an Account of their Over\nthrow. What may be the effect of these sad times,\nGod only knows: Our first Fears were concerning\nour Slaves, those Irreconcilable and yet Intestine\nEnemies of ours, who are no otherwise our Subjects\nthan as the Whip makes them; who seeing\nour strongest Houses demolisht, our Arms broken,\nand hearing of the destruction of our greatest\nDependency,\nC 2",
+  "entities": [
+    {
+      "text": "Port Royal",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Port Royal",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cottons",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Indigo",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Timber",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Brick",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

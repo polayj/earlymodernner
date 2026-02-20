@@ -1,0 +1,126 @@
+{
+  "doc_id": "Harris - 1691 - Remarks on the affairs and trade of England and Ireland_page_45.xml",
+  "text": "(37)\nThat as to the Virginia Trade, which brings greatest Advantage to his\nMajesty, the Merchants of Ireland are in a manner wholly cut off from\nthat Trade, except they will drive it to the utter Ruin of the Kingdom.\n(which they resolve not to do) For neither Provision, nor Horses will\ngo off at Virginia, nor are Servants to be had to such numbers as to enable\nthat Trade; And the Export of their Manufacture is prohibited.\nSo that if they will drive that Trade, they must do it with Cash, and\nturn all the little Money they have into Smoak, or be at the excessive\ncharge, double hazard and expence of time, to come unto, and return\nthrough England with that (as all other Plantation Commodities)\nwhich hath occasioned frequent loss of Seasons, and of Ships and Cargo's\nto the loss of the Duty to his Majesty, and Ruin of many Merchants,\nas they made appear in very many deplorable Instances, too long to be\nhere inserted.\nThey say, That whereas by an Act of the 25. Car. 2. For better securing\nthe Plantation Trade, It is Enacted, That if any Ship or Vessel,\nwhich by Law may Trade in any of the Plantations, shall come to take\non board any Plantation Commodities, and that Bond shall not be first\ngiven, with sufficient Surety to bring them to England, Wales, or Barwick,\nThat there shall be paid there on white Sugars 5 s. per Cent. on\nMuscovados 8 d. per Cent. on Tobacco 1 d, per Pound, &c. which afforded\nsome ease to the distressed Merchants of Ireland in returning, without\nbeing necessitated to come to England to enter. Yet that door also\nhath been shut against Ireland by the Artifice of the Arbitrary Commissioners\nof the Customs in England. For contrary to the plain Import of that Law,\nThere was a Ship of England which paid that Duty in the Plantations, seized\nand condemned, under pretence that that Act was only intended for the Trade\nbetween Plantation and Plantation, although there is nothing in the Act that\ngives Countenance to that Construction.\nThat tho' the Manufactures of Ireland are few, and that the most considerable\nof them is Linnen, which interferes not with the Manufacture\nof England, and that the quantity exported in times of Free Trade to\nthe Plantations was but small, yet the Sustenance of a good number of\nthe most necessitious of their People depended wholly on that little, and\nthat they cannot subsist barely by Air, more than the People of England.\nThat by reason of the easiness to subsist in Ireland, the Restraints on\nTrade, the difficulty, if not impossibility (now) to grow rich by\nTrade, and the cheapness of Land; Merchants are inclined to purchase\nrather than Trade. That from hence; and the mean way of living of\nthe Natives, paucity of Inhabitants, little demand of the Native Commodities\nin Forreign Markets, the want of any peculiar Commodity,\nas",
+  "entities": [
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Tobacco",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ireland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ireland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ireland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ireland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ireland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Wales",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Virginia",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Horses",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Virginia",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Barwick",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Muscovados",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Linnen",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Servants",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Merchants of Ireland",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "the Arbitrary Commissioners of the Customs in England",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

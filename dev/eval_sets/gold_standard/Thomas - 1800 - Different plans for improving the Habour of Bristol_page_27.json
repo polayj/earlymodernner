@@ -1,0 +1,36 @@
+{
+  "doc_id": "Thomas - 1800 - Different plans for improving the Habour of Bristol_page_27.xml",
+  "text": "( 25 )\nportion to that in the Avon, I think no doubt\ncan be entertained of the certainty of contriving\nmeans to discharge it; for Bridewell\nand Hanham Mill ponds are nearly level, so\nare those of Newgate and Keysham; consequently\nthe fall is as great in a quarter of a\nmile to the Avon from the Frome, as it is on\nthe Avon itself in a distance of 8 miles and\nupwards.\nA Tunnel may be made, if necessary,\nfrom Newgate Mill pond to the Avon, that\nwould carry off all the water; even such a flood\nas we had the 9th inst. might be got rid of,\nso as to do no mischief to this part of the town.\nThese are matters worthy of consideration,\neven if no improvement be made to the harbour,\nas it will not in the smallest degree injure the\nMills; but it cannot be effected if the Avon\nbe damed.\n3rdly. — Frosts. Inconveniences will arise\nfrom Frosts in this scheme, as admitted in my\nobservations on the other. But the Dock proposed\nwill affect the navigable part of the\nthe Frome only, leaving the Avon open to the\ntide; and why should we be at so heavy an\nexpence to deprive ourselves of the advantage",
+  "entities": [
+    {
+      "text": "Avon",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Bridewell",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Hanham Mill",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Newgate",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Keysham",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Frome",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    }
+  ]
+}

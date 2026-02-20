@@ -1,0 +1,121 @@
+{
+  "doc_id": "Anonymous - 1675 - The Accomplish'd lady's delight in preserving, physick, beautifying, and cookery containing I. the a_page_102.xml",
+  "text": "196\nBeautifying Waters,\nall Cankers, and Cure a stinking Breath,\nand preserve the Teeth from rottenness.\n56. To procure an excellent Colour\nand Complexion in the Face, used\nby the C. of S.\nTake the juice of Hyssop, and drink it\nin a Morning Fasting, half a dozen spoonfuls\nin Ale, warm, it will procure an excellent\nColour, is good for the eye-sight,\ndestroyeth Worms, and is good for the\nStomack, Liver, and Lungs.\n57. To keep the Teeth white, and\nkill Worms.\nTake a little Salt in a Morning Fasting,\nand hold it under your Tongue till it be\nmelted, and then rub your Teeth with\nit.\n58. To procure Beauty, an\nexcellent wash.\nTake four Ounces of Sublimate, and\none Ounce of crude Mercury, and beat\nthem together exceeding well in a wooden\nMortar, and wooden Pestle; you must\ndo\nOyls, and Powders.\n197\ndo it at least six, or eight hours, then\nwith often change of cold water, take\naway the salts from the Sublimate, change\nyour water twice every day at least, and\nin seven or eight days it will be dulcified,\nand then it is prepared; lay it on with Oyl\nof white Poppy.\n59. A Beauty-water for the Face, by\nMadam G.\nTake Lye that is not too strong, and put\ntwo peels of Oranges, and as much Citron-peel,\nBlossoms of Camomile, Bay-\nleaves, and Maiden-hair, of each a handful,\nof Agrimony two or three Ounces,\nof Barley-straw chopt in pieces, a handful\nas much Fenugreek, a pint of Vine-\nleaves, two or three handfuls of Broom-\nblossoms; put all these into the Lye, and\nmingle them together, and so wash the\nHead therewith, put to it a little Cinamon\nand Myrrh, let it stand, and wash your\nface therewith every Evening: It is good\nto wash the Head, and to comfort the\nBrain and Memory.\nK 3\n60. Against",
+  "entities": [
+    {
+      "text": "Hyssop",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ale",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Salt",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sublimate",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "crude Mercury",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sublimate",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Oyl of white Poppy",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Lye",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Oranges",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Citron-peel",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Camomile",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bay-leaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Maiden-hair",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Agrimony",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Barley-straw",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Fenugreek",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Vine-leaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Broom-blossoms",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Lye",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cinamon",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Myrrh",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Oyls",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Madam G.",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

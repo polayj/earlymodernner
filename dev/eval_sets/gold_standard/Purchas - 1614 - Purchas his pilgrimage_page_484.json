@@ -1,0 +1,66 @@
+{
+  "doc_id": "Purchas - 1614 - Purchas his pilgrimage_page_484.xml",
+  "text": "Of India in generall, &c.\nCHAP.I.\nThey hold the World to be created, corruptible, round, ruled by the high God. Water\nthey imagine to have beene the beginning of making the World; and that besides\nthe foure Elements, there is a fifth Nature, whereof the Heaven and Starres consist.\nThey intreate of the immortalitie of the Soule, and of the torments in Hell, and many\nsuch like matters.\n454\nk The Indian\nGermanes.\nThe k Germanes, another Order of religious or learned men, are honored amongst\nthem: especially such of them as live in the woods, and of the Woods, both for their\ndiet of those wilde fruits, and their habit of the barkes of trees, not acquainted with\nBacchus or Venus any more then with Ceres. They speake not to the Kings, when they\naske counsell of them, but by messengers; and doe pacifie the angrie gods, as is supposed,\nby their holinesse.\nNext in honor to these, are certaine Mendicants, which live of Rice and Barky\nwhich any man at the first asking giveth them, together with entertainment into their\nhouses. These professe skill in Physicke, and to remedie diseases, wounds, and sterility;\nvery constant in labour and hardship. Others there are, Inchanters and Diviners, Masters\nof ceremonies about the dead; which wander thorow Townes and Cities. Some\nthere are more civill and secular, in their life professing like pietie and holinesse. Women\nalso are admitted unto the fellowship of their studies in this Philosophie, not to\ntheir beds. Aristobulus writeth, that he saw two of these Brachmanes, the one an old\nman shaven, the other yong with long haire, which sometimes resorted to the Marketplace,\nand were honored as Counsellors, and freely tooke what they pleased, of any\nthing there to be sold, for their sustenance. They were annointed with Sesamine oyle,\nwherewith, and with hony, they tempered their bread. They were admitted to Alexanders\ntable, where they gave lessons of patience 1: and after going to a place not far\noff, the old man lying downe with his face upward, sustained the Sunne and showers\nterrible violence. The yonger standing on one foot, held in both his hands a peece of\nwood of three cubits lifted up, and shifted feete, as the other was wearie: and so they\ncontinued every day. The yong man returned home afterward, but the old man followed\nthe King, with whom he changed his habit and life, for which, when as he was\nby some reproved, he answered that he had fulfilled the fortie yeares exercise, which\nhe had vowed. Onesicritus saith, that Alexander, hearing of some religious Observants,\nwhich went naked, and exercised themselves to much hardship, and would m not come\nto others, but would bid men, if they would have any thing with them, to come to\nthem; sent him unto them, who found fifteene of them twentie furlongs from the\nCitie, each of them obseruing his owne gesture of sitting, standing, or lying naked, and\nnot stirring till Sun-setting, in that unsupportable heate, at which time they returned\ninto the Citie. Calanus was one of them. He afterward followed Alexander into Persia,\nwhere beginning to be sicke, he caused a great pile or frame of wood to be made,\nwherein he placed himselfe in a golden chaire, and caused fire to be put to, in which he\nwas voluntarily consumed, telling (if they tell true) that he would meet Alexander at\nBabylon, the place fatall to Alexanders death. AElianus n faith, that this was done\nin a suburb of Babylon, and that the fire was of Cedar, Cypresse, Mirtle, Laurell, and\nother sweet woods: and after he had performed his daily exercise of running, he placed\nhimselfe in the middest, crowned with the leaves of reedes, the Sunne shining on\nhim, which he worshipped. This adoration was the signe which he gave to the Macedonians\nto kindle the fire, in which he abode without any stirring till he was dead;\nAlexander himselfe admiring, and preferring this victory of Calanus before all his\nowne. This Calanus told Onefieritus of a golden world, where meale was as plentifull\nas dust, and fountaines streamed milke, hony, wine and oyle. Which Countrey, by\nmen turned into wantonnesse, Iupiter altered and detained, imposing a life of hardnesse\nand labour, which while men followed, they enioyed abundance; but now that men\nbegin to surfet and grow disobedient, there is danger of universall destruction. When\nhe had thus spoken, he bade him, if he would heare further, strip himselfe, and lye naked\nupon these stones. But Mandanis, 9 another of them, reproved Calanus for his\nharshnes, and, commending Alexander for his love to learning, faid that they inured\ntheir bodies to labour for the confirmation of their minds against passions. For his\nnakednes\n1 Practise of\nprescribed patience.\nm The like\nstubbornnesse\nis yet in their\nJoghies.\nn AElian. Var.\nbahb 5. cap. 6.\n6 Arr. calleth\nhim Dandanis.\nlib. 7.",
+  "entities": [
+    {
+      "text": "Rice",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "India",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Barky",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sesamine oyl",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Persia",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Babylon",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Babylon",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "hony",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "wine",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "oyle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "wood",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "wood",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

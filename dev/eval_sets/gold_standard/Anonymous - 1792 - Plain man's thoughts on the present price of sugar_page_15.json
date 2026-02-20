@@ -1,0 +1,46 @@
+{
+  "doc_id": "Anonymous - 1792 - Plain man's thoughts on the present price of sugar_page_15.xml",
+  "text": "[ 11 ]\nto act consistently, to return to the unpolished and\nuncomfortable state of their savage ancestors. On\nthis occasion it has indeed been shrewdly suggested,\nthat conscience and worldly prudence are for once\nbrought to go hand in hand: so that the man who\nin reality grudges his family the expence of sugar,\nenjoys a snug opportunity of hiding his parsimony\nunder the specious and popular cloak of humanity.\nBut, for my own part, I will continue to suppose,\nthat much the greater part of our present philanthropists\nare actuated by purer motives. Let that,\nhowever, be as it may, as their superior feelings\nurge them so strongly to shake off every convenience\nof life, which in the slightest degree partakes\nof the essence of slavery, the Rights of Man most\ncertainly leaves them at liberty to follow their own\ninclinations, not only in leaving off the use of Sugar,\nbut likewise in making bonfires of their mahogany\nchairs and tables, and lighting them up\nwith the cotton paraphernalia of their wives and\ndaughters; and even in emptying their bags of\ngold and silver into the sea. And, in fact, until\nthese tender-hearted Anti-saccharites have brought\nthemselves to this enviable pitch of self-denial, they\ncan have no right to expect credit from the world,\neither for their sincerity or their consistency.\nC 2\nSUGAR",
+  "entities": [
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "mahogany",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "cotton",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "gold",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "silver",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "SUGAR",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "pitch",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

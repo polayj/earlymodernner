@@ -1,0 +1,26 @@
+{
+  "doc_id": "Banks - 1699 - The unhappy favourite_page_37.xml",
+  "text": "Or, The Earl of Essex.\n29\nTheir Queen, and I am weary of the Load,\nAnd want a Friend like thee to lull my Sorrows.\nC. Ess. Behold these tears sprung from fierce Pain and Joy,\nTo see your wond'rous Grief, your wondrous Pity.\nO that kind Heav'n wou'd but instruct my thoughts,\nAnd teach my Tongue such softning, healing Words,\nThat it might Charm your Soul, and Cure your Breast\nFor ever.\nQueen. Thou art my better Angel then,\nAnd sent to give me everlasting quiet-\nSay, Is't not pity that so brave a Man,\nAnd one that once was reckon'd as a God,\nThat he should be the Author of such Treasons?\nThat he, that was like Caesar, and so great,\nHas had the Power to make and unmake Kings,\nShou'd stoop to gain a petty Throne from me?\nC. Ess. I can't believe 'tis in his Soul to think,\nMuch less to act a Treason against you,\nYour Majesty, whom I have heard him so\nCommend, that Angels words did never flow\nWith so much Eloquence, so rare, so sweet,\nThat nothing but the Subject cou'd deserve.\nQueen. Hast thou then heard him talk of me?\nC. Ess. I have,\nAnd as of so much Excellence, as if\nHe meant to make a rare Encomium on\nThe World, the Stars, or what is brighter, Heav’n.\nShe is, said he, the Goddess of her Sex,\nSo far beyond all Woman-kind beside,\nThat what in them is most ador'd, and lov'd,\nTheir Beauties, Parts, and other Ornaments,\nAre but in her the Foils to greater Lustre,\nAnd all Perfections else, how rare soever,\nAre in her Person but as lesser Gleams,\nAnd infinite Beams that usher still the Sun,\nBut scarce are visible amidst her other brightness.\nAnd then she is so good, it might be said,\nThat whilst she lives, a Goddess reigns in England.\nFor all her Laws are regester'd in Heaven,\nAnd copy'd thence by her- But then he cry'd,\nWith a deep sigh fetch'd from his loyal Heart,\nWell may the World bewail that time at last,\nWhen so much Goodness shall on Earth be mortal,\nAnd wretched England break its stubborn Heart.\nQueen. Did he say all this?\nC. Ess. All this! nay more,\nA thousand times as much, I never saw him\nBut",
+  "entities": [
+    {
+      "text": "Essex",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Earl of Essex",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

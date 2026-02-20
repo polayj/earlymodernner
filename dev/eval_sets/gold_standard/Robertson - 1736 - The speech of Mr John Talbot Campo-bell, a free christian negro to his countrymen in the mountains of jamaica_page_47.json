@@ -1,0 +1,51 @@
+{
+  "doc_id": "Robertson - 1736 - The speech of Mr John Talbot Campo-bell, a free christian negro to his countrymen in the mountains of jamaica_page_47.xml",
+  "text": "[43]\nCountrymen, what a woful Situation you\nare now in: I am well acquainted with the\nGentleman who governs this Island, and\nwith most of the white Inhabitants of\nNote, and can assure you from them, that\nyou will all be forgotten on your Submission,\nand treated in much the same\nManner as the Negroes are who have\ncontinu’d in their Obedience. To be return'd\nto Africa you will not desire, for the Reason\nI just now gave; and if the good\nPeople of England shou'd dislike your being\nreplac'd in a State of Servitude here, I\ncan only say, that then the safety of this\nIsland will not suffer you to remain upon\nit; and then I shall humbly propose, that\nyou may be all sent forthwith, or as soon as\nTransports can be provided, to England.\nHands, well employ'd, are said to be the\nRiches of a Place; and sure you may be\ntrained up as easily to the Plough, feeding\nof Cattle, carding and spinning of Wool,\nbeating of Hemp, or the like, as the\nNegroe-Slaves here are to the Sugar Manufacture\n; and as I know you would gladly\nwork the first seven or fourteen Years for\nbare Foot and Raiment, your Labour\nwou’d, without doubt, over-balance both\nthat, and the Charges of transporting you\nthither. But to be plain, the English Laws,\nhere and every where else, are such, that\nRavishers, willful Munderers, &c. are uncapable\nG 2",
+  "entities": [
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Africa",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Wool",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Hemp",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

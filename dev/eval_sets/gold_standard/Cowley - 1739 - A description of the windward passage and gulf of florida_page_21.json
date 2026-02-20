@@ -1,0 +1,41 @@
+{
+  "doc_id": "Cowley - 1739 - A description of the windward passage and gulf of florida_page_21.xml",
+  "text": "[19]\nsaid or offered in that Light, carries no Weight with\nit, unless the Person be known to have (what is call'd)\nInterest at Court, or a sufficient weight of Gold\nBallast in his Pockets; for to another Person, so\nmany Obstacles lie in his way, such as Difficulties of\nAccess to proper Persons in Power, Loss of Time\nin attempting it, besides some Expences extraordinary\nupon every such Occasion; that it is Odds of\nTwenty to One against him, if ever he can obtain\nan Audience; and after all may be dismissed perhaps\nwith a Curia avisare, and so never hear of it\nmore, or else be told, that it is an Affair already in\nHand, and so the Scheme is father'd upon some\nFavourite or other, who never heard it before. These\nConsiderations have prevailed with me to offer my\nThoughts in this Manner, and that a prejudic'd\nNotion of Self-Interest may have no Room to be\nobjected to my Design, which, in this Shape, must\nevidently appear to be calculated for the Benefit of\nmy Fellow-Subjects of Great-Britain.\nIt is apparent from the Course of Navigation from\nthe West-Indies to Europe (as already described) that\nif our Ships, after their Departure from Jamaica,\nwere secure of some safe Harbour or Ports by the\nway of the Windward-Passage, and the Gulf of Florida,\nto put into, either to refit, refresh, or shelter\nthemselves from bad Weather, or from the Pursuit\nof Enemies; that the Conveniency of such Ports\nor Harbours must certainly prevent the Capture, and\nin",
+  "entities": [
+    {
+      "text": "Gold",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Great-Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West-Indies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Gulf of Florida",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Europe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Windward-Passage",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    }
+  ]
+}

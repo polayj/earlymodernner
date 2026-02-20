@@ -1,0 +1,26 @@
+{
+  "doc_id": "Child - 1690 - A discourse about trade_page_175.xml",
+  "text": "(66)\nBurrough of Southwark, and all other\nplaces within the usual Lines of Communication,\ndescribed in the weekly Bills of\nMortality, may by Act of Parliament be\nassociated into one Province or Line of Communication\nfor relief of the Poor.\n2. That there be one Assembly of men\n(and such as they shall from time to time\nappoint and deputise) entrusted with\nthe care for, and measure of all the Poor\nwithin the said Pale or Line of Communication.\n3 That the said Assembly be incorporated\nby Act of Parliament, with perpetual\nSuccession, by the name of Fathers of the\nPoor, or some other honourable and\nsignificant Title.\n4. That all Constables, Church-wardens,\nOverseers, or other Officers in all Parishes,\nwithin the said Line, be subordinate and\naccomptable to the said Father of the Poor\nand their Deputies for, and in all things relating\nto the Poor.\n5. That the said Fathers of the Poor may\nhave liberty to assess and receive into their\ncommon Treasury, for relief of their\nPoor, so much Money from every Parish\nas they yearly paid to that purpose any of the\nthree Years preceding this Constitution, and\nto",
+  "entities": [
+    {
+      "text": "Southwark",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Burrough of Southwark",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Fathers of the Poor",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Parliament",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

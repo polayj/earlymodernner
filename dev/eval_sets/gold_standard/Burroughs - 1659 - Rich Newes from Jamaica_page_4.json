@@ -1,0 +1,36 @@
+{
+  "doc_id": "Burroughs - 1659 - Rich Newes from Jamaica_page_4.xml",
+  "text": "( 2 )\nward Generall, which brings this welcome\n<obscured/> from <obscured/> parts. <obscured/>\nShips named the Morstanmore, the Hector,\nand the Cagway, the last being a Prize\nVessell taken in those parts, these Ships\nsailed from Jamaica over unto the Maine,\nand there fell upon two rich and considerable\nTownes called Core, and Comena, which\nTownes they pillaged where they met\nwith a great Booty and rich plunder, and\nafter the Pillaging of the Towne the English\nquickly resolved, the Enemy was such as\ndeserved no better a Farewell, then the\nburning of those Townes, which was immediately\ndone to the great terror of the Spaniard;\nAt their returne from the Maine\nhomeward they met with two Dutch Ships\nwith Spanish Colours, who resisted the\nEnglish but was by the English taken and\nbrought into Poynt-Cagway, the creature\ntaken is valued at the rate of three hundred\nthousand pounds. There is likewise intelligence\ncome from those parts, that the Diamond\nhath brought in a Prize laden with\nCoca-",
+  "entities": [
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Maine",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Core",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Comena",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Maine",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Poynt-Cagway",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    }
+  ]
+}

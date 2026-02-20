@@ -1,0 +1,36 @@
+{
+  "doc_id": "Anonymous - 1803 - Practical Rules for the management and medical treatment of negro slaves in the sugar colonies_page_243.xml",
+  "text": "( 233 )\nfevers; for whilst it is notorious, that above nineteen\nout of twenty of the whites are carried off by\nthem, very few negroes, not one in a hundred, die\nof that disorder, though they are at least as subject to\nfeverish affections as the whites. An investigation\nof the cause of this phenomenon, would lead too\nfar from our present purpose, and will, therefore,\nbe reserved for its proper place.\nThe most nauseous drugs, unless of the emetic\ntribe, seldom ruffle the stomachs of negroes, or\ndispose them to vomit. Bark, they retain in almost\nany quantity, and their bowels resist the most drastic\npurges, without suffering much inconvenience. I\nhave given, for the tape-worm, ten grains of calomel,\nand twenty-five of gamboge, to a constitution,\nwhich I had before found to be almost immoveable,\nwithout their occasioning one puke, or more than\nfour or five motions of the belly. Blisters exercise\nbut feeble powers of irritation; and there is reason\nto think that the sensibilities, both of their minds and\nbodies, are much less exquisite than our own; as\nthey are able to endure, with few expressions of\npain, the accidents of nature, which agonize white\npeople. It is difficult to account for this otherwise\nthan by supposing (which probably is the case) that\nanimal sufferings derive a great part of their activity",
+  "entities": [
+    {
+      "text": "Bark",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "calomel",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "gamboge",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "lead",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

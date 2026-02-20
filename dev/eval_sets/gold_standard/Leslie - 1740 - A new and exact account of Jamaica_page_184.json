@@ -1,0 +1,66 @@
+{
+  "doc_id": "Leslie - 1740 - A new and exact account of Jamaica_page_184.xml",
+  "text": "176\nLETTER VII.\nstice of Peace, if not exceeding 40s. if more,\nin any Court of Record.\nNo Person whatsoever shall kill any Cattle,\nHorse, Mare, Mule, or Assinego, under the\nPenalty of 15l. to be recovered in any Court\nof Record, by the owner or Proprietor of the\nsaid Beast.\nAll Owners of Neat Cattle shall keep one\nwhite Man at each Pen, and two white Men\nat every Pen, whereunto belongs above 200\nHead of Cattle, Penalty 10 l. for every white\nMan wanting for the Space of three Months,\nHalf to the Poor of the Parish, Half to the\nInformer.\nAll Owners of Cattle shall pen them once\nin three Nights at least, or pay the Damage\ndouble which such Cattle shall do.\nStrays shall belong to the Proprietor of the\nGround where taken up, provided he cries the\nStray three Court Days with proper Descriptions,\nand turns the same loose in the feeding\nGrounds, with a Withe about the Neck for an\nYear; and if not claimed in that Time, the\nproperty shall be his. Ear mark'd, or burnt\nmark'd Cattle shall belong to the right Owners,\nif claim'd any Time after the Expiration\nof the Year.\nThe Clerk of each respective Court of Record\nin this Island shall make Entry, and toll\nall Sorts of Cattle that shall be sold from one\nPer-",
+  "entities": [
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Horse",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mare",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mule",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Assinego",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Court of Record",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "Anonymous - 1766 - The privileges of the island of jamaica vindicated_page_64.xml",
+  "text": "( 44 )\nus of, without our consent, whilst Great Britain\ncontinues a free and independent\nKingdom, and her children retain any degree of\nlove for the laws of England and for civil liberty.\nTo say, that our rights and possessions are\nsecured to us by the laws of England, and yet\nat the same time, that we have no title to those\npowers and privileges, without which they cannot\nsubsist, is downright impudent nonsense;\nit is mocking us with the sound of Liberty\nand Property, and robbing us of the substance.\nIf we are freemen, and not slaves, our liberties\nare as much our inheritance, as our\nlands. If our lives, liberties, and properties\nare not our inheritance, secured to us by the\nsame laws, determined by the same jurisdictions,\nand fenced in and defended by the same\nconstitution, as the wisdom of our ancestors\nfound it necessary to establish, for the preservation\nof these blessings in our mother country;\nthen, are the subjects of the Colonies,\nnot freemen but slaves; not the free subjects,\nbut the outcasts of Britain; possessing these\ninvaluable blessings, only as tenants at will,\nthe most uncertain and wretched of all tenures;\nand liable to be dispossessed, by the\nhand of power.\nLord chief justice Coke, (that oracle of\nlaw) being a member of the house of Commons,\nin the reign of Charles the 1st. said, in\na conference with the Lords: \"For a free\"\nman to be a tenant at will of his liberty; I\n\" will",
+  "entities": [
+    {
+      "text": "Great Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Lord chief justice Coke",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "house of Commons",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Charles the 1st",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

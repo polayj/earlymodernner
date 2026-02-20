@@ -1,0 +1,61 @@
+{
+  "doc_id": "Baker - 1775 - An essay on the art of making Moscavado sugar wherein a new process is proposed_page_1.xml",
+  "text": "( 43 )\nHouse Ladle, and another putting in a Quart at a\nTime. Let the Heat of the Liquor be now raised to\n140 Degrees of the Common Pocket Thermometer,\nlet this Heat be continued one Hour. Skim it carefully.\nTo five Gallons of Water put ten Ounces of\nwhite Marle, Tobacco Pipe Clay, or other white Bolar\nEarth: if you have not any of these, ten Ounces of\nFuller's Earth. Let it be previously powdered, and\nwell mixed with the Water. Stir this in as the Lime\nand Water were directed to be; increase the Heat to\n160. Continue it half an Hour.—Skim.—Increase\nyour Heat to 190. Continue it half an Hour.—Skim.\nIncrease the Fire to 200, and shut the Door of your\nFire place, which puts it out. Let your Liquor remain\nfour Hours undisturbed, and then draw it off\ninto the Receiver: if your Process succeeds your\nLiquor will be as bright as Madeira Wine.\nI should observe that when you have done filling\none Clarifyer you go on to the next, repeating the\nsame Process. From the Receiver your Liquor is to\nto be conducted into the first Copper. For fear of\nburning, you may throw a Gallon into each Copper\nhung to the same Fire, but after let your Liquor run\ninto the first Copper: when full, by means of the\nGroove it will fill the second; and so on to the last\nCopper; when all are full let a small stream run into\nthe first Copper just sufficient to equal the Evaporation\nand keep them all full. By this Management as\nthe first Copper receives the fresh Liquor, it's Contents\nwill be constantly diluted; the Contents of the\nsecond will be more dilute than those of the third,\nand so on to the last Copper; where the Liquor will\nbe",
+  "entities": [
+    {
+      "text": "Tobacco Pipe Clay",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "white Marle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Fuller's Earth",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Madeira Wine",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Copper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Copper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Copper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Copper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Copper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Copper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Copper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

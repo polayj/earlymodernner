@@ -1,0 +1,86 @@
+{
+  "doc_id": "Young - 1807 - The West-India Common-place Book_page_149.xml",
+  "text": "WEST-INDIA COMMON-PLACE BOOK.\nExports from the British Sugar Colonies to the British Provinces in\nAmerica, Canada, Nova Scotia, and Newfoundland.\nReturn to House of Commons, May 5, 1806.\n123\nRum.\nSugar.\nCoffee.\nCotton.\nGallons.\nCwt.\nCwt.\nlb.\n1787\n777,360\n9019\n546\n1500\n1793\n613,898\n5106\n603\n8690\n1794\n525,720\n4615\n80\n6304\n1795\n204,965\n3320\n99\n1600\n1796\n307,124\n7332\n514\n1550\n1797\n486,706\n3893\n427\n12,850\n1798\n384,953\n4508\n802\n18,250\n1799\n664,258\n9933\n1130\n750\n1800\n186,449\n10,660\n775\n4274\n1801\n569,691\n10,366\n935\n500\n1802\n584,673\n11,397\n257\n14,950\n1803\n792,474\n13,906\n1353\n3250\nThe above returns may be referred to in a comparative view,\non the taking into consideration the next branch of West India\ntrade, namely, that with the United States of America, and\nwhich, as a matter in controversy, not less important to the mother-country\nthan to its West India colonies, I shall discourse of\nmore at large in the ensuing chapters.\nR 2",
+  "entities": [
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Rum",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Coffee",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cotton",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "WEST-INDIA",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West India",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West India",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "America",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "United States of America",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "British Sugar Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "British Provinces",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Canada",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Nova Scotia",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Newfoundland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "House of Commons",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

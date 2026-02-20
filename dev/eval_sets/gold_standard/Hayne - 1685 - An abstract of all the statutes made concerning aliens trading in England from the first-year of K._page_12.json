@@ -1,0 +1,211 @@
+{
+  "doc_id": "Hayne - 1685 - An abstract of all the statutes made concerning aliens trading in England from the first-year of K._page_12.xml",
+  "text": "16\nConcerning Aliens\nSir Peter Killigrew's; I stayed but few hours at Penryn (the Wind being\nat Northwest, which was fair to set Sail for Holland,) but went\nthat night for Falmouth; where I found that my Information was\ntrue, and it being Sunday the next day, I intended only to have an\nEye upon the Ship, and, on Monday to examine into the Truth of the\nwhole. But on Sunday morning, to my surprize, I was invited to\nDinner by Sir Peter; accordingly I waited on him, and after Dinner\nhe took me aside, and told me divers things relating to that Ship,\nwhich made me very much admire, for that I knew Sir Peter was\nnot bred a Merchant, and that this Ship in particular was dispatch'd\nby Mr. Bryan Rogers a great Merchant in that place: But I soon\nfound out the meaning of his being so Earnest, and it was this, Sir\nPeter Killigrew had a little before Built a Key at the Rump end of\nthe Town of Falmouth, and Houses thereon; which Key he got by\nFriendship to be declared the only publick Key for Shipping and Unloading\nof Goods and Merchandize, according to the Act of Frauds\n14 Car. 2. which did belong to that Town and other Ports adjacent,\n(though to that very place it is no more proper, than for all the\nGoods that come into London to be Landed at Ratcliffe) And a\nMerchant dwelling in the Body of the Town, near the Marketplace,\nprotested that the Charges of Landing his Goods at that\nKey, and bringing them to his House, cost him as much as the\nFraight thereof from Plymouth did, (which is about 20 Leagues distant,)\nalso the Custom-house &c. was newly settled there, and\nthis was the first Ship of any great concern that ever had Unloaded\nat that Key, which had acted so ill, that he doubted it might administer\nnew matter of debate, &c. In fine, I promised Sir Peter not\nto act any thing till morning, and then would be as moderate as the\nCase would possibly bear, and Sir Peter promised the Ship, (being\ncalled the Experiment of London, Henry Sutton Master,) should not\nstir; and so we parted, with intention to meet again next morning:\nOn which I went towards my Lodging and in the way met Mr. Daniel\nShewell the Surveyor, with whom I had some Discourse, and\nthen went into my Lodging, being the Sign of the F eece, kept by\nMr. Dennis Russel, Notary publick, and then Mayor of the Town;\nI had not been there long before Mr. Mayor came accidentally into\nour Company, and said, He thought the Quaker was mad, (meaning\nSutton the Master of the Ship) for that he was hunting about for his\nmen to get them on board, in order to set Sail immediately for Amsterdam:\nThen 'twas high time for me to stir, and accordingly I did,\ngetting\nTrading in England\n17\ngetting on board as soon as possibly I could, where I laid a stop on\nthe Ship, put Wayters on board, &c. to secure her; And because I\nknew all the Officers in Falmouth had some hand in her lllegal dispatches,\n&c. And that I could depend on the Friendship of none\nthere but Mr. George Wethiell Deputy Customer, and Mr. Peter Hill\nLand-wayter; I sent to Mr. Thomas Enys Collector of Penryn for\nassistance, which I readily had, and so the Ship was stopt: The\nnext morning early, I had notice that the Mr. endeavoured to force\nhis way, on which I applyed to Major Collins Deputy Governour of\nPendennis Castle, under the Right Honourable my Lord Arundel of\nTrerice, for assistance in Case of necessity; who frankly complyed\nwith my Request, and assured me the Ship should not go out without\nmy Order; Then I returned to meet Sir Peter Killigrew at Customhouse,\nwhere I found both Him and Mr. Rogers; I told them on\nwhat grounds I had stopt the Ship, that the Goods were Forfeited\nby the Acts of Tunnage and Poundage the 12 Article to the Book of\nRates and by other Statutes, they being Jews Goods, which ought\nto pay Alien Custom, and contrary to Law had been all Entred in\nthe Name of Henry Sutton an Englishman: They both seemed concerned\nat the Discovery, and used many Arguments to perswade\nme to let the Ship pass; and particularly, for my so doing, I should\nhave 50 Guineys, and the best Horse Sir Peter had: But all their\nArguments prevail'd no farther with me, than that I would give\nthem a Meeting again next morning, by which time I had got the\nfollowing Information from five Sea-men belonging to the same Ship\non Oath, riz.\nSeamens Affidavit.\nWE Thomas Bummer, Richard Randall,\nNicholas Downing, Thomas Dawson,\nand Robert Adamson Mariners, lately belonging to\nthe good Ship, the Experiment of London, Henry Sutton Master, of\nthe Burthen of three hundred Tuns or there abouts, Laden with Sugars\nand other Commodities, bound from the Island of Barbadoes to some\nPort of England, and from thence to Amsterdam: And upon the\nHoly Evangelist do freely and voluntarily Swear, that they arrived in\nthe Port of Falmouth in the Kingdom of England, on or about the 27th.\nday of September last past from the said Island of Barbadoes. And these\nDeponents farther say, that the greatest quantity of the Sugars and\nMerchandizes loaden on board the said Ship, do really belong to Jews, and\nparticularly to Aaron Barscoe, Abraham Barrasse, one Rodrigo and\nLewis",
+  "entities": [
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Barbadoes",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Barbadoes",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Holland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Amsterdam",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Amsterdam",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Penryn",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Falmouth",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Falmouth",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ratcliffe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Plymouth",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Falmouth",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Penryn",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Pendennis Castle",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Trerice",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Falmouth",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sir Peter Killigrew",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Bryan Rogers",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Daniel Shewell",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Dennis Russel",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. George Wethiell",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Peter Hill",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Thomas Enys",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Major Collins",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "my Lord Arundel of Trerice",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Sir Peter",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Henry Sutton",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Aaron Barscoe",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Abraham Barrasse",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thomas Bummer",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Richard Randall",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Nicholas Downing",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thomas Dawson",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Robert Adamson",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

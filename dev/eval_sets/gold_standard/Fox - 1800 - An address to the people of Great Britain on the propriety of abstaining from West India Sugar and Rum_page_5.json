@@ -1,0 +1,106 @@
+{
+  "doc_id": "Fox - 1800 - An address to the people of Great Britain on the propriety of abstaining from West India Sugar and Rum_page_5.xml",
+  "text": "[5\nour duty to contribute our share; and to act from conscience,\nas we should in similar cases from feeling and inclination.\nFor instance: Let us suppose the Algerines to establish sugar\nplantations, and resort to the banks of the Thames for slaves.\nSuppose our wives, our husbands, our children, our parents, our\nbrethren, swept away, and the fruit of their labour, produced\nwith agonizing hearts and trembling limbs, landed at the port of\nLondon. What would be our conduct? Should we say, \"Sugar\nis a necessary of life: I cannot do without it. Besides the quantity I\nuse is but small: and though it be very criminal in the Algerines to en\nslave others, I am not bound to look to the nature or consequence of the\ntransaction. Paying for the sugar, I have a right to consume it, how\never it may have been obtained.\" If such would be our language in\nthat case, be it so on the present occasion. For let us recollect that\nin both cases the enslaved are our brethren.\nAnd let us only suppose an Englishman were to receive injuries,\nthat bore but the slightest resemblance to those daily committed\nin our islands, the nation would be inflamed with resentment,\nand clamorous to avenge the injury. And can our pride\nsuggest, that the rights of men are limited to any nation, or to any\ncolour? Were any one to treat a fellow creature in this country\nas we do the unhappy Africans in the West-Indies; struck\nwith horror, we should be zealous to deliver the oppressed, and\npunish the oppressor. Are then the offices of humanity and functions\nof justice to be circumscribed by geographical boundaries?\nCan reason, can conscience justify this contrast in our conduct,\nbetween our promptitude, in the one case, and our torpor in the\nother?—Mr. Addison justly observes, that \"humanity to become\nestimable must be combined with justice.\" But we seem to\nact as if we thought, that the relief of our fellow creatures, and\nprotection from injuries, were works of supererogation; to be\ngranted or with-held, as caprice, or inclination may suggest.\nAfter the important considerations adduced, it might be reckoned\na degradation of the subject to mention the national dignity;\nor even that might induce us to counteract a powerful body\nof men, who are trampling under foot, the dictates of humanity,\nand the interest of the nation: men, who have received for\nsugar alone, above a million per ann. more than it would have\ncost at other markets. From Mr. Botham's evidence it appears,\nthat in Batavia, where labour is as high as in England, sugar equal\nto the best West-India, is sold at 1d 1/2 per pound. These are\nthe men who are calling on us to aid the operation of their whips\nby the terrors of our bayonets; and to misapply the public treasure\nto support individuals in violating every principle of law\nand justice, and to defend them in the most dreadful tyranny\nover half a million of persons, born in islands, which, when it\nserves their purpose they pretend to be ours; but of which they\nhave virtually usurped the sovereignty: and have the audacity\nto tell the British legislature, \"That they cannot abolish the slave\ntrade; for that if England refuses to furnish them with slaves,",
+  "entities": [
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West-Indies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West-India",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "sugar plantations",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Thames",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Batavia",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slave",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slave",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mr. Addison",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Botham",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "British legislature",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "doc_id": "Anonymous - 1764 - Astronomical Observations Made at the Island of Barbados; At Willoughby Fort_page_1.xml",
+  "text": "[389]\nLIX. Astronomical Observations made at the\nIsland of Barbados; at Willoughby Fort;\nand at the Observatory on Constitution\nHill, both adjoining to Bridge Town. By\nNevil Maskelyne, A. M. Fellow of Trinity\nCollege, Cambridge, and F. R. S.\n[Read December 20, 1764.]\nN. B. All the observations of the first satellite of Jupiter were\nmade with a two foot reflector made by Mr. Bird, having\nan aperture of 3 8/10 inches in diameter, except where\nthey are marked as made with my 18 inch reflector made\nby Mr. Short, having an aperture of four inches and an\nhalf in diameter. And the eclipses of the other satellites\nwere all observed with the 18 inch telescope, except a few\nmarked as made with Mr. Bird's two foot reflector. The latitude\nof Willoughby Fort is 13.° 5' N. and that of the Observatory\n13.° 5.' 15\" N. This agrees with the latitude I observed\nwhen our ship came to anchor at our first arrival in\nCarlisle Bay, which, carefully calculated, and reduced to St.\nMichael's Church, gives 13.° 5.' 30\" for its latitude. The\nObservatory is about 200 yards due east of the church, and\nWilloughby Fort is about 1600 feet distant from the same,\nbearing S. W. So that the Observatory is about 15\" of longitude,\nor 1\" of time to the east of Willoughby Fort. The\nlatitudes of Willoughby Fort and the Observatory, set down\nabove, result from altitudes of the sun taken with a bason of\nquick-silver by the brass Hadley's sextant made by Mr. Bird,\nbeing calculated from them, and the apparent time known\nfrom equal altitudes of the sun taken with the equal attitude\ninstrument.\nAt",
+  "entities": [
+    {
+      "text": "Barbados",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Willoughby Fort",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Willoughby Fort",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Willoughby Fort",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Willoughby Fort",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Willoughby Fort",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Bridge Town",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cambridge",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Carlisle Bay",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Constitution Hill",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Michael's Church",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Nevil Maskelyne",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Bird",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Short",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Trinity College",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "quick-silver",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "doc_id": "Anonymous - 1732 - Some considerations touching the sugar colonies_page_1.xml",
+  "text": "( 12 )\nthat this may give us a farther Prospect; not only Sugar, but\nGinger too being, as I have been informed, a very good Commodity\nas high as the Levant. And if so, or if there should\nbe found any other Motive to proceed so far, I cannot think\nit altogether impossible but that suitable Means and proper Regulations\nmay be thought on. However, the Advantages that\nmay arise from any Trade can never be fully known but by\nExperience: and this in particular, as it will be among a rich\nPeople, plenteous in Money, affords at present as fair a Prospect\nas any.\nIF then a License for this Spanish Trade should be deemed\nadviseable, as I hope it will, it may be no unprofitable Part to\nconsider, upon what Terms our Merchants are like to stand,\nwith relation to those of France, who do carry on, and will\nstill continue the Trade against them. And herein particularly\nas to Duties.\nTHE Author of the Political State, in that for the Month\nof April 1731, has this Remark: \"Even in exporting Sugars\"\n(says he) to our Plantations on the Continent, the French\"\nSugar Colonies have a great advantage over ours. For as\n\" our Planters pay four and a half per Cent. upon exporting\n\" their Sugars from their own Plantations, and the French pay\n\" but one per Cent. it's evident that the French may sell their\n\" Sugars in our Plantations upon the Continent three and a\n\" half per Cent. cheaper than our own Colonies can do, granting\n\" that the prime Cost be equal in both Colonies; which is\n\" an advantage sufficient to ruin any Trade in the World. *\"\nBut I must take notice, That the enumerated Duty, which is\nFive Shillings per Hundred on white Sugar, and Eighteen Pence\nper Hundred upon brown Sugar, is not there included or considered\nat all, and which is nearest now Ten per Cent. more:\nSo that the present Difference between the French and Us, in\nthe Duties of Sugars upon this Trade to North America, instead\nof Three and a Half per Cent. is nearest in reality Thirteen and\n* Page 352.\na",
+  "entities": [
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ginger",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Levant",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "French Sugar Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "white Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "brown Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "North America",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    }
+  ]
+}

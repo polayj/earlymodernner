@@ -1,0 +1,46 @@
+{
+  "doc_id": "Prinsep - 1794 - Bengal Sugar. An account of the method and expence of cultivating the sugar-cane in Bengal_page_1.xml",
+  "text": "( 14 )\nvery soon become the principal carriers of\nthe Indian seas, and, in a great degree, the\nmedium of conveyance from India to Europe.\nIn the accompanying statement, marked A,\nyou will perceive, that they can furnish\ntonnage for £5. 6s. 0 5/8d. per annum, of course,\nif their European cargo is charged with even\nnine months freight, or £3. 19s. 6d. or say\nin round numbers £4; they can sell all goods\nthey export from hence to Europe £11 per\nton cheaper than we can, independent of\nduties and a choice of markets; which, applied\nto the before-mentioned calculate for\nthe port of Ostend, gives them an advantage\nbeyond what I have stated, in favor of the\nOstend trader, on 800 tons of Sugar, in the\nsum of £4,800, or £27,617 more profit than\nthe English merchant trading to the port of\nLondon.\nIt has been well observed, that no arguments\ncan resist the logic of facts, nor\nwill any barriers which policy may oppose\nin support of artificial advantages, resist the\nnatural force of things, which in commerce\nis profit; and, as our laws cannot\nbind the Americans, they will speedily\nsupercede",
+  "entities": [
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "London",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "India",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Indian seas",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Europe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Europe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ostend",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Ostend",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    }
+  ]
+}

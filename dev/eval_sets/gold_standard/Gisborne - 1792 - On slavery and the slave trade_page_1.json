@@ -1,0 +1,41 @@
+{
+  "doc_id": "Gisborne - 1792 - On slavery and the slave trade_page_1.xml",
+  "text": "[ 13 ]\nor exercised a power over the liberty of another,\nwithout having made full and impartial enquiries whether\nthat liberty is justly forfeited, and is also justly at\nthe disposal of the seller; or without being convinced\nin his conscience that the fact is so; whoever detains the\nslave in bondage directly or indirectly a moment after\nthat conviction has been done away; or a moment\nafter the conclusion of the time for which the slavery\nmay justly be continued; whoever does not faithfully\ndischarge the duties of a master, or transfers his slave to\nanother whom he does not think likely to discharge\nthem, commits in each of these cases a flagrant sin\nagainst God; and in most of them as flagrant an act\nof injustice to man.\nThe requisites necessary to reconcile a state of Slavery\nwith justice, applied to the mode of purchasing\nSlaves on the Coast of Africa.\nNow are any of the indispensable requisites to the\nacquisition of a just title to a slave scrupulously attended\nto on the coast of Africa? Are any of them,\nexcept the honest payment of the price, attended to\nat all? Does the purchaser make a conscientious inquiry,\nor any inquiry whatever, into the fundamental\npoints, whether the liberty of him who is exposed\nto sale be justly forfeited, and also be justly at the\ndisposal of the seller? Can he, who has bought a\nthousand slaves, point out any five of them with\nrespect to whom he has sufficient reason to believe\nthis",
+  "entities": [
+    {
+      "text": "Africa",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Africa",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slave",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slave",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slave",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

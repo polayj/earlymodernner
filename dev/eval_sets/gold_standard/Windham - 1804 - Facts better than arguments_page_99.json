@@ -1,0 +1,16 @@
+{
+  "doc_id": "Windham - 1804 - Facts better than arguments_page_99.xml",
+  "text": "92\nWhen it became necessary to assert our\nhonour and independence, against the menaces of\nthe First Consul, the unanimity of the nation\nproved its sense of the conduct of ministers. In\nall the official papers which have been published\nby the two governments, there is not a single\npassage marked by any pusillanimous or timid\nfeeling on their part. The whole is firm, decisive,\nand consistent; exhibiting a strong disposition\nto cultivate peace, without disparagement\nto the national character and safety. As the discussions\ncontained in those papers, involved\nsome of the dearest rights of Englishmen, the\nsentiments and language of ministers corresponded\nwith the dignity of the subject. They\nvindicated our constitution, liberties, and laws,\nin so forcible a manner, that none but the most\nbesotted tyrant could have disputed the justice\nof their claims.\nBut while appealing to every public document;\nto the declarations of his Majesty; reechoed\nby ministers in both houses of Parliament;\nas proofs of the firm tone invariably\nmaintained towards France, I challenge you or\nany of the opposents of administration to adduce\na single instance to the contrary. Vague\nand general assertions, which may be easily made",
+  "entities": [
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "houses of Parliament",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

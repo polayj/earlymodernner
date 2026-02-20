@@ -1,0 +1,56 @@
+{
+  "doc_id": "Anonymous - 1682 - A letter from Jamaica to a friend in London concerning kid-napping_page_1.xml",
+  "text": "A LETTER from JAMAICA, to a Friend in\nLONDON, concerning Kid-Napping.\nSIR,\nYOURS found me a little Indispos'd; but yet I made the best Enquiry my\nHealth and Opportunity would give me leave to Answer your Desires.\nThe Relation you have sent me of the great Abuses in the Spiriting away\nof Children, makes a very sad Story; and must needs be a Lamentable\nGrief to their Parents that have lost them. You should have done well to have sent\nme the Names of those that are missing; or if you think fit to have me look any\nfurther into this business, pray let me receive your further Directions at your best\nleisure. We are not without Apprehensions here in this Place for the Divisions in\nEngland; I wish we may yet live to meet again in Comfort and Peace.\nThe Paper which I send you here enclosed, is all I was able to do in so short a time;\nbut upon the Truth of it you may depend. I do not know but you may find in\nthis List some unhappy People that you look for ; and it would be well if you made\na Publication of it in one of the comon News Papers: Mr. Janeway, or Mr. Curtis,\nI make no doubt will do it for you, and it may be so Notified, as that any of those\ngood People that have lost their Children, may understand whither to repair for satisfaction.\n\nIf you know no better a way, you might do well to apply your self to\nMr. JOHN WILMORE in Jewen-street, who is a Planter himself, and knows\nall the Tricks of those Rascals. Besides that, he is a Man of Business in the City, a\nlarge Acquaintance, a True Protestant, and (if I am not mistaken) a Common-CouncilMan.\nHe is very Industrious and Charitable beside; and if there should be occasion,\nhe is as likely to assist you as any Man I know: tho it were to go as far as the Hope\nupon the Errand, to save a Poor Child from Want, and Slavery. I need say no more\nto you, than that if you have his Friendship, he can tell you all the ways of the Trapan:\nhow they take up Children, Inviegle them away, and the conveieances they\nhave for the concealing of them. These Kid-Nappers will tell you perhaps that a\nChild was ready to be eaten up with Vermin, and they took him in Compassion;\nthat they could not get quit of him, or persuade him to come back it may be, tho\nhe were ready to leap into the Sea: wherefore you must get a discreet Justice to\nexamine the mater; so the rest I leave to your discretion.\nLittle Will takes to his business very well; and I hope his Friends will have Comfort\nof him. Pray Commend me to all my good Friends and Acquaintance in your\nNeighbourhood, and pardon all Faults; for I must immediately take my leave of you,\nand Subscribe my self your Affectionate Kinsman and Servant,\nT. M.\nIf any Person Named in the following List, shall be found to have been Spirited\naway: Notice may be left with Mr. Walter Davis, in Amen-Corner, who will give\nDirections how to make a further Enquiry.\nJamaica, Decemb.\n30. 1681.",
+  "entities": [
+    {
+      "text": "JAMAICA",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "LONDON",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Jewen-street",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Amen-Corner",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Mr. Janeway",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Curtis",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. JOHN WILMORE",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Walter Davis",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

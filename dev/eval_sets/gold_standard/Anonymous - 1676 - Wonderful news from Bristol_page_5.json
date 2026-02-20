@@ -1,0 +1,36 @@
+{
+  "doc_id": "Anonymous - 1676 - Wonderful news from Bristol_page_5.xml",
+  "text": "(3)\nthis worder in the same manner it happen'd, as follows.\n\nAt East-Bishford, in the Parish of Bedminster two\nmiles from Bristol in the County of Summerset, on\nMunday the third of July last past, at the house of\none Blianor Holder Widdow, this strange Accident\nhappen'd, being first taken notice of thus, The\nsaid widdow and four of her daughters and three\nneighbours being altogether, on asudden they\nheard a cry of a Kitling or young Cat which the woman\nof the house wondered at because her Cat\nhaving Kittend the week before, she or some of her\npeople had caused all the young ones to be drowned;\nBut this cry continuing, made them look very\nDiligently about the house, but could not a good\nwhile find from whence it proceeded, At last observing\nit came from under a Dresser Tho. Holbrook,\na young lad going to look there saw a Hen sitting,\nand thinking the Cat might be hid behind her,\nHu'sht her away, who thereupon comming forth\ninto the Room, one of the maids that owned the\nHen, looking upon her, cried out what has this fellow\ndone? he has spoil'd my Hen, see all her Guts\nare comming out; for so she at first glance apprehended,\nbut when they began to look more near\nand",
+  "entities": [
+    {
+      "text": "East-Bishford",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Bedminster",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Bristol",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Summerset",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Blianor Holder Widdow",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Tho. Holbrook",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

@@ -7,27 +7,11 @@ This script:
 """
 import json
 import sys
-import platform
 from pathlib import Path
 from collections import Counter
 
 
-def get_base_path():
-    """Return base path depending on OS (Windows vs WSL)."""
-    if platform.system() == "Linux" and Path("/mnt/z").exists():
-        # WSL
-        return Path("/mnt/z/NER")
-    else:
-        # Windows
-        return Path("Z:/NER")
-
-
-BASE_PATH = get_base_path()
-GOLD_DIR = BASE_PATH / "gold_reviewed"  # Human-reviewed gold standard
-# Original: BASE_PATH / "gold"
-# GPT-annotated: BASE_PATH / "gold_complete"
-# Augmented: BASE_PATH / "gold_augmented"
-# Cleaned: BASE_PATH / "gold_augmented_cleaned"
+GOLD_DIR = Path(__file__).parent / "eval_sets" / "gold_standard"
 OUTPUT_DIR = Path("evaluation_results")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -35,17 +19,19 @@ ENTITY_TYPES = ["TOPONYM", "PERSON", "ORGANIZATION", "COMMODITY"]
 
 
 def load_gold_standard():
-    """Load all gold standard documents."""
-    docs = []
+    """Load all gold standard documents, keyed by doc_id (without extension)."""
+    docs = {}
     for file_path in sorted(GOLD_DIR.glob("*.json")):
         with open(file_path, 'r', encoding='utf-8') as f:
             doc = json.load(f)
-        docs.append({
+        # Key by stem (no extension) so it matches prediction doc_ids that may differ in extension
+        key = Path(doc['doc_id']).stem if '.' in doc['doc_id'] else doc['doc_id']
+        docs[key] = {
             'doc_id': doc['doc_id'],
             'text': doc['text'],
             'entities': doc['entities'],
             'file': file_path.name
-        })
+        }
     return docs
 
 
@@ -76,6 +62,9 @@ def evaluate_predictions(gold_docs, predictions, entity_type):
     Uses partial matching: if a prediction is a substring of a gold entity
     (or vice versa), it counts as a TP rather than FP+FN.
     E.g., "Lords of Trade" predicted vs "Lords of Trade and Plantations" in gold = TP.
+
+    gold_docs: dict keyed by doc_id stem -> gold doc
+    predictions: list of prediction dicts (each with 'doc_id' field)
     """
 
     overall_tp = 0
@@ -87,7 +76,16 @@ def evaluate_predictions(gold_docs, predictions, entity_type):
     true_positives = Counter()
     partial_matches = Counter()
 
-    for gold_doc, pred_doc in zip(gold_docs, predictions):
+    skipped = 0
+    for pred_doc in predictions:
+        # Match by doc_id (strip extension to normalize)
+        pred_id = pred_doc['doc_id']
+        key = Path(pred_id).stem if '.' in pred_id else pred_id
+        gold_doc = gold_docs.get(key)
+        if gold_doc is None:
+            skipped += 1
+            continue
+
         # Get gold entities of target type (gold uses 'label')
         gold_entities = set(
             normalize_text(e['text'])
@@ -182,7 +180,7 @@ def main():
     for etype in ENTITY_TYPES:
         count = sum(
             sum(1 for e in doc['entities'] if e.get('label') == etype)
-            for doc in gold_docs
+            for doc in gold_docs.values()
         )
         print(f"    {etype}: {count}")
 
@@ -195,12 +193,18 @@ def main():
                 predictions.append(json.loads(line))
     print(f"  Loaded {len(predictions)} predictions")
 
-    # Check alignment
-    if len(predictions) != len(gold_docs):
-        print(f"\n  WARNING: Mismatch - {len(gold_docs)} gold docs vs {len(predictions)} predictions")
-        min_len = min(len(gold_docs), len(predictions))
-        gold_docs = gold_docs[:min_len]
-        predictions = predictions[:min_len]
+    # Check coverage (doc_id based, not positional)
+    pred_keys = set(
+        Path(d['doc_id']).stem if '.' in d['doc_id'] else d['doc_id']
+        for d in predictions
+    )
+    gold_keys = set(gold_docs.keys())
+    unmatched_preds = pred_keys - gold_keys
+    unmatched_gold = gold_keys - pred_keys
+    if unmatched_preds:
+        print(f"\n  WARNING: {len(unmatched_preds)} predictions have no matching gold doc")
+    if unmatched_gold:
+        print(f"\n  WARNING: {len(unmatched_gold)} gold docs have no matching prediction")
 
     # Evaluate each entity type
     print("\n" + "=" * 70)

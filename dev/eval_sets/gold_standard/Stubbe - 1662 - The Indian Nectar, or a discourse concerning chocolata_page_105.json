@@ -1,0 +1,21 @@
+{
+  "doc_id": "Stubbe - 1662 - The Indian Nectar, or a discourse concerning chocolata_page_105.xml",
+  "text": "[85]\nor que con ella no es menester, pan, ni carne, ni\nebida: y en une momento se hase y sacona, lo\nue no ai en las otras. 'It is good alone to\nmake up a breakfast, and supply other victuals;\nbecause, having it, you need no further\nmeat, bread, or drink: and in a moment it\nis prepared, which is not to be found in\nothers.\nDr. Juanes de Cardenas concludes thus of\n<missing/> Y digo, que usado con esta advertencia, sera\ne mucho provecho para la salud, y es bastante\nalargar los dias de la vida; por que fuera\nle que da buen sustento al cuerpo, ajuda agestar\nl mal humor, vacuandole por sudor hieses, y\nrina: y digo otra ves, que entierra ninguna\nmas necessario, que en las Indias, por que\ncomo es humida, y dexativa, andan los cuerpos,\nestomagos Ilenos de flemas, y de superflua\nhunidad, laqual con el calor del Chocolate, se\nuesse, y convierte en sangre, lo que no hace el vino:\npor que realmente antes se azeda, con la\nFlema, y suele abitar mas.\n'And I say, whosoever takes it with the\ncautions, and directions aforesaid, takes it\nwith much benefit, and it conduceth much\nto the lengthening of his life; and the reason\nis, because it yields good nourishment\nto the body, it helps to digest ill humours,\nvoiding the excrements by sweat, and urine:\nand I say, it is no where more necessary\nthen in the Indies, which are moist, and apt\nto create lassitudes, their bodies there being,\ntogether with their Stomachs, full\nof\nG 3",
+  "entities": [
+    {
+      "text": "Chocolate",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Indies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Dr. Juanes de Cardenas",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

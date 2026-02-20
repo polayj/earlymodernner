@@ -1,0 +1,36 @@
+{
+  "doc_id": "Priestley - 1788 - A sermon on the subject of the slave trade_page_29.xml",
+  "text": "the Slave Trade.\n15\never, that the sentiments of christianity,\nwhere they have spread, have actually operated\nto the emancipation of slaves in a very\ngreat part of the western world, which\nonce abounded with them; and those that\nyet remain in the eastern parts of Europe,\nthere is reason to think will obtain the\nsame favour, and by the same means, in due\ntime. Thus Christ may be said, in a\nliteral sense, to have preached liberty to the\ncaptives, by his religion leading to the\nemancipation of slaves.\nChristianity teaches us to consider all\nmankind as brethren, equally the subjects of\nGod's moral government here, and alike\nheirs of immortality hereafter. Now,\nwhether it can be proved that these principles\nnecessarily lead to the emancipation of\nslaves or not (any more than they lead to\ntake away all inequalities among men, those\nof rich and poor, masters and servants, &c.)\nyet they will certainly lead us to give every\nindividual of the human race equal, at least\nsufficient, advantages for improving his nature,\nand preparing for a future state.\nIn",
+  "entities": [
+    {
+      "text": "servants",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Slave",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Europe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    }
+  ]
+}

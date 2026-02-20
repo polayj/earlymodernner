@@ -1,0 +1,71 @@
+{
+  "doc_id": "Anonymous - 1660 - By the merchants owners of ships and mariners, trading to His Majesties sugar-plantations_page_2.xml",
+  "text": "BY THE MERCHANTS\nOWNERS OF SHIPS AND\nMARINERS, TRADING TO.\nHis MAJESTIES Sugar-Plantations.\nIT is humbly offered to the Consideration of this Honourable House, That the white\nSugar Planters, by an Accompt untruly stated; delivered by them to the Committee\nof the House of Lords, they doe Assent that unpurged brown Sugars doe produce cleare\nof Charges to the Merchant above Nineteen shillings and nine pence each hundred\nweight, whereas it is most true, and is ready to be made appeare by exact Accompts, of\nthe Sale of that sort of Sugars which came from Barbadoes, to the hands of severall\nMerchants of good Credit the last year, that they doe not produce above Eleven\nshillings a Hundred, and some not above Ten Shillings; and the Planters themselves\nin their said Accompt, Rating white Sugars but at Fifty Shillings per Hundred,\nwhich is Ten Shillings under their just and Indifferent value, do make them to produce\nThirty nine Shillings per Hundred, which is near four for one; And it is ready\nto be made appear, that several parcels of white Barbadoes Sugar, have been lately\nsold at Seventy four and Seventy six Shillings per Hundred by an Eminent white\nSugar Planter, at which Trice they produce above five to one.\nAnd it is farther humbly Proposed, that if it shall Please this House to reduce the\nRate of unpurged Brown Sugar to half a farthing per pound, his Majesty will thereby\nreceive a Greater and more Certain Revenue, then by Imposing one farthing per\npound on the said Sugar, forasmuch as at a half farthing per pound, all or the\ngreatest part of the unpurged Sugars, that shall be Imported from his Majesties Plantations\nwill be Refined, and Consumed in this Kingdom, and his Majestie will receive\nthe full Excise thereof, as well as of White; when as Paying one farthing per\nper pound the Refiner cannot be encouraged to Manufactor them; and being for\nnoe other use, they must be Exported to Forreign Markets, whereby His Majestie will\nnot onely lose the whole duty of Excise, but also half of the Customes Inwards, which\nwill be Returnable upon the Exportation, and so the Manufacture will be wholly lost\nto this Kingdom; And Forreign Nations will reape the Sole Benefit thereof.",
+  "entities": [
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "brown Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Barbadoes",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "white Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "white Barbadoes Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Barbadoes",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Brown Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Committee of the House of Lords",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "House of Lords",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

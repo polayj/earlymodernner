@@ -1,0 +1,71 @@
+{
+  "doc_id": "Gadbury - 1672 - The Jamaica Almanack_page_4.xml",
+  "text": "The Epistle Dedicatory.\nviolent? and on the contrary, upon the kind Aspects of\nthe Sun, Jupiter, and Venus, they be not more gentle,\nmild, and refrigerating? and also, Whether the arising\nof your Pleiades, Hyades, and Constellated Eagle, &c.\n(chiefly when any eminent Conjunction or Aspect falls in\nwith them) do not certainly induce Moisture?\nI beseech you (my honoured and worthy Friends) to\ntake some notice of these matters, which you may easily\ndo, by keeping a Diary of the Weather; as also of the\nEffects of your Vernal Ingresses, (which I intend, God\npermitting me Life, once a Year to present you withal;)\nand pray ye also observe, together therewith, the Transits,\nConjunctions, &c. of the Planets over the prime parts of\nyour Islands Palladium, or Genesis; that they may be\npreserved by your generous Communication, as well for\nthe advance of Truth in Science, as advantage of your Selves\nand Country.\nThus, worthy Friends and Countrymen, wishing you\nall Happiness, and, as so many successful Columbus's,\nto encrease as well in your Acquaintance with the Influences\nof the glorious Diamonds of Heaven, as in the Gold\nand Treasure of the Indies; which (if St. Paul may\nbe credited, Rom. 1.19.) will lead ye certainly unto an\nenjoyment of that Immortal Treasure, of which Saints\nand Angels partake in Heaven — I remain,\nTo your Honoured Selves, and to the\nTruths of Astrologie, a Real\nServant, whilst,\nJohn Gadbury.\nBrick-Court, by\nthe Deans-Yard,\nWestminster.\nThe\nThe Names of the several GOVERNOURS\nof JAMAICA, since the taking thereof\nby the English, Anno 1655.\n1. The Honourable Col. D'Oyley, was Governour\nthereof, first after its being taken.\n2. The Right Honourable the Lord of Windsore,\nwas Governour thereof.\n3. The Honourable Sir Thomas Modyford, Knight\nand Baronet, was Governour of this Noble Island;\nAnd He it was that commanded a general Surveigh\nto be taken of it, at his own Charge; and under him\nit began eminently to flourish.\n4. The Honourable and Valiant Sir Thomas\nLynch, Knight, succeeded Sir Thomas Modyford, and\nis the present Governour thereof; and under him\nhath this gallant Country happily improved.\nIn my next years Book, I shall (God permitting)\ngive you a more ample Chronology of\nthe Remarkables relating to this Noble Island;\ntogether with an Account of the Commodities,\nand growth thereof.\nA Table",
+  "entities": [
+    {
+      "text": "Diamonds",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Gold",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Indies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Westminster",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "JAMAICA",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "lead",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "John Gadbury",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Col. D'Oyley",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "the Lord of Windsore",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Sir Thomas Modyford",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Sir Thomas Lynch",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Brick-Court",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "the Deans-Yard",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    }
+  ]
+}

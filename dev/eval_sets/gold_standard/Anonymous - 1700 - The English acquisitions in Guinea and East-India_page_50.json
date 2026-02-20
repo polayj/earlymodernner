@@ -1,0 +1,56 @@
+{
+  "doc_id": "Anonymous - 1700 - The English acquisitions in Guinea and East-India_page_50.xml",
+  "text": "92\nThe Voyage of Domingo Gonsales\nlars; As that in a thousand years there is found\nneither Thief nor Whore-Monger, for first there is\nno want of any thing necessary for the use of man,\nfood growing every where without labour, of all\nsorts that can be desired. As for Cloths, Houses,\nor whatever else a man may be suppos'd to want,\nit is provided by their Superiors, though not without\nsome labour, but yet so easy as if they did it\nfor pleasure; Again their Females are all absolute\nBeauties, and by a secret disposition of nature, a\nman there having once known a Woman never desires\nany other; Murther was never heard of\namongst them, neither is it hardly possible to be\ncommitted, for there can be no wound made but\nwhat is cureable; yea they assured me, and for my\npart I believe it, that though a mans head be cut\noff, yet if within three Moons it be joined to the\nCarcass again, and the Juice of a certain Herb there\ngrowing applyed, it will be so consolidated as the\nwounded party shall be perfectly cured. But the\nchief cause of their good government is an excellent\ndisposition in the nature of the People, so\nthat all both Old and Young hate all manner of vice\nand live in such love, peace, and amity as it seems\nto be another Paradise; Though it is true likewise\nthat some are of a better disposition than others,\nwhich they discern immediately at their Birth;\nAnd because it is an inviolable Law amongst them\nthat none shall be put to death, therefore perceiving\nby their Stature or some other signs who are like\nto be of a wicked and debauched humor, they send\nthem, I know not by what means, into the Earth,\nand change them for other Children, before they\nhave either opportunity or ability to do amiss\namong them; but first, they say, they are fain to\nkeep them there for some time till the Air of the\nEarth alters their colour like ours. Their ordinary\nvent for them is a certain high Hill in the North of\nAmeri a, whose people, I am apt to believe, are\nwholly\nto the World in the Moon.\n93\nwholly descended from them, both in regard of\ntheir colour, and their continual use of Tobacco,\nwhich the Lunars or Moon Men smoak exceedingly,\nthe place abounding much with moisture, together\nwith the pleasure they take therein, and some other\nrespects too long to rehearse: sometimes, though\nbut seldom, they mistake their aim and fall upon\nEurope, Asia, or Africa. I remember some years\nsince I read certain stories tending to confirm\nwhat is related by these Lunars, and especially one\nChapter of Neubrigensis. Inigo Mondejar in his description\nof Nova Granata. Also Joseph Defia de\nCarana in his History of Mexico if my memory fail\nnot, recount what will make my report more credible;\nbut I value not testimonies.\nIf you inquire how Justice is executed, alas what\nneed is there of exemplary punishment where no\noffences are committed; neither need they any\nLawyers, for there is no contention, the seeds whereof\nwhen they begin to sprout are by the wisdom of\nthe next Superior pluckt up by the Root. And\nas little want is there of Physicians, they never\nsurfeit themselves; the Air is always pure and temperate,\nneither is there any cause of sickness,\ncould never hear of any that were distempered.\nBut the time assign'd them by nature being spent,\nthey dye without the least pain, or rather cease to\nlive, as a Candle does to give light when what nourishes\nit is consumed. I was once at the departure\nof one of them, and was much surprized that notwithstanding\nthe happy life he liv'd, and the multitude\nof Friends and Children he should forsake,\nyet as soon as he understood his end to approach,\nhe prepar'd a great Feast, and inviting all whom\n\"he esteem'd, exhorts them, To be marry and\n\"rejoyce with him, since the time was come he\n\"should now leave the counterfeit Pleasures of that\n\"world, and be made partaker of all true Joy and\n\"perfect happiness; I did not so much admire\nhis",
+  "entities": [
+    {
+      "text": "America",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Europe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Asia",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Africa",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Nova Granata",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Mexico",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Tobacco",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Domingo Gonsales",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Inigo Mondejar",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Joseph Defia de Carana",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

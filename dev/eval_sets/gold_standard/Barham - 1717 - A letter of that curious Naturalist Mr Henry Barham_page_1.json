@@ -1,0 +1,26 @@
+{
+  "doc_id": "Barham - 1717 - A letter of that curious Naturalist Mr Henry Barham_page_1.xml",
+  "text": "(837)\nIII. A Letter of that curious Naturalist Mr. Henry\nBarham, R. S. S. to the Publisher, giving a Relation\nof a fiery Meteor seen by him, in Jamaica,\nto strike into the Earth; with Remarks on the\nWeather, Earthquakes, &c. of that Island.\nSIR,\nACcording to your Request I have collected what\nI can remember, relating to a Meteor I saw in\nJamaica about the Year 1700, as I was riding\none Morning from my Habitation situated about Three\nMiles North-West from St. Jago de la Vega: I saw a Ball\nof Fire, appearing to me of the Bigness of a Bomb,\nswiftly falling down with a great Blaze. As I thought\nit fell into the Town; but when I came within a quarter\nof a Mile of the Town, I saw many People gather'd\ntogether a little to the Southward in the Savanna, to\nwhom I rode up, where they were admiring at the\nGround's being strangely broke and plough'd in by a\nBall of Fire, which, as they said, fell down there. I\nobserved there were many Holes in the Ground, one in\nthe middle of the Bigness of a Man's skull, and five or\nsix smaller Holes round about it, of the Bigness of a\nMan's Fist, and so deep (especially the biggest) as\nnot to be fathom'd by what long Switches or Sticks\nthey had at hand. I did not hear that any was so curious\nas to make any farther Search: It was observ'd,\nthat the green Grass was perfectly burnt near the Holes,\nand a strong Smell of Sulphur remain'd thereabouts for\na good while after.\nNote that we had a terrible rainy Night before, with\nmuch Lightning and great Thunder-Claps, which we\nhave",
+  "entities": [
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Jago de la Vega",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Mr. Henry Barham",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

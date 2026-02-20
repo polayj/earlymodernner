@@ -1,0 +1,131 @@
+{
+  "doc_id": "Ligon - 1657 - A True and Exact history of the island of barbados_page_47.xml",
+  "text": "of the Iland of Barbadoes.\n33\na gallon, the people drink much of it, indeed too much; for it often\nlayes them asleep on the ground, and that is accounted a very\nunwholsome lodging.\nThe eighth sort of drink is Beveridge, made of spring water, white\nsugar, and juyce of Orenges, and this is not onely pleasant but\nwholsome.\nThe last and best sort of drinke that this Iland or the world affords,\nis the incomparable wine of Pines; And is certainly the Nectar\nwhich the Gods drunke; for on earth there is none like it; and that is\nmade of the pure juyce of the fruit it selfe, without commixture of\nwater, or any other creature, having in it selfe, a naturall compound\nof all tastes excellent, that the world can yield. This drink is too\npure to keep long; in three or four dayes it will be fine; 'tis made\nby pressing the fruite and strayning the liquor, and it is kept in bottles.\nHaving given you a taste of the Bread, and Drinke this Iland\naffords, which will serve any mans palate, that is not over curious; I\ncould tell you what we have of both sorts that is brought to us from\nother parts of the world; as Biskets, both fine and course, Barrels of\nmeale close put up; which comes to us very sweet from England, and\nHolland; of which we make Bread, Pye-crust, and Puddings. And for\ndrink good English Beer, French and Spanish Wines, with others, some\nfrom the Maderas, some from Fiall, one of the Ilands of Asores; So we\ncannot justly complaine of want, either of bread or drink, and, from\nEngland, spirits, some of Anniseeds, some of Mint, some of Wormwood,\n&c. And from France, Brandy, which is extreame strong, but accounted\nvery wholsome.\nHaving given you a just account, as neere as my memory will serve\nof the bread and drinke of this Iland: The next thing is the several\nsortes of meat we have there; and because Hogges flesh is the most\ngenerall meat, and indeed the best the Iland affords, I will begin with\nthat, which is (without question) as good, as any can be of that kind:\nfor their feeding being as good, as can grow any where, the flesh must\nneeds be answerable; fruit, the nuts of Locust, Pompians of a rare kind,\nalmost as sweet as Milions, the bodies of the Plantines, and Bonanoes,\nSugar-canes, and Mayes, being their dayly food.\nWhen we came first upon the Iland, I perceiv'd the sties they made\nto hold them, were trees, with the ends lying crosse upon one another,\nand the inclosure they made, was not large enough to hold the\nnumbers of Hogges were in them, with convenient distance to play\nand stirre themselves for their health, and pleasure; so that they were\nin a manner pesterd, and choakt up, with their own stinke, which is\nsure the most noysome of any other beast, and by reason of the Suns\nheat much worse ; I have smelt the stinke of one of those sties downe\nthe wind, neer a mile, through all the wood: and the crouding and\nthrusting them so close together, was certainly the cause of their want\nof health, which much hindred their growth; So that they were neither\nso large, nor their flesh so sweet, as when they were wild, and at\ntheir own liberty, and choyce of feeding.\nFor I have heard Major Hilliard say: that at their first comming\nthere, they found Hogges, that one of them weighed (the intrals being\ntaken out, and the head off) 400 weight. And now at the time of\nmy\nK\nBeveridge.\nWine of\nPines.\nMeat of all\nkinds.",
+  "entities": [
+    {
+      "text": "white sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar-canes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Barbadoes",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Holland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Beer",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Wines",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Maderas",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Fiall",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Asores",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Anniseeds",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Wormwood",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Brandy",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Plantines",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bonanoes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mayes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "wine",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Wine",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "wood",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Major Hilliard",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Iland of Barbadoes",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Orenges",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

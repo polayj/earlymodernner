@@ -1,0 +1,86 @@
+{
+  "doc_id": "Anonymous - 1726 - The State of the Island of Jamaica_page_41.xml",
+  "text": "The State of the Island of Jamaica.\n41\nerful Prince Charles, King of Great Britain, &c. in\norder to the restoring and regulating the same for the future;\nto send into Spain his Envoy extraordinary, Sir\nWilliam Godolphin, Knight; with full Authority and\nPower to make any Treaty convenient and proper for that End:\nAnd likewise the most serene and powerful Charles, King\nof Spain, &c. and the Queen Regent Maria Anna,\n&c. for the carrying on a Work of so much Piety and publick\nGood, deputed on their Part, the Earl of Penaranda,\nCounsellor of State, and President of the Indies, to\nconfer, treat, and conclude thereupon, with the said Sir\nWilliam Godolphin: At length they mutually resolved\nand agreed upon the Articles of the following Treaty in\nVirtue of their several Commissions.\nI.\nThe Treaty of 1667. confirmed.\nFIRST, It is agreed between\nthe above mentioned\nPlenipotentiaries Sir William\nGodolphin, and the Earl of\nPenaranda, in the Names of the most serene Kings\nrespectively, their Masters, that the Articles of\nPeace and Alliance, made between the Crowns of\nGreat Britain and Spain, in Madrid, on the 13/23 of\nMay, 1667. or any Clause thereof, shall in no\nManner be deemed, or understood to be taken away,\nor abrogated by this present Treaty; but that\nthe same shall remain perpetually in their ancient\nforce, Stability, and Vigour, so far forth as they\nare not contrary, or repugnant to this present\nConvention and Articles, or to any Thing therein\ncontained.\nII.\nAn Universal Peace, as\nwell in America as elsewhere.\n\nThat there be an universal\nPeace, true and sincere\nAmity in America, as in the\nother",
+  "entities": [
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Great Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Great Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Spain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Spain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Spain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Madrid",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "America",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "America",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Indies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Penaranda",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Penaranda",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sir William Godolphin",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Queen Regent Maria Anna",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Earl of Penaranda",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Prince Charles",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

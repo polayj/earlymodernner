@@ -1,0 +1,66 @@
+{
+  "doc_id": "Anonymous - 1768 - An act for vesting the settled estate of william nedham, esquire, in the island of Jamaica, in trustees for the purposes therein mentioned_pa.xml",
+  "text": "[7]\nand other Steers and Mules, and Plantation Utensils, in the said\nIsland of Jamaica, whereof or wherein, or to which the herein\nbefore named Henry Nedham, late Uncle of the said William\nNedham, was seised, possessed, interested, or entitled in Possession,\nReversion, Remainder, or Expectancy, either in Law or\nEquity, at the Time of his Decease, with the Issues and Increase\nof the Female Slaves, with their and every of their Appurtenances,\nand the Reversion and Reversions, Remainder and Remainders,\nRents, Issues, and Profits of the said several Plantations\nor Sugar-works, Lands, Tenements, Hereditaments, and\nPremises, and all the Estate, Right, Title, and Interest, Property,\nClaim, and Demand whatsoever of him the said William\nNedham of, in, and to the said Premises, shall from and after\nthe Twenty-fourth Day of June One thousand Seven hundred\nand Sixty-eight, be settled upon and vested in, and the same are\nhereby from thence-forth settled upon and vested in, John Pitt of\nEncombe, in the County of Dorset, Esquire, and Thomas\nCholmondeley of Vale Royal, in the County of Chester, Esquire, their\nHeirs and Assigns; to the Use of them the said John Pitt and\nThomas Cholmondeley, their Heirs and Assigns for ever, freed\nand discharged, and absolutely acquired, exempted, and exonerated\nof, from, and against all and every the Uses, Estates,\nRemainders, Limitations, Trusts, annual payments, Powers,\nProvisoes, Covenants, and Agreements in and by the said\nWills of the said Henry and Robert Nedham, recited Indenture\nof Release of the Twenty-fourth Day of December\nOne thousand Seven hundred and Sixty-two, Act of Parliament,\nBargain and Sale and Release of the Thirteenth Day of June\nOne thousand Seven hundred and Sixty-five, or any of them,\ncontained, limited, created, provided, and declared of and concerning\nthe same (the said Annuity of Six hundred Pounds, so\ngiven and devised to the said Elizabeth Thomas as aforesaid, only\nexcepted) upon Trust nevertheless, and to the Intent and Purpose,\nthat they the said John Pitt and Thomas Cholmondeley, and the\nsurvivor of them, and the Heirs of such Survivor, shall and do, and\nthey are hereby authorized and impowered, by and with the Consent\nand Approbation of the said William Nedham (if he shall be\nliving) such Consent and Approbation to be testified by Writing\nunder the Hand and Seal of the said William Nedham; and\nif he shall be dead, at the Discretion and by the proper Authority\nof them the said John Pitt and Thomas Cholmondeley, or of the\nSurvivor of them, or of the Heirs of such Survivor, to grant, bargain,\nsell, release, convey, and assure the Inheritance in Fee-\nsimple.",
+  "entities": [
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Encombe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Dorset",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Vale Royal",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Chester",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Henry Nedham",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "William Nedham",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "John Pitt",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Thomas Cholmondeley",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Elizabeth Thomas",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Robert Nedham",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

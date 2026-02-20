@@ -1,0 +1,26 @@
+{
+  "doc_id": "Anonymous - 1792 - Bristol an abstract of the city charter_page_32.xml",
+  "text": "( 34 )\ntermine all indictments whatsoever taken\nbefore the same Justices, of us, our heirs\nand\nby the Common Council. A Recorder * to be\nchosen, a Barrister of five years standing, to be approved\nunder the royal hand. That there be twelve\nAldermen, the Recorder the senior Alderman. That\nthey be resident in the city, and no one elected for\nMayor, Sheriff, or Alderman, that shall voluntarily\nabsent himself when to be sworn, and a fine, not\nexceeding five hundred pounds, be imposed on those\nrefusing to be chosen, unless they swear that they are\nnot worth two thousand pounds. The Mayor and\nAldermen to be Justices of the Peace, and to punish\noffenders at the Sessions four times a year. That\na Town Clerk † be chosen by them, a Barrister of\nthree\n* In all probability, William de Colford was the\nfirst Recorder of Bristol, as early as the eighteenth\nof Edward the Third.\n† This office is very ancient here. By an order of\nthe third and fourth of Philip and Mary, residence\nis enjoined him, that he may always assist\nthe Mayor, &c. with his advice, draw up orders,\n&c.",
+  "entities": [
+    {
+      "text": "Bristol",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "William de Colford",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Justices of the Peace",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Edward the Third",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

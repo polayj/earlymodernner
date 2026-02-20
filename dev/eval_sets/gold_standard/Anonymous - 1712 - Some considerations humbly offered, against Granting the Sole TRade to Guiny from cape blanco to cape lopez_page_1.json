@@ -1,0 +1,211 @@
+{
+  "doc_id": "Anonymous - 1712 - Some considerations humbly offered, against Granting the Sole TRade to Guiny from cape blanco to cape lopez_page_1.xml",
+  "text": "( 1 )\nSome Considerations Humbly Offered, against\nGranting the Sole Trade to Guiny from Cape\nBlanco to Cape Lopez, to a Company with a\nJoint Stock, exclusive of others.\nA Company with a Joint Stock Exclusive, is a Monopoly; which has always\nbeen esteemed a great Grievance in matters of small Moment,\nand will be much more so in a Trade of so large Extent, and such vast\nImportance to this Nation, in the Export of its Woollen, and other Manufactures;\nand to the Plantations, in furnishing them with Negroes, by whose strength and\nLabour all their Commodities which come from thence, as Sugar, Indigo, Cotton,\nGinger, Tobacco, &c. are produced, and whereby the Navigation and Revenue\nof this Kingdom is so greatly Increased.\nAnd such a Company so established will have all the Mischiefs of a Monopoly.\nI. They will buy the Woollen, and other English Manufactures, proper for\nGuiny, at their own Rates, having no Competitors, and will sell all the Commodities\nthey import from thence into England, at what Prises they please.\nII. In such Case they alone can carry such Negroes to the West-Indies as are fit\nfor the English Plantations, which are only to be purchased between Cape Blanco\nand Cape Lopez, and so will make their own Prizes for them, and Impose what\nTerms they please on the Planters, as heretofore the African Company have done:\nand by buying Negroes dear, less of the West-India Commodities have been, and\nwill be produced, and at greater Charge; whereby other Nations have already\nhad an Opportunity, and have too well made use of it, to Vye with us in those\nCommodities; to the great Abatement of the Advantage of this Kingdom; and\nit may prove the Ruine of our Colonies: For if the Company have produced such\nMischiefs by the Authority of a Charter only, What may be expected from them,\nif they should be established by a Law?\nIII. Such a Company having no Competitors, will buy as Cheap, and sell as\nDear as they please; and so will get as much by One Thousand Pounds, as would\nbe good Profit to Private Persons trading with Three times as much; and therefore\nit is not their Interest to enlarge the Trade, but to get as much as they can by\nthe small Stock they employ; whereas many Buyers would Enhance the Price of\nEnglish Manufactures at home, and occasion a great Exportation of them, and\nlower the Price of Forreign Goods in England, and bring Negroes much cheaper to\nthe Plantations, and thereby the Trade would greatly Increase.\nAnd though the Company now offer to content themselves to be limited from Cape Blanco\nto Cape Lopez, and to leave out Angola, yet that does not at all help the matter, for\nthese Reasons:\n1. It is humbly conceived, That all the Subjects of England have an Equal Right\nto all parts of the Guiny Trade.\n2. The Extent of the Coast between Cape Blanco and Cape Lopez, is about\n3000 Miles, besides up the Rivers in the Inland Country; and includes the whole\nTrade for Gold, Teeth, Dying Wood, and for such Negroes as are fit for, and desired\nat the English Plantations: For although there are Negroes to be had at Angola,\nand such as the Spaniards like, yet the English will not buy them, unless a\nfew for their House Service; they being a lazy sort of Negro, and very rebellious:\nAnd the safety of the Plantations depends upon having Negroes from all parts of\nGuiny, who no: understanding each others languages and Customs, do not, and cannot\nagree to Rebel, as they would do, and has by sad Experience been found, when\nthere are too many Negroes from one Country.\n3. This",
+  "entities": [
+    {
+      "text": "Guiny",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cape Blanco",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cape Lopez",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Woollen",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Indigo",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cotton",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ginger",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Tobacco",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Woollen",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Guiny",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West-Indies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "English Plantations",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cape Blanco",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cape Lopez",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West-India",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cape Blanco",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cape Lopez",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Angola",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Guiny",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cape Blanco",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cape Lopez",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Gold",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Teeth",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Dying Wood",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "English Plantations",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Angola",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Guiny",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Negro",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "African Company",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

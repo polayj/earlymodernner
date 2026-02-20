@@ -1,0 +1,171 @@
+{
+  "doc_id": "Anonymous - 1675 - The gentlewomans cabinet unlocked wherein is contained many excellent receipts for neat dressing of_page_8.xml",
+  "text": "The Gentlewomans\nyolks of two Eggs for one Mess or\nDraught, and so [drare] or less according\nto the quantity of your Ile, beat them\nvery well, and take away the skin of the\nyolks, and when the Ale boyls put them\nin, and [tep] them stirring continually\nand when it hath boil'd a while; sweeten it\nwith sugar; and if it be to eat, cut two\nor three tosts of [it] to bread, tost them\ndry, and put them to the Candle, but if it\nbe to drink put in none\nTo Stew Beef.\nTake a good Rump of Beef cut from\nthe bones, shred Turneps and Carrets\nsmall, with Spinnage and Lettice, put\nall in a Pan and let it stew four hours\nwith so much Water, and a quart of\nWhite-wine as will cover it, some\nPepper and Salt: when it is stewed\nthen put in a wine-glass full of good\nEldar Vinegar, and serve it with\nSippits.\nTo Boyl a Gammon of Bacon.\nWater pour Gammon of Bacon\ntwenty-four hours, then put it into a\ndeep Kettle with sweet Hay, let it boyl\nsoftly six or seven hours, and then take\nit up with a Scummer and a Plate, and\ntake off the Skin whole, then stick your\nGam-\nCabinet Unlocked\nGammon full of Cloves, and strew on\nsome gross Pepper, then cut your skin\nlike sippets to garnish your Gammon:\nand when you serve it, stick it with\nBay-leaves\nTo Boyl Brawn.\nWater your Brawn twenty-four\nhours, wash and scrape it four or five\ntimes, then take it out of the water and\nlay it on a clean table, and throw an\nhandful of salt on every Coilo., then\nbind them up as fast as you can with\nhemp or Bass, and put them in your\nKettle, when the Water boyleth, and\nthe scum ariseth, take it away : Let it\nboyl so tender that you may thrust a straw\nthrough it, then let it cool till the next\nmorning, and serve it.\nTo make a White-pot.\nTake the best and sivierest Cream;\nand boyl it with good stroze of Sugar and\nCinnamon, a little Rose-water : then\ntake it from the fire and put into it clean\npickt rice, but not so much as to make\nit thick, and let it steep therein till it\nbe cold : then put in the Yolks of six\nEggs and two whites, Currants, Nutmeg\nand Salt : then put it into the Pan\nor Pot, as thin as if it were a Custard,\nand",
+  "entities": [
+    {
+      "text": "Ale",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ale",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Turneps",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Carrets",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Lettice",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "White-wine",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pepper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Salt",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Eldar Vinegar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sippits",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sweet Hay",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cloves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pepper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bay-leaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Brawn",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Brawn",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "salt",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cinnamon",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Rose-water",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "rice",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Currants",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Nutmeg",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Salt",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pepper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pepper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cloves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "wine",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "wine",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "hemp",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bass",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ale",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

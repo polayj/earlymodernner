@@ -1,0 +1,3725 @@
+# COMMODITY BLOCKLIST
+# Items that should NOT be tagged as COMMODITY
+# These are cooking ingredients, prepared foods, generic terms, or currency
+
+# === CURRENCY (from original blocklist) ===
+guinea
+guineas
+broad piece
+moidore
+money
+king edward's shilling
+imperial standard
+
+# === MISC (from original blocklist) ===
+apes
+cantharides
+cicindela
+fruit
+papists
+proscarabaeus
+provisions
+toys
+white people
+
+# === PREPARED/COOKED FOODS ===
+bread
+tart
+tarts
+pie
+pies
+cake
+cakes
+pastry
+pastries
+pudding
+puddings
+biscuit
+biscuits
+manchet
+broth
+soup
+soups
+sauce
+sauces
+gravy
+jelly
+jellies
+custard
+fritters
+porridge
+pottage
+
+# === DAIRY (not traded long-distance) ===
+milk
+cream
+butter
+cheese
+curds
+whey
+
+# === EGGS ===
+eggs
+egg
+yolks
+yolk
+whites
+
+# === GENERIC MEAT TERMS ===
+meat
+meats
+flesh
+fowl
+fowls
+poultry
+
+# === FRESH MEATS (not preserved/traded) ===
+beef
+veal
+mutton
+lamb
+pork
+venison
+rabbit
+hare
+chicken
+capon
+turkey
+goose
+duck
+partridge
+pheasant
+pigeon
+
+# === COOKING HERBS ===
+herbs
+herb
+parsley
+rosemary
+sage
+thyme
+tyme
+mint
+basil
+bay leaves
+bay leaf
+marjoram
+oregano
+dill
+chives
+sorrel
+savory
+tarragon
+fennel
+chervil
+
+# === COOKING VEGETABLES ===
+onions
+onion
+garlic
+carrots
+carrot
+turnips
+turnip
+cabbage
+lettuce
+spinach
+spinage
+peas
+beans
+artichokes
+artichoke
+asparagus
+parsnips
+parsnip
+leeks
+leek
+celery
+radish
+radishes
+cucumber
+cucumbers
+mushrooms
+mushroom
+
+# === GENERIC FOOD TERMS ===
+food
+foods
+victuals
+victual
+ingredients
+ingredient
+
+# === COOKING FATS/STOCKS ===
+suet
+beef-suet
+lard
+dripping
+marrow
+bone marrow
+stock
+
+# === COOKING LIQUIDS ===
+verjuice
+water
+
+# === COMMON/LOCAL FRUITS (not traded) ===
+apples
+apple
+pears
+pear
+plums
+plum
+cherries
+cherry
+strawberries
+strawberry
+raspberries
+raspberry
+gooseberries
+gooseberry
+mulberries
+mulberry
+quinces
+quince
+pippins
+grapes
+grape
+barberries
+barberry
+berries
+berry
+
+# === NUTS (common) ===
+walnuts
+walnut
+chestnuts
+chestnut
+hazelnuts
+hazelnut
+filberts
+filbert
+
+# === SWEETENERS (generic) ===
+syrup
+syrups
+conserve
+conserves
+marmalade
+preserves
+
+# === MISC NON-COMMODITIES ===
+flowers
+flower
+seeds
+seed
+roots
+root
+leaves
+leaf
+sunne
+bacon
+sack
+sippets
+pigeons
+camels
+goats
+elephants
+sheep
+rabbets
+apricocks
+hogs
+tygers
+moone
+partridges
+mules
+sun
+pieces of eight
+sabbath
+slavery
+deer
+chickens
+oxen
+ships
+parrots
+lyons
+beares
+serpents
+milke
+ducks
+sweet herbs
+lions
+smelts
+pike
+kine
+horse
+manna
+fire
+geese
+egges
+birds
+flowre
+deere
+foxes
+whales
+lobster
+crabs
+eel
+hares
+wardens
+pig
+malmsey
+boats
+bullion
+pease-broth
+hens
+swine
+bulls
+hen
+gold-mines
+ling
+bisket
+trout
+lobsters
+pheasants
+white men
+elephant
+swan
+teal
+seamen
+flour
+drums
+plaice
+turkies
+crab
+sweet-breads
+grain
+mullet
+eagles
+wolves
+dogs
+calves
+muscles
+boards
+leagues
+brawn
+artichoaks
+snow
+leopards
+porke
+swans
+pounds
+meal
+hay
+knives
+canoes
+liberty
+melts
+stock-fish
+crowns
+carps
+fruit-trees
+french pox
+cod
+thunder
+slave trade
+mares
+crocodiles
+hog
+soldiers
+bees
+trade
+shipping
+quit-rents
+sugar-works
+sausages
+earth
+flounders
+cows
+ice
+figs
+clubs
+yolks of eggs
+goat
+camel
+duckats
+salt water
+cattell
+cow
+roch
+bores
+pick-axes
+soyl
+measles
+carts
+kid
+treasure
+camell
+lyon
+viper
+egge
+almond-paste
+arms
+vessels
+small-pox
+lambe
+barges
+whiting
+woodcocks
+white-bread
+mallard
+cocks
+coffin
+cockles
+teeth
+muskets
+ox
+trumpet
+powder
+snipes
+moores
+merchandise
+spanish pistoles
+sheepe
+marrow-bones
+white and black shot
+small pox
+beef-fuet
+pyrates
+rabbet
+stars
+bears
+jewes
+mullets
+pounds sterling
+bisque
+batter
+time
+planters
+liver
+scarlet gownes
+bay colt
+colt
+houses
+black
+rats
+fox
+pigges
+white
+water gruel
+pistol
+shrimps
+trade-winds
+bands
+green-fish
+utensills
+whip-sawes
+two-handed sawes
+hand-sawes
+files
+axes
+hatchets
+chittels
+mallets
+adzes
+mat-books
+howes
+plains
+gages
+augurs
+hand-bills
+drawing-knives
+iron pots
+law
+grass
+fishing
+pikes
+whale-fishing
+paste
+livers
+musqueteers
+pestilence
+white bread
+loaf
+servitude
+freeman
+prawns
+quince-drink
+calves-head
+bracelets
+sauages
+squirrel
+tygres
+eeles
+musquets
+larks
+waves
+dolphins
+tends
+white-pots
+bile
+sugar-mill
+silver-mines
+women
+children
+moon
+poor
+sugar-work
+gruel
+dice
+almond paste
+goates
+sheets
+cow's
+assneg's
+guinee hens
+flamingo's
+parachites
+machaw's
+wigcon
+purple
+hennes
+lion
+cat
+christians
+silver mines
+watch
+salvages
+soot
+brazilians
+baggage negros
+men
+fawn
+gourds
+cheeses
+calves head
+bells
+mutton gravy
+africans
+rhinoceros
+dough
+scorpions
+stags
+cranes
+dies
+religion
+commodity
+wolfe
+starres
+skillet
+penguins
+scurvy
+harts
+beavers
+windes
+bisket-bread
+potato
+sea-fowl
+hog-head
+brains
+ryal of eight
+gallions
+fith
+hollanders
+woodcock
+coney
+daise
+clothiers
+slave-dealer
+slave-holder
+slave-driver
+faggots
+darts
+tyger
+rammes
+loaves
+brown
+grey
+hair
+badger
+drink
+turban
+five hundred pounds
+subsidies
+vineyards
+fat
+livres
+pence
+spanish fruits
+cane-fields
+locust
+swines
+perches
+john cook's horse
+hook
+runaways
+ounces
+griffons
+coneys
+herbage
+tawnie
+apron
+camells
+collers
+flags
+copper saucepan
+peach-tree
+apple-tree
+apple-tree of paradise
+adam's fig-tree
+marrow-pudding
+looking-glasses
+sizars
+cornelian rings
+skins of wild beasts
+drains
+french bread
+captives
+fever
+tigers
+ounce
+wolf
+otters
+beaver
+lozenges
+scorpion
+ewes
+womans milk
+bael-suet
+sack-posset
+pewter-dish
+rain
+souls
+sea-cocks
+goate
+pilot fish
+sharke
+hartshorn
+lighters
+wind
+storm
+lightnings
+assinigoes
+ingenio
+melon
+drawn butter
+james's powder
+tow
+snipe
+gulls
+hart
+buffe
+free negroes
+rey gownes
+reyed gownes
+white man
+moors
+snuff box
+child's coat
+orphans
+zeiba
+canoe
+cards
+tribute
+tent
+mariners
+scepters
+pastry cream
+almes
+saturn
+jupiter
+alien-duty
+shepherds purse
+hogges
+welch plains
+clouts
+buckshaws
+knives and sheaths
+momen
+pound
+drapery
+sun-beams
+garlicke
+physick
+mayes
+silver-hilted sword
+foot
+cheeſe
+piece-goods
+portugal piece
+french pistoles
+husbandry
+navigation
+panada
+rice gruel
+rhubarb
+spanish cargo
+bee
+apparel
+calfe
+deals
+blunderbuss
+carrets
+spinnage
+heath-pouts
+pheasant-pouts
+pea-chikens
+nip
+badgers
+plantation trade
+neats-tongues
+parish tax
+farinha
+swallows
+crane
+peacock
+gospell
+faggot
+english pease
+rum punch
+ayre
+trade-wind
+rauns
+atolle
+people
+fillet
+brine
+haberdashery
+silver snuff-boxes
+citrus
+graine
+thread
+spider
+toast
+grog
+bitters
+circumcision
+flounder-collops
+pallates
+cocks-combs
+yarn
+leaden weight
+brass cock
+lance
+bugle
+ostriches
+aire
+gospel
+swines grease
+pilchard
+lances
+vipers
+dish
+spanish goods
+buttock
+brisket
+duckes
+his majesty's quit-rents
+duckers
+marrow bones
+beef suet
+tables
+tempest
+provision
+stuffs
+books
+macaroon
+baptisme
+candying
+turtle-doves
+salt beef
+turkes
+nut
+tools
+barque
+ketch
+cats
+mice
+tench
+shirts
+sheeps suet
+colts foot
+barm
+white hercules
+scallops
+silver-mynes
+lupines
+peacocke
+pelicans
+marchpane
+pigeon-peepers
+chicken-peepers
+tongues
+mussels
+frogs
+cannibals
+squirrels
+tack-swhough
+human urine
+cannon
+pox
+goats milk
+labourer
+deare
+worms
+lambs head
+stamp-act
+sea-men
+british manufactures
+wormes
+ovids metamorphosis
+orlando furioso
+twenty pounds
+neglect
+scene
+napkins
+lamps
+tongue
+agnus scythicus
+freemen
+harts-tongue
+dodder
+gras
+asiento trade
+kidneys
+bird
+tree
+bark
+sow
+calves-feet
+artificers
+sloop
+dragons
+may-dew
+rain-water
+zebra
+legs
+heart
+narcissus
+salmons
+leg of veal
+sweet-meats
+field-pieces
+pageants
+wafers
+gibblets
+damsons green
+calves tongues
+dragon
+crocodile
+silver snuff-box
+meale
+gavelkind
+figges
+colliflowers
+malaga sack
+convicts
+african slave trade
+negro-nurse
+sheeps tongues
+norwich stuffs
+east india goods
+cow-pox
+shell-fish
+wild-fowl
+rabbits
+primrose
+fabricks
+frigats
+skerrets
+rabits
+portugal piece of gold
+canon of chry stall
+lynxes
+porpentine
+boe naire
+poore-johns
+pickled makerels
+live-cattle
+mamee
+sea-breeze
+malmfey
+wigeons
+temperance
+scarecrow
+flozedonia
+misfortune
+fortune
+captain
+leveller
+now-or-never
+althea
+foxhunter
+pickpocket
+minima
+hunter
+snip
+cupid
+ambitious molly
+guldfinder
+cataline
+foundling
+honest farmer
+fair joanna
+eliza
+davy
+tell-tale
+briton's strike home
+ma.vel
+persian rites
+calver
+holy-burt
+yron monie
+walls
+arke
+vegetable
+kairam
+allsoules
+sixteen guns
+stuff
+an ordinary hat
+an ell of course cloth
+galleons
+flota
+copperess
+psalms
+herbes
+bell
+grey surry
+pear-plumbs
+mutton-broath
+blunderbusses
+flesh beef
+golden fleece
+stag
+dear
+cheese cakes
+onyon
+griphons
+hogge
+cap
+diadem
+four thousand pounds
+slave-laws
+poetry
+coneyes
+manate
+minister-hoods
+payments
+theologic
+diuinitie
+eccleciaficall
+oar
+fleak of pork
+sheeps-guts
+capons-guts
+flank of beef
+pullets-eggs
+wooden swords
+crofs-bows
+french crown-piece
+english crown-piece
+sols
+crown-piece
+mats
+nails
+goldsmiths wares
+carrats
+fishhooks
+the large conch
+herb-broth
+milions
+gnavers water milions
+one thousand men
+one thousand women
+freedom
+gravie
+fish-broth
+white-broth
+hag's horse
+negro wench
+corne-fields
+well-water
+white hennes
+prophets
+prophetical
+flaggs
+bladder
+bait
+gudgeon
+hooks
+rod
+wyre
+winder
+barril
+chub
+snail
+markes
+gnats
+buccaneer pieces
+indian commodities
+piece ditto
+scale, or bastard ditto
+scum, and dirt
+butter-milk
+de tribus
+phlegme
+mornings milk
+female
+sick nurses
+fishe
+hatchers
+nardi italice
+spheres
+elements
+planets
+staures
+armadilla
+porcupine
+cuet cats
+ducaters
+silver crowns
+sugar-cane fields
+phoenix
+ducates
+whelpe
+white bears
+european goods
+jamaica tonnage
+sea-dragons
+almond cawdle
+oatmeal cawdle
+egg cawdle
+carrs
+horse-flesh
+gold-sands
+fishers
+calves kidneys
+monscherons
+base
+rows
+spawns
+stew-pam
+junkets
+c. beef
+m. pork
+goofe-berries
+toast of white bread
+white bread-toast
+negro-doctors
+barrel-cod
+strawberry-cream
+salmon-peets
+egg-pye
+doe venison
+scotch-collops
+taffatee-tarts
+gollings
+caribbeans
+french-men
+sea-devils
+negroe labourer
+reading tawny
+yeomen
+black suet
+privateers
+wains
+wain-cattle
+petit
+the ear
+the bursae-mucosa
+the absorbents
+the skin
+monmouth caps
+sewers
+gates
+flood-hatches
+piles
+sea-pies
+chiggers
+bills
+fagots
+coates
+cuttlefish
+maquerells
+parrot fish
+snappers
+cavallo
+terbuns
+cony fish
+sea-horses
+frye of fift
+affiento trade
+meat broath
+meat pottage
+preserved lemmon peel
+english marines
+yellow fever
+1540
+plague-boils
+simples
+soldier-buff
+chriftmas-buff
+hog's-lard
+acre
+byzantines
+baladakines
+foreign materials
+neigbour-feas
+jews-ears
+moose
+rackoon
+musquash
+bear
+porcupines
+rackoons
+ferrets
+salter
+skinner
+haberdasher
+cow pox
+cobler's awl
+mines of siluer
+tribut
+essences
+mulattoe
+slave-tradesmen
+skirret pie
+calves-head pie
+artichoak bottoms
+lark pie
+hatchet
+feuers
+golden
+clarified deer's-suet
+goats-milk
+cows-milk
+aspe
+tunhoof
+ale-hoof
+philosophie
+trifle
+rundlet
+quiddany of plums
+moulds
+trencher
+sun-beames
+biskets
+peruan-meal
+garden herbs
+dogges
+sand
+powder'd beefe
+maquerels
+gans's
+hollands
+hurricanes
+atmosphere
+lightning
+faulcon
+haggard faulcon
+spaniels
+coveys
+daisie
+torches
+kings treasure
+molattoes
+asses bieves
+boates
+american torch
+guine trade
+calves-foot
+liquors
+sugar-vessels
+green sauce
+birley
+pig-pye
+neats-foot-pye
+neats-foot
+orangado-pye
+rye-dough
+lump
+jole of ling
+letharge of gold and silver
+barrows-grease
+indian spices
+1594
+north starre
+october
+november
+sugar plantations
+lint
+quale
+rail
+stock-doves
+wild fowle
+teale
+sheldrake
+glover
+poete
+merjuce
+green geese
+hozrel
+roast mutton
+eunuchs
+sugar manufactory
+the civet
+the giraffa
+camelopard
+libard
+trades
+horse-leaches
+sciatica
+creole
+pillula communes
+yong cole
+masters
+raw
+thrown
+white person
+merchants
+gaboons
+sugar-bird
+sparrow
+lesser sparrow
+tinker-sparrow
+humming-bird
+abadas
+rhinoceroses
+chas
+people of colour
+corne-marker
+country provisions
+chocolata-potion
+west-indian crocodiles
+spanish language
+truncheons
+canoos
+vinters
+tents
+bengals
+mulatoes
+naples biscuit
+towers
+fasting-days
+ember-weeks
+lent
+batilly pye
+ely
+needle
+adulterie
+tennis-ball
+fan
+spiced drinks
+faith
+feast of tabernacles
+tosts
+butter'd
+pill
+ribbon
+heath
+tronage
+poundage
+blew taffie
+manicock
+castillians
+peszos
+naval stores
+dogges at land
+pearle-fishing
+natures
+wherry
+barrels
+goards
+dolphin
+kund-jeab
+jaggery
+spring water
+thea
+piece of eight
+sugar-sops
+butter'd-ale
+whipping
+geemmes
+rum-punch
+eagle
+gideons fleece
+ryal
+l. sterling
+jamaica currency
+gemmes
+guanibinuazus
+hollihock
+sheapherds purfe
+carduus benedictus water
+carduus water
+pyrit
+red bryer leaves
+shekel
+ephah
+omer
+dates stones
+house-keepers
+trademen
+independents
+caniballs
+caniball
+lazars
+leapers
+east wind
+mineral waters
+mines of gold
+kernel
+mitzvah
+salt-beef
+oglies
+caruers
+white inhabitants
+kitifonia
+eruca
+ship
+camepites
+buffard
+yellow blaft
+pearl-fishing
+urine
+sea fish
+mum
+cross
+palme
+antidote
+country-people
+creoles
+west indian
+sambo
+land-coquo
+quadroon
+mustee
+honeydrink
+negress
+hieron. das halea
+browne bastard
+kings peace
+roupies
+american fruits
+westphalia bacon
+nemnem
+tooth-ach-tree
+sweet-brier
+popery
+indian arrows
+ruffs
+brewes
+knots
+household bread
+ox-eyes
+redshanks
+quails
+rails
+black-birds
+thrushes
+snites
+wheat-ears
+sparrows
+martins
+pickrell
+ostrum
+salmones
+trowes
+shiping
+atticke mina
+tincture
+crimson
+seisures
+indultos
+piezas de india
+col.3,23
+gen. 32.30
+gen.28.16
+joh.12.42
+joh.5.40
+quailes
+elephat
+moufe
+rein-deer
+talgueskin
+ore
+negro-supplies
+clothing
+centorie
+cheruile
+radishrootes
+leekes
+prasley
+canary sack
+spike
+wheat flour
+porck
+bezart
+molettoes
+latine tongue
+latine books
+vegetable food
+taffia
+tanned ditto
+glass plants
+danelot
+xochinacaztlis
+xochinacatlis
+orichelas
+orejuelas
+jane treacle
+roch allum
+tetberry
+aethiop's mineral
+muscharoons
+purselen
+chervel
+ayaw
+cassari
+nigus
+italian miles
+cumbeba
+marle
+sleech
+sea-sand
+kill-divell
+almond butter
+copiahae
+barnicle
+burt
+castrolle
+cane-trash
+woura
+magoss
+wollen linnen
+purple cotten
+gayeties
+solon goose
+fenegreeke
+cartell
+spicery
+arolle
+labour
+sanguinis
+east-india goods
+londonlike-peces
+larrone
+paris thread
+cookes
+ribs of beefe
+candlewicke
+weeke
+corten
+yame
+carvels
+pink
+fly-boat
+country's provisions
+the african slave trade
+royal breeches
+wedding-ring
+amulet
+santals
+heathens
+salves
+calves head pye
+enzanda
+inzanda
+oifters
+alicunde
+bicos
+la pimienta de las indias
+pimienta de brasil
+quiya
+bombazines
+virgin's beauty
+worsted barratines
+anthorines
+glasshairs
+silk saxes
+katharinas
+crape
+silk calamanties
+tamemes
+silk masquerades
+silk gloriosa's
+efamesnes
+striped chenys
+silk shades
+effigmes
+bean meal
+fells
+american trade
+subscriptions
+india goods
+stores
+imports
+exports
+berylli
+beryllus
+mackrill
+almond leach
+blew-bottles
+egg-shells
+swallowes
+man of war
+kites stern
+hardware
+sundries
+fraight
+exportations
+importations
+bottoms
+grots
+bulkey
+ships of england
+exportation
+importing
+foreign trade
+mamayes
+guayanos
+paltes
+florispodia
+valaschelis
+cacani
+bief
+pioneer negroes
+condy
+salt-salmon
+barley-meale
+cane-pieces
+flannel
+perna
+wood quimia
+brasilians
+mattara
+rials
+prisoners of war
+mancenilier
+cabbages
+chibols
+millets
+raquettes
+arsenick amulets
+alexiteries
+antidotes
+cacaua-entli
+whyte bread
+sippits
+sweet hay
+sugar-boiler
+pearmains
+kermes
+dramber
+london treacle
+carduus
+kings faulcons
+spanish treasures
+galleys
+mith
+roach allome
+fountaine water
+benguine
+well water
+pomnice
+vitrum
+ladle
+chaser
+grovers
+salt brine
+sea water
+organy
+gammon
+waincot
+musique
+swanne
+goole egges
+oatmeal-grout
+cauven
+nauigation
+geographic
+cruft
+sugar-biskets
+pye.
+ in a
+iron mines
+roffas
+variola
+mahometisme
+trident
+earthquake
+pap
+topinambous
+jerusalem artichokes
+saligots
+anana's
+opassum
+javari
+tatan
+agouty
+musk-rat
+fregates
+fauves
+craw-fowl
+grandgawfers
+flammans
+swallows of america
+parroquito's
+tremble's
+sparrows of america
+tannics
+eddoes
+almond cream
+broome-rape
+lyon of marble
+stone trough
+man carv'd in alabaster
+barb
+egrift
+sarcel
+turky
+chevin
+1573
+smalledge
+eufrane
+fish-pots
+scane
+net
+shrimp nets
+bowyers
+flechers
+bow-string makers
+beef-broath
+chocolata cakes
+phylacteries
+linne
+zant carrans
+levant oyls
+pioneer and labouring negros
+pilmyre
+luna
+arcana's
+wood-cocks
+squabs
+capon-suet
+sparragus
+wings
+a negro
+mamolucks
+life
+zizis
+calues
+kines
+boya
+flowers of sulphur
+mercurial solution
+venereal disease
+itch
+job's tears
+english pea
+rams head
+raw meat
+perch
+lob-worm
+worm
+ancho-vies
+spawn
+revet
+powder-sugar
+european fruits
+colts
+death
+starre
+greenie veluet
+vesture
+cloath of gold
+towels
+reliques
+trifles
+tassels
+ordinance
+fire works
+sodomie
+ostrich
+fallow deer
+port-charges
+clappes leaves
+filberds
+makrels
+patriches
+ric
+cole-worts
+tawny-mores
+canvas apparel
+rags
+aprons
+weapon
+phlegmatique
+chesnut-hull
+nur
+pocholt
+middle-bacon
+turk's head
+melocactus americana major
+water-gruel
+young rabbits
+young chickens
+rack of lamb
+oatmeal-pudding
+infidels
+indian elephants
+judahisme
+venison sauce
+south-sea-rose
+marmore
+poffets
+broaths
+caudies
+drawers
+feather-pictures
+merchant
+quince cakes
+planting
+english negroes
+holy anointing oil
+holy ointment
+new milk
+sheeps-gut
+countrymen
+phenix
+bledo paste
+green beads
+child
+man-servant
+woman-servant
+commodities
+cargo
+katkins
+cazabi
+musick
+damofels
+dainties
+vnions
+scarabees
+vultures
+phœnix
+frigates
+old funk
+storkes
+smoke
+sack posset
+sullabubs
+tarts of almonds
+tarts of damsons
+tarts of strawberries
+tarts of cherry
+medler
+taffety tarts
+tarts of cowslips and cream
+tarts of green pease and prunes
+quinces wardens
+tarts after the french fashion
+tarts of bacon
+clary
+pasty
+veal fillet
+veal leg
+chine
+neck
+pye
+umble pye
+pasle-ouer
+pentecost
+tabernacles
+kentish cherries
+flomery
+marmalet
+posnet
+jelly of pippins
+victorie
+lawes
+prophecie
+starch
+strong wine
+egyptian obeliskes
+christian slaves
+roes
+arabian theues
+weavers
+syrinx
+scurui
+scorbute
+fifth
+calmes
+sea-water
+bacons
+fire-ship
+irob mace
+artichoke bottoms
+large mace
+tablet
+salted herrings
+groats
+myrthe
+mandarine-robes
+gibbet
+sugar-mills
+hernshaw
+coffins
+porter
+breese
+agies
+ynca
+phlebotomy
+venery
+salt herrings
+storax liquid
+musselage of dragagant
+rind of a citron
+taffetie
+borg
+plentzie
+cotton plantation
+sugar plantation
+musker
+rybes
+poleasius
+machirus
+ebelus
+jet
+oaten flowre
+vessel
+clean clouts
+pan
+coller
+obeah
+woollen bayes
+watmores
+markke sterling
+neat
+ordnance
+medicine
+ducat
+iaunizaries
+morning-star
+swines-flesh
+romane vitrioll
+tributes
+prefents
+salmon-peels
+negro hunters
+cheese-cake-pudding
+cheese-cakes
+cheese-cake
+peeces of eight
+clusters of grapes
+hoghead
+five hundred vessels
+nephritic cafes
+hat
+carvel
+b. c.
+lord abingdon's c.
+mr. foley's c. chesterton
+lord rockingham's c.
+b. c.
+br. b. c.
+b. h. wentworth
+gr. m.
+mr. foley's pumpkin
+lord grosvenor's mahomet
+lord clermont's pomona
+mr. foley's chesterton
+salt marsh
+magike
+oxe-cheek
+squab pigeons
+swine's-flesh
+five pounds
+twelve pence
+baggage
+labouring negros
+golden images
+golden vessels
+galgas
+syrup of maiden-hair
+syrup of colts-foot
+flowers of pomegranats
+juice of celandine
+tapetrie
+negro labourers
+water-bug
+pond-worm
+shrimp-kind
+black cattle
+salts
+animal food
+fire-locks
+curaces
+pulmenes
+angel-water
+pardawes
+flemish dollar
+peacockes
+hawke
+apricock
+sword
+turbot
+skate
+ray
+pussen
+alexander-buds
+pickled capers
+cowslips
+chasing-dish
+maroon negroes
+free people of colour
+phæbus
+miranda
+mahomet
+paymaster
+solon
+augur
+sempronius
+langham
+rantipole
+timon
+alexis
+flirt
+stork
+creeper
+marianne
+hips
+coney livers
+mountains of gold
+hogsheads
+lanthornes
+valerian
+barrows grease
+surfeits
+pestilential fevers
+tutia
+cacu
+oceam
+fish-bones
+sunne-beames
+hoggess
+barnacles
+sew-mew
+gull
+usurie
+herring
+earthen
+plaister
+cholick
+flux
+white servant men
+seuentie
+negro pilots
+sugar-droger
+bras gun
+fat beef
+brewis
+faggot of sweet herbs
+portuguese horse
+deeres
+sugar-drogar
+wood-quests
+theangelis
+marmaritis
+ras-berries
+colonists
+new moone
+epieride gruge parei
+martial-law
+giraffa
+negre slaves
+li-bard
+cannon law
+steel arguments
+codling cream
+goosberry fool
+guinea-pig
+martinets
+wild bulls
+catamenia
+chalybeats
+froggs
+goats-dung
+sow-bread
+beech-mast
+beveridge
+rompe
+pyes
+olio podrido
+potato pudding
+chefnut colt
+black colt
+ox tongues
+sheeps plucks
+spanish sloop
+semida
+wheates bread
+cassava bread
+beet
+viands
+foul
+women-slaues
+stooles
+tiles
+wild fowl
+water fowl
+balme of gilead
+catamountains
+marmozets
+quotto
+cufcary
+crains
+marlins
+falcons
+turbots
+thotnback
+yellow salmon
+black-fish
+cafoorma
+num-eel
+vermine
+sweet bryar
+mackroons
+candy syrup
+conserve of bugloss-flowers
+ptisans
+goates bloud
+parranow*
+victual'd
+weather
+potatoe roots
+rage
+back
+elder vineg
+rump
+sur-loys rib
+flank
+fillet of beef
+scots collips
+new moon
+first quarter
+full moon
+last quarter
+manu christi
+ordinary jelly
+leach
+brown gelding
+english miles
+northerly wind
+bloodshed
+slaughtering
+glumaagun
+sea mofts
+bacones
+martimale beete
+muttons
+coales
+kettles
+fetisso's
+products
+forreign commodities
+ticking
+sadlers ware
+fanns
+cutlers ware
+belts
+iron-ware
+earthen and wooden-ware
+naples bisket
+cabbage-lettice
+troutts
+custards
+roman peny
+attic drachm
+roman denarii
+tyrian scarlet
+sallad oyl
+hurricane
+tempests
+clouds
+callibashes
+basquets
+almond caudle
+india silks
+silk manufactures
+black lutestring
+alamos
+hæmorrhoids
+iquor,
+his
+, ba
+ the 
+m wi
+ roas
+g enou
+n dissolv
+silver veins
+white marle
+fuller's earth
+bolar
+earth
+pytabaja
+golden mines
+guadaquinajes
+fruit caymita
+wax-work
+cumbi
+st. ambroyes syrup
+chefsias
+tumbolos
+simarouba
+convoy
+date
+trowts
+conscience
+pancake batter
+metcuriality
+faeces
+melissa altissima globularia
+sugar-trade
+sugar-settlements
+cooling tart
+quaking pudding
+oatmeal pudding
+jelly of frogs
+gummes
+poore people
+pioneer negros
+unguentum brioniae
+eggshells
+hog-lice
+imperiall diadem and steele
+four wives
+concubines
+wife
+wealth
+alms
+tyth
+tenth
+apple-pap
+kentish pippins
+cauldrons
+gun
+diners
+kings slaves
+palm-vine
+herds of cattle
+salted meats
+poor john
+jerkin beef
+bras mines
+acid
+pseudochemicall
+pyrotechnicall
+arcanae
+immortality of the soul
+gourd
+spars
+widows
+tun of gold
+fosile glafs
+spicery of the east-indies
+livers of goats
+sheep's
+bullocks
+woolen manufactures
+greyhounds
+potato pie
+shook casks
+ox-bows
+yokes
+house frames
+punches
+guara-terebes
+naainari
+jabebara
+effects
+guilders
+peruvians
+hands
+calf
+french rolls
+lianen
+blacks of africa
+plates of gold
+sands
+haddocks
+hyena
+utensils
+gold mines
+laches
+gum
+vegetable gluten
+sonne
+charn
+gyges ring
+fifteen pounds sterling
+efurgnny
+ambize
+angulo
+hog-fish
+targer
+pesos
+turkes&stones
+targets of golde
+diademns
+borders
+axi or weft-indian pepper
+dutch sauce
+civet catts
+palankeys
+lillah
+red-herring trade
+bean-meal
+chilli
+caldron
+grout
+bean
+jelly of marmalet
+kings toyles
+colonial slavery
+molottoes
+diaguitan tongue
+affertlings
+vintals
+florin
+noble
+nobles
+royal
+angels
+halfe angels
+fly
+gold and silver mines
+the candle of distillation
+specie
+foreign commodities
+twenty shillings
+silver coin
+pieces of eights
+coin
+clipt money
+coined silver money
+taxes
+aids
+two millions
+broad money
+bank notes
+half crowns
+luminary
+ox minerv
+menapi
+assabin
+rams
+copper ball
+womans garment
+comfets
+calliuer-shot
+duells
+safety
+mirth
+horse hoofes
+aetites
+plantation-provisions
+salt mackarel
+gods word
+word of god
+word
+coyne
+atites
+eye-bright
+tinia
+dropsie
+syphon
+roscs
+bone of a stags heart
+sirrup of ribes
+lenten cream
+cows milk
+bitter-like buns
+poore scholars
+white-herring's
+rand
+ague
+axi
+iguana
+men of colour
+mowbackees
+deers
+moofes
+hawks
+corn-fields
+pastures
+herds of deer
+cony-warrrens
+musk cats
+civet-cat
+gownes
+brasie
+israelites
+persian jewes
+dan
+figgues
+zabulon
+asher
+naphtahis
+chnus
+copher althorech
+mango
+negretas
+green turtle
+antilopes
+baboones
+oftriches
+elefons
+geefe
+tipling
+kings leopards
+guineys
+tortels
+gallion from goa
+hogs-flesh
+ratters
+mates
+bonadies
+hose
+bread puddings
+penny-white-loaves
+french pudding
+mel
+spanish
+date stone
+scabious
+fole-foot
+perian delicacies
+bulls gall
+sowbread
+butter burr
+moufcar
+pewke gownes
+sword and mace
+violet gownes
+blacke
+lamprels
+rivet
+christian blacks
+adbothuys
+cualrus
+morsh
+a piece of eight
+spanish pistol
+molatto's
+marble lyon
+malefactors
+bloody bows and arrows
+anatomy
+negro shots
+venus
+mars
+haruest
+harvest
+cherry-tarts
+young ducks
+potten venison
+westphalia-ham
+stags feet
+venison pasty
+gammon of bacon pasty
+liver of roe-buck
+roe-buck
+jelly of harts-horn
+marrow-fritters
+artichoke-fritters
+wild-boar
+green pease
+rams kidneys
+barley cream
+sallet
+quaking-puddings
+rice-milk
+spanish rounds
+sins
+chair of state
+mortuamos
+spanish knives
+stilletto's
+man-eaters
+pellitory of the wall
+penny-mountaine
+manacles
+ox back
+long-cloth
+church lands
+nitrous air
+cotton hammocks
+gentiles
+indian christians
+moore
+portugals
+summer and winter fruits
+church ornaments
+mountain negroes
+white christian men
+white men-servants
+moles
+hedgehogs
+pot-gang
+pot
+popes buls
+measels
+melancholy
+spanish money
+sugar manufacture
+learning
+differences
+terebinthine kind
+peruvian-juice
+creol negroes
+salt-water
+house negroes
+casks
+watermen
+tide-boats
+tilt-boats
+tops of bays
+pisse
+sheeps tallow
+pomegranat
+peafl
+denarii
+sea-foule
+indian plants
+mangle
+indian trees
+moaikke
+sea-crabbes
+anime
+galley men
+woman servant
+maroon war
+english coin
+tilting
+bow
+drum-mings
+anchor
+first-fruits
+tithes
+marks
+coltsfoot
+bucks horn
+whopper
+rye-paste
+cysters
+shovellers
+herns
+wild-geese
+tame-geese
+muscovia ducks
+swan pye
+rye dough
+ermelin
+leopard
+beech
+dormouse
+moly
+bills of exchange
+ingots
+a- rican spice
+bedding
+calves-foot pye
+white herrings
+charity
+breast of mutton
+ketches
+sloops
+barques
+assiento
+sage-water
+hearbes
+salt-pit
+silver mine
+hen dung
+fresh grease
+may-butter
+deer-suet
+pills
+suppository
+household-goods
+materials
+flownders
+pease-potage
+african trade
+bow bell
+vros
+pusel
+booty
+vessells
+sprats
+eles
+cods
+mackarel
+corne-mill
+water-mills
+hogs greafe
+chesnut colt
+chesnut filly
+bay filly
+h'cals
+manihot
+giraffe
+dant
+admmain
+asses
+basilisk ostrich
+grabhoppers
+hippopotamus
+mermaids
+bath water
+dogs flesh
+purl
+pewter-plates
+knife
+fork
+hock of bacon
+era & oliva
+neates feet
+tradesman's labour
+cheese cream
+apple cream
+unguentum dialthae
+hennes grease
+wheaten meale
+tides
+copper-pot
+musling caps
+holland shirt
+cotton apron
+copper pot
+lamp
+table
+table-furniture
+sabbath-fishes
+hat-band of pearles
+leckes
+flemish prizes
+strangers ships
+oxe-fish
+crowes
+white-lily
+sea horse skins
+tamahawks
+javelins
+victualling
+bat
+green herbs
+rasberry-cream
+snow-cream
+lamb pie
+chicken-pie
+shoulder of mutton
+delight
+lumber-pie
+curd
+almond-palt
+penny loaf
+oringado
+boles
+water-lillies
+virgins milk
+littarge of silver
+philter
+jelly-bag
+glass vial
+sun-burn
+french privateers
+furres
+creole-boilers
+bitter
+potage of parsnips
+beef-suit
+cawl of veal
+land-fowl
+oat-meal
+infants
+canuas
+east-india dividend
+womans flesh
+hogg's flesh
+wood hoops
+pslames
+prouerbes
+pagan negros
+fire-arms
+silk garment
+dutch cloths
+pellican
+christs gall
+negro grounds
+french prunes
+cabbage-lettuce
+collops of bacon
+sweetbreads
+artichoke-bottoms
+peales
+flores
+jacobitism
+florentine
+ring of brass
+carville
+sea-lions
+wooden crosses
+white servant man
+neat cattle
+affinegoes
+bullock
+egge-tarts
+ram
+cherms
+shipmoney
+rofes
+cymbals
+violes
+harpes
+50l.
+geldings
+foster's plant
+guiney fowl
+apricocke
+muffe
+iasas
+goose-egges
+iambas
+peare
+iangonum
+keels
+coat
+fryer's frock
+grafs
+fowling
+wooden shoes
+light-burn- ing
+candlemasse
+peels
+woman
+callabar
+char-coales
+baboons
+viscues
+pacos
+rice-grounds
+lambs
+haoscer
+manufacture of ireland
+woollen manufacture of ireland
+maligo-sack
+water-hogs
+capybara
+tapirete
+dutch seamen
+chisells
+ray-fish
+pitchie sublance
+dog dayes
+frenzies
+salt beefe
+pease porridge
+pils
+poles
+beete
+barley bread
+balsamics
+agglutinants
+astringents
+cafada bread
+hog-plumb
+milk diet
+the yellow fever
+gallows
+bonito-fish
+watchman
+stock-keepers
+field negro
+spanish gold and silver mines
+meate of meat
+dung of a peacock
+horse-dung
+spindle
+sailes
+red
+pear-fashioned
+rind
+petals
+stamina
+stylus
+skin
+corona
+apple-like substance
+pulp
+oate-meale
+bloud
+salt meates
+marmelad
+sucker
+cates
+silkin stuff of india
+silk stuffs
+cowes
+emerald pillar
+lords prayer
+two shillings and six pence
+brown wheaten bread
+oxe-pallets
+the craw-fowl
+parraquito
+curfie bell
+apprentices
+labourers
+tambarane
+peasants
+skirrit
+currais
+brigantine
+scooner
+lupins
+beane-flower
+raw cream
+calthorps
+chausse-trappes
+carriages
+perfumes
+kaddefeb
+euesong
+cows udder
+spinage-tart
+tart of rice
+codling-tart
+green apples
+scalding-water
+pippin-tart
+margarite
+drum
+christianity
+oxe-pallates
+veal sweet breads
+unicorns
+lac
+poor-john
+snow-water
+xagua
+salt-wiches
+linnen shirts
+pandoras boxe
+birds of paradise
+english commodities
+awz
+slave cargoes
+green corn
+fishing trades
+wheaten bread
+mafts
+cornelians
+kneading-board
+pastry coffin
+marble morter
+macaroones
+hair stuffs
+staple commodity
+pistoll
+mulatos
+sebastian prunes
+songs
+three hundred pence
+oil of olives
+plantation commodities
+sea-fish
+river-fish
+fifteenes
+1567
+mince
+flounder
+haddock
+lam-prey
+brew
+cleaver
+lights
+estates
+carricks
+caravel
+white-pot
+mornings-milk
+hartichoak stooles
+vetjuice
+packthread
+spanish war
+mackrels
+fowle
+legs of mutton
+mac
+calves udder
+punishments
+charms
+crown
+damask table cloth
+hawking
+hunting
+crestes
+sherrie sack
+blacke sheep
+knotted grass
+ladder of heaven
+red rose cakes
+armes
+glass of maligo-sack
+partridge white
+peacocks
+barrows greate
+bonefier
+brian
+wild hogs
+pumpkins
+wild wine
+geese-broth
+goose-gibblets
+butter of lard
+young rabbets
+lamb's purtenances
+purtenances
+fat bacon
+white broth
+light
+flame
+hag's horfe
+indian hatchets
+moor hen
+coot
+hen turd
+hog slip
+plough
+steam
+baulme
+mooses
+ground afs
+savannah gras
+wild french guava
+french guava
+guiney worms
+gully
+eagles wings
+sturgeon nets
+stone hatchets
+birch rinds
+hamocks
+rug-gownes
+milk-cheese
+morter
+tun
+negro slavery
+bores grease
+oyl of neats foot
+mice dung
+british plantation sugar
+sloops eagle
+barsheba
+apricot cakes
+indian pulse
+gafa
+blaft
+aphe of linnaeus
+buffalo's
+tawney moore
+cockes
+nutts
+garlike
+coal-trade
+puff-paste cake
+gally-pots
+puff-paste buns
+choux
+clab-board
+wainscot
+pipe-staves
+masts
+vilers
+english christians
+english jewes
+feast of the sabbath
+greekish rites
+bakers
+diapers
+ten ships
+1617
+five sail
+pewel
+caldo
+drofs
+rusly bacon
+white sope
+canel
+strays
+prince-bisket
+rose-leaves
+silver cup
+mine of strange copper
+salted spice
+pastry mens cream
+tart-coffin
+kidney
+beef marrow
+pastie coffin
+pastry lid
+sweet suet
+chafing-dish
+gilly-flowers
+bodkin
+room
+oven
+glasses
+cup-boards
+green cheese
+mince meat
+golden cups
+run-away
+small-arms
+north-west wind
+duckat
+beanflower
+capons grease
+, and 
+ thre
+custud-apples
+papans
+musk-melons
+water-melons
+pinnas
+malecotoon
+cafabi
+tperpera
+fireame
+deal-boards
+curaam
+musquet shot
+males
+females
+disciples
+creolian negroes
+water of cursing or divination
+barks
+divining staff
+scimetar
+ax
+kettle
+scull
+europeans
+longboat
+linsey-woolsey
+worsted chains
+druggats
+worsted stuffs
+mummia
+stalks
+moroche
+forty pounds
+negroe man
+hoghead of beer
+censers
+monks prisoners
+cockrel
+hearts-tongue
+egge cake
+turkie egge
+embers
+coves
+breast-milk
+cow's milk
+handicrafts
+thornbackes
+muskles
+squids
+souldiers
+castrill
+saylers
+quartaine feuer
+riuier horse
+ravens
+stole
+holy-water
+diuining
+king's-evil
+swine-pox
+venom
+cardus posset-drink
+poor laws
+british fisheries
+silte
+north-starre
+wilde beastes
+beare
+gifts
+negro-hull
+portugall negros
+f. gipsy joan
+c. tartar
+f. penelope
+c. flatterer
+c.
+f. helen
+c. comet
+penelope
+curate
+chose
+h. gnawpoff
+g.
+g. batherem
+h. caractacus
+g. homespun
+h. cordewonouky
+b. c. mitre
+gr. c. hobgoblin
+chef. c. squirrel
+bl. c. chance
+calves-foot-pye
+tansey
+chicken-knots
+wheat-blades
+strawberry-leaves
+frying-pan
+scummer
+thieves
+drinks
+sloop's cargo
+land crabs
+market goods
+hogs-blood
+sives
+hogs-guts
+hogs-fuet
+medicinal drugs
+shaddock
+mamies
+arabian jessammy
+tithymaloides
+wing
+leauen
+paschall-stomacke
+chaires
+kidde
+widows and orphans
+linen manufacture
+silk-weavers
+mullins
+brass cannon
+breuariie
+bible
+harts-tallow
+house negros
+the law
+the gospel
+officers
+regiments
+coveture
+spiders
+salamanders
+spanish sugar-mills
+land-soldiers
+iewish
+fishes
+balsamically
+hanch
+ladle-ful
+cloaks
+arabian
+turkycocks
+elixir volatile
+cephalike herbs
+braf's guns
+rixdollars
+kings iron eln
+rubarbe
+sweet-breads of veal
+english silver groat
+gives
+ryals
+beastes
+whelpes
+elkes
+mince pie
+venson pastie
+conny
+vnicorne
+babylonian talents
+sugar colonies
+bras field-pieces
+wheelbarrows
+spades
+negroe children
+negroe women
+euboike talents
+canaller
+interlopers
+private traders
+omons
+σακχαρον
+convoys
+pyrats
+tortoises
+hedg-hogs
+alfurcan
+azoraz
+pyans
+garden fruits
+slave-bill
+crownes
+bloody-flux
+omniferrous apples
+fleet
+natives
+animals
+images of mastic gold
+pearl-trade
+weeds
+phylosophie
+sheeps trotters
+veale
+iewish pascouer
+alsurcan
+mamaluke slaues
+salt meat
+breads of veal
+proof spirits
+chucks of veal
+chicken pie
+steak pie
+neck of mutton
+italian pudding
+trumpet of a rammes-horne
+gray cloake
+blacke gownes
+vails
+milts of carps
+samsons foxes
+say
+raw material
+milks
+wheat flower
+pellitory of spain
+german spaw water
+glass bottles
+ribbons
+tanning of leather
+garden radish-roots
+smarke
+sea-eowle
+negro huts
+1640
+irish cattle
+lizards
+snake
+flies
+music
+instrument
+spinet
+monkeys
+sackes
+rumney
+elder flours
+senecas ee 4. trago
+perrets
+rashes
+shalloones
+gauzes
+crapes
+broom
+koran
+zizah
+tzibah
+archers
+ball-cartridges
+musket
+bayonet
+cartouch boxes
+egyptian plague
+european soldiers
+negro soldiers
+consumption
+buttered parsnips
+cock-chicken
+cattles
+affiniques
+wienfills
+taches
+goudges
+sockets
+wollen
+staffs
+hojes
+shoos
+anchores
+maurells
+pigs
+pullin
+liam hounds
+sugar-making
+salted beef
+fift
+hippocras
+hippocrates sleeve
+pickerell
+mothers milk
+sires
+portugueses
+plantation product
+british seamen
+ships british built
+product
+manufacturies of england
+ethiopian
+deers heads
+mamei
+crops-grease
+goats-tallow
+distilled water of strong vinegar
+buffles
+cowe
+damask prune
+ani
+smallpox
+enslavers
+enslaved
+crawfish
+bricces
+french puffs
+leg of beef
+fountain water
+hipocras
+rupias
+seraphins eberli
+rupias eberli
+toleries toledos
+toledos
+sue toles
+carats
+roiles of elme
+field-cricket
+house-cricket
+fly-catcher
+spider-kind
+house-spider
+cock-roches
+field-spider
+flat-back'd spider
+italian tarantula
+surinam scorpion
+golden spider
+sweet cream
+savoury
+yolk of an hard egg
+parfley
+vinc-leaves
+widgeon
+shel-drake
+puets
+irish frizes
+dye-stuff
+diet-bread
+brest of veal
+pastic crust
+lambs-stones
+cox-combes
+vines muskadine grapes
+mycovia glass
+serpentine stone
+colchester bays
+exeter serges
+grogram-yarn
+essence of antimony
+cucumers
+aaron
+prunelloes
+suckets
+beef-pallates
+sparagous
+sucking pig
+sheep pacos
+moromoros
+cambi
+treacle water
+udder
+neats feet
+chibbolds
+naue
+white elephants
+sea-monsters
+pickeld herrings
+plates
+bookes
+planters goods
+sail
+peruvian goose
+taguatrin
+rat
+tenplhaukanhiqui
+adder
+mortars
+thred-pun cloaks
+sails
+horses tails
+mayns
+sable cloak
+barque of nunez cabeca
+heifer
+mortar-pieces
+matches
+linley-woolsey
+fellow-slaves
+dams
+indian corn of america
+infant negroes
+hoe
+bill
+enula-campane
+balm water
+indian ware
+nigua
+melancholie
+fumitory
+licor
+malmesie
+negra
+pieces of ordnance
+bras guns
+cowow
+coromantees
+hawkes
+acornes
+lothes
+mines of gold and silver
+copper money
+ghaanda's
+alligator
+poylous fume
+dogs meat
+linen shirts
+roe-buckes
+greene stone
+sun- rising
+copper-plates
+violet colour
+tyrian red
+tyrian murex
+jews goods
+grace
+promise
+imbroyder'd tapestry
+cheese-curds
+cheshire cheese
+turkeys
+hussars
+sheeps-kidney-suet
+old strong cheese
+fine flowers
+sheeps-blood
+scale from a-boyled prawn
+shrimp
+bleak
+gentles
+chymical
+birds of the mountains
+goats flesh
+widgen
+lambs flesh
+falcon
+mastisse
+caske
+acajou-tree
+acomas
+acajon
+musk-herb
+husbandmen
+castlins
+pippins red
+spirit of the rose
+syrup of elder
+sorceries
+marmalat
+paste-royal
+court boles
+lawn
+moulders
+rouling-pin
+ashen dish
+court cup
+dysentery
+odor arabiens
+pancheam
+indian salt
+tabaxir
+rams horne
+ann mary-bell
+brigandines
+braffe
+canoas
+barbles
+riuer sturgeons
+cuttles
+riuer lampreyes
+female tenches
+sweet hearbs
+riuer perches
+hot ague
+cra fish
+ptifick
+brackish water
+brasse pots
+hera pica
+whey of cows milk
+alkakengis
+confection of alkermes
+petit blancs
+rice-flower
+clowted cream
+skerret
+eele
+cowlips
+naple-bisket
+malagatoons
+necturus
+chubbs
+blue-fish
+mofs-grooper
+fuci
+vegetables
+black-fringed sea-weed
+fringe sea-weed
+medicines
+skinnes
+red cabbidge
+claret wine vinegar
+reddish tops
+machagia
+medum
+pardaw
+laten
+gannaba
+serpent
+baal-idolatrie
+cuttles bone
+alexander
+clare
+dragon water
+latdanum
+lavender flowers
+coding
+negro people
+varjuice
+leveret
+pinace
+bread-flour
+grits
+roe
+pita
+scythe
+withes
+tops of the canes
+haxtichokes
+oxe palate
+hard-lettice
+french manchets
+marchpane paste
+stock-fishmonger
+grocer
+raven's quill
+plantations
+fishermen
+umi
+liquor made of oats
+french bisket
+chymical oyls
+traders
+european commodities
+sea-calf
+civit cats
+numbles
+peices of eight
+dollars
+french stuffs
+dwrah
+ammadwrah
+musk-buff
+pond-weeed
+slauerie
+mault
+cheefe
+dog
+thrush
+yolks of six eggs
+lozenges of sugar-plate
+pump-water
+lambs liver
+udder of a leg of veal
+minerals
+female slaves
+dumb-cane
+snakes
+mussel
+imbunda
+cacacio
+grocery
+manufacturers
+mans flesh
+stone-money
+doctor turcables green balsom
+rosemary-crops
+bay-buds
+sheeps-fuet
+salve
+brass chafer
+sweet sallet oil
+spike oil
+gally-pot
+guts
+mal d'estomach
+dirt-eating
+irish butter
+billovvs
+tygre
+monick
+corset
+jenipa
+jenipapo
+jenipaba
+parras
+british commodities
+pork-lard
+crumbs of bread
+fresh sturgeon
+venison-sauce
+lotos
+faba graca
+syriaca
+mistletoes
+queen
+pipe staves
+iah, illah
+scimitar
+atronomie
+indigo-plant
+almond tart
+damfin tart
+strawberry tart
+beares paws
+chaoufaron
+acorues
+mulle
+tiara
+scotch collops
+deers tongues
+ham
+talents
+salted
+antegoa balsam
+achafee
+negro oil-bush
+palma christi
+oyster pie
+artichoak-pie
+beaten nutmeg
+calves-foot pie
+afliento trade
+jeat
+conserve of quinces
+red rose-leaves
+oyl of bays
+cinnamon-rinde
+v vine
+bombace
+oyl of penny-royal
+raw milk
+red rug coat
+light colour'd coat
+thunder-bolt
+salt stone
+ramees sheepe
+beens skins
+caurimata
+pyram
+opean
+tarehure
+paraty
+jerou
+crabs oufa
+white crabs aouara-oussa
+swine call'd taiafou
+pilmiere-eaters
+tamandua
+boars head
+dogs ears
+horses hair
+ox feet
+tapire-ete
+bezoor stone
+armadillo's
+wild cats margaria
+red precipitate
+rust of copper
+mclasses
+morfe
+victuall
+drakes
+lords spirit
+rosemary-tops
+furmentie
+plumb-pottage
+pirates
+sea-rovers
+souldiour
+pistoles
+scum
+tills
+wash
+paſſeouer
+olue
+coney's
+sea-mews
+sea-dogs
+pulse
+wax tree
+roasted hen
+marygold-leaves
+pastry-paste
+masses
+cream of apricots
+quince-cream
+roasted quince
+clusters of barberries
+cullice
+cock
+cordial strengthening broath
+red cock
+mangrave
+calibash
+coco
+protestant
+forreign protestants
+ipecacuhana
+emetic tartar
+peruvian silver
+galliots
+gallie
+british-built ships
+protestants
+carp pye
+boie armonack
+terra lemnia
+mackerel
+roach
+sugar-plate
+avigato pear-tree
+persea
+pomgranate-tree
+punica
+starlings
+sparowes
+guaminbig
+tangara
+icapucaya
+sea-dogges
+draperies
+miller
+sagu
+calk
+benioyn
+tinnce
+bonitos
+sharkes
+rain-bowe
+battalia
+bisk-pyes
+peepers
+squobs
+oranges and limons
+plague-water
+brice
+gallion
+palm
+coco-wine
+martens
+weaills
+adobothus
+efurgnie
+gigget
+woolen manufacture
+negroe boy
+quinla
+rod of iron
+english money
+black and white
+ecls
+yolks of two or three eggs
+beef-guts
+sugar-house
+the kings coyne
+pasty-pan
+felons
+scabios water
+scabios
+varren
+tormentill
+agrimone
+bitterne
+fetherfew
+sallet oyle
+copper-guns
+lock
+saylor's
+waps
+danta
+roß-lyons
+cloathing
+course bandle cloath
+griddle
+snuff
+plows
+hut
+cabbin
+linnen-yarn
+hogs-heads
+barrel staves
+galley
+long-boat
+moorish slaves
+alcoran
+cod-fish
+semper vivens
+sallet-oyle
+liniment
+sensibile plant
+white lilly
+red lilly
+flower of the moon
+fannce
+manicles
+becket
+necklace
+cushinet
+dyall
+ean-faithes
+balls
+temper
+ashes of withes
+beef-broth
+yole
+say-some fish
+bats
+rebels
+fugitives
+shippes
+inhabitants
+mountaines
+woodes
+fennes

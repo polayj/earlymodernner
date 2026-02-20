@@ -1,0 +1,51 @@
+{
+  "doc_id": "Norwood - 1753 - An account of some particulars_page_1.xml",
+  "text": "(824)\n— Primo avulso non deficit alter\nAureus, & simili frondescit virga metallo.\nThe whole complex of Ingredients is known to consist only of vulgar Aqua\nfortis (abstracted from two parts of Vitriol, and one of Salt-peter) and\nQuick-silver, and a small quantity of Silver, far less than you may reap in\na small time from those Silver-sprigs; yet gain there is none, there being\nmore expences blown away into smoak by continuance of fire in one month,\nthan can be recover'd from this Silver-harvest in a longer time. And though\nthis seem but a toy, yet 'tis very Philosophical, much informing the understanding,\nhowever it enrich not the purse. For here we see crude Mercury\nmanifestly turn'd into Silver, notwithstanding 'tis deny'd by so many.\nSo far this generous observer for this time; with the last part of whose\nrelations may be compared Numb. 39. p. 779, 780. 'Tis hop'd, that\nhereafter more particulars of this Curious Traveller, concerning both the\nSubject, he hath here begun to discourse of, and others of a Philosophical\nnature, will be further communicated by him.\nAn Account\nOf some particulars, referring to those of Jamaica, Numb. 27. and\n36, Communicated by Mr. Norwood the younger, an Eyewitness.\n1. ALlegators are shap'd like Lizzards, being four footed they walk\nwith their Belly at distance from the ground, like Lizzards. Those\nof a full growth, have Teeth like a Mastiff, and a Mouth of 1 1/2 foot wide.\nThey are of so strong a scent, that you may smell them at a pretty distance,\nwhen they lie on the land. They may be master'd and kill'd by any, dextrous\nand skill'd in the way of doing it, which is, that a Man be arm'd with\na good long Tronchion, and fall upon them side-wayes; for doing it\nfrontwayes, they are too nimble for the assailant, and may, by leaving upon him,\n(which they can do the length of their whole Body) spoil him: but if he\nlay his Club on them against their shoulder, and behind their fore-feet, and\nlame them there, the beast being thereby rendered unable to move, is easily\nsubdued.\n2. Tortoises, if their blood be heated, they dye, and if they shall\nlive, their blood must not be hotter, than the Element, they live\nin.\n3. The Chego's, described by Ligon, are not felt to have got into the\nbody, till a week after. They will breed in great numbers, and shut themselves",
+  "entities": [
+    {
+      "text": "Salt-peter",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Quick-silver",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Silver",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Silver",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mercury",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Silver",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Jamaica",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Silver",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mr. Norwood the younger",
+      "type": "PERSON",
+      "label": "PERSON"
+    }
+  ]
+}

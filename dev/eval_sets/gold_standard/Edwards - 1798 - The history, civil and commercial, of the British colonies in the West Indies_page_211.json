@@ -1,0 +1,46 @@
+{
+  "doc_id": "Edwards - 1798 - The history, civil and commercial, of the British colonies in the West Indies_page_211.xml",
+  "text": "WEST INDIES.\n179\nand suddenly to abolish the existence of the commerce\nwould not be productive of real disadvantages,\nin place of effecting the end desired by those\nwho are eager for such strong and speedy measures?\nFor solving this important question, we must take\ninto view, not only the situation of the slaves in\nAfrica, but of those already in the West Indies.\nIn the first place, It is false reasoning to suppose\nthat Britain, withdrawing her share from the general\ndemand, will effect a decrease of the quantity\nbrought to the market; for although in other kinds\nof commerce the supply is generally regulated by\nthe demand, yet in this instance the rule will not\nhold. When two African states are at war, the\ncaptives are dealt with in proportion to their strength\nand appearance. The old and infirm are massacred\non the spot; such as are able to travel a long\njourney are led to the sea-coast, and of these all\nwho are rejected are immediately put to death.\nFrom this it appears, that were Britain to withdraw\nher demand, there would be left a superabundance\nof about 38,000 every year, who, unless bought up\nby other nations, must inevitably be sacrificed to\nthe disappointed avarice of the black trader. Instances,\nindeed, of this barbarous practice are so\nnumerous, that they have been frequently perpetrated\nin sight of our own shipping; so that in this\ncase the remedy becomes abundantly more horrible\nthan the disease.\nSecondly, Let an unprejudiced mind reflect upon\nthe situation of the remaining negroes, in the West\nZ ij",
+  "entities": [
+    {
+      "text": "Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "WEST INDIES",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "West Indies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Africa",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "African states",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "negroes",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "slaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

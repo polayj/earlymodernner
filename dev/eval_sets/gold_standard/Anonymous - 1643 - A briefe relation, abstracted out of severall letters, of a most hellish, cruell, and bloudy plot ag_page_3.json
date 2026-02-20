@@ -1,0 +1,126 @@
+{
+  "doc_id": "Anonymous - 1643 - A briefe relation, abstracted out of severall letters, of a most hellish, cruell, and bloudy plot ag_page_3.xml",
+  "text": "Treason, and more barbarous and Cruell then the Massacre\nof France, being destroyers of their own liberties, and\nsupplanters and overthrowers of the same Religion that they\nthemselves pretend to professe. The Agreement betwixt the\nChavaliers and the Malignants here in this City was, that\nabout eleven of the clock on the Tuesday night, a house\nneere unto Froome Gate was to be blowne up; which was to\ngive warning to the Chavaliers to make their onset; who\nagainst that hour were to draw downe unto the City, and\nPrince Robert with his Army came so nigh as the gallows:\na bell at St. Johns Church on a hill above the gates was to\ntoule, another bell at St. Michaels Church upon the hill\nabove the Green was to ring, to give notice to the Malignants\nof this Towne to rise in an instant; sufficient parties\nwere made to have forced all the Courts of Guards, thereby\nto have let the Cavalliers in without opposion; for that\npurpose there were in readinesse in the house of Master\nGeorge Butcher of Christmasse street, a new made Captaine\nfor this designe, about 160 armed men, and in the house of\nMaster Robert Yeomans (who was one of the Sheriffes of this\nCity the last yeere, foure and twenty men ready to put\nthemselves in armes which there they had; the one to supprise\nthe maine Guard, the other, the Guard at Froome-\ngate, and to let in these bloud sucking Chavaliers; two\nother Bells were to toule at the same time to give notice to\nthe Malignants to rise in all parts of the City. Both Monday\nand Tuesday, white peeces of Incle were given to divers, and\nto the better sort of people Ribbins, who did weare them in\ntheir bosoms and hats for distinction, and all that had not the\nword Charles, or those Marks, were to be put to the sword,\nmurthered and destroyed, besides divers houses in many\nplaces of the City were marked with white chalk, who were\ndesigned to utter ruine and destruction. The businesse is not,\nas\nas yet fully examined, but this and much more is confessed\nby the principle and maine plotters of this wicked designe:\nI want time to give you a perfect Relation, you shall speedily\nhave a fuller and better account, as soone as we have\na little recovered our selves out of these distractions; for the\npresent, here is enough to stirre you up to joyn with us in\nthe admiration of Gods infinite goodnesse and mercy to\nus, and to give God his glory and prayse for this wonderfull\nand gracious deliverance, that hath preserved so\nmany thousands of us that were innocent, and sold,\nand almost given up into the hands of these cruell and\nbloud thirsty men.\nThe Cheife actors of this mischievous designe were the\naforesaid Robert Yeomans, and George Butcher, Mr. John\nTaylor, Mr. Colestone, and his brother Mr. Fitzherbert, two\nColsons, and two Herberts, N. Cule, E. Arundle, Mr. Caple,\nand Captain Cole of St. Augustins, who with at least one\nhundred more Actors and Accessories, are already taken\nand imprisoned in the Castle, and hourely more are discovered\nand secured, many of them upon examination have\nconfessed the plot to be in manner as before is described;\nand that threescore families of men, women, and children\nwere to be put to the sword, without quarter, given in upon\na note. Twogoods house was searched and therein were found\nmany papers that did discover the whole plot, and between\nthree and four thousand pounds in money and plate, and\ntwenty muskets charged with bullets, besides divers instruments\nto murther and destroy with cruelty, such as wee\nnever saw before.\nA Postscript.\nPrince Rupert and that Army marched away as soone as their Plot\nwas discovered.\nA 3\nThe",
+  "entities": [
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Froome Gate",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Johns Church",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Michaels Church",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Christmasse street",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Froome-gate",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Incle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ribbins",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "St. Augustins",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Prince Robert",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Master George Butcher",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Master Robert Yeomans",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. John Taylor",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Colestone",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Fitzherbert",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Caple",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Captain Cole",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Robert Yeomans",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "George Butcher",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "E. Arundle",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Prince Rupert",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "N. Cule",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Chavaliers",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Cavalliers",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

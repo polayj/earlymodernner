@@ -1,0 +1,126 @@
+{
+  "doc_id": "Anonymous - 1700 - An enquiry into the causes of the miscarriage of the scots colony at darien_page_31.xml",
+  "text": "( 52 )\nto those granted to the English East-India Company\nat first, they would have found there was no\nreason to charge his Majesty with granting us such\nimmense or unparallel'd Privileges, or ascribing\nit to his not well knowing what he did for the\nnoise of the Guns at Namur, as this petulant Scribler\ndoes. Dedication, pag. 9.\nBut if H—s and his Suborners exclaim against\nour Privileges as immense, they are resolv'd to\ndiminish the Authority by which they were granted,\nand call it only by the name of an Octroy,\nwhich significies no more than a Patent; whereas\nour Privileges were granted us by an Act of Parliament,\nwhich are greater and more sacred than all\nthe Octroys in Europe: Thus thro Ignorance or Malice\nthey think fit to vilify his Majesty's Conduct\nand Authority, which they pretend to defend.\nTheir Malice is further demonstrated by the Parenthesis.\n(to be presum'd) in the 2d page of the\nDecation, where they speak of his Majesty's Promise\nto interpose his Royal Authority to do us right in case of\ndisturbance, and that at the publick Charge (to be\npresum'd) of his antient Kingdom. There might possibly\nhave been some need of their presumption, had\nall Mankind been indow'd with as little Sense and\nHonesty as H—s and his Suborners; for no\nother Body could ever presume it to mean any thing\nelse, since our Acts do not oblige England: tho if\nthey had presum'd that our Enemies would take\ncare than the said Promise should not be kept, the\nrefusal of lending our Company the 3 Men of War\nbuilt at the Charge of our own Nation, would\nsoon have convinc'd the World that they had\npresum'd too true.\nWe have accounted for rejecting Mr. Douglas'\nProposal elsewhere; nor shall we take notice of\nH—s's scurrilous Reflections on Mr. Paterson\nwhich\n( 53 )\nwhich only discover his own Temper, but do that\nhonest Man no hurt. As to his charging us with\nsquandring away 50000 l. on 6 Hulks at Amsterdam\nand Hamburgh, purely to make a noise of our Procedings,\n&c. we would desire him and his Suborners\nto reconcile it with what they say from p. 14, to\n20. where they own themselves that the Dutch and\nHamburgers were both mightily pleas'd with the\nDesign, p. 14. That the Dutch were tickled with the\nConceit that they should be Sharers in the Scots Trade ;\nand p.16. they say, That that which gave the dead stroke\nto the Scots Design, was the East and West-India\nCompanies running open mouth'd to the Lords of Amsterdam,\nshewing what was hatching by the Scots Commissioners\nin their City to ruine the Trade of the United\nProvinces. P. 17. they tell us, That the Hamburgers\nthought it the more their Interest to embrace\nthe Project, the more that the Dutch oppos'd it: P.18. That\nour Affair was generally favour'd by the Burgers of\nHamburg; and p. 21. That the Government of England\nsent the Senate of Hamburgh a Caution by Sir Paul\nRicaut to take care how they suffer'd their Burghers\nto embark with us. So that here we condemn\nthem from their own months: It being plain from\nthose Concessions, that we did not idly squander\naway our Money at Hamburgh and Amsterdam; but\nthat both those trading Cities approv'd our Design,\nand would have engag'd in it, had not the Court of\nEngland and the Dutch oppos'd it; and therefore\nwhat loss of Mony we sustain'd in those places,\nmust be charg'd to their Account; so that H—s\nhath verified the Proverb, That Liars have need\nof good Memories.\nThis is not the only Instance wherein those of\nH—s and his Suborners have giv'n them the\nslip; for in the 4th page of the Dedication, they\nupbraid\nE 3",
+  "entities": [
+    {
+      "text": "East-India",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Amsterdam",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Amsterdam",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Amsterdam",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Hamburgh",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Hamburg",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Hamburg",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Hamburg",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Hamburgh",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Hamburgh",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "United Provinces",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Europe",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "English East-India Company",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Mr. Douglas",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Mr. Paterson",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Sir Paul Ricaut",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Senate of Hamburgh",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Namur",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Scots Commissioners",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "East and West-India Companies",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    },
+    {
+      "text": "Parliament",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

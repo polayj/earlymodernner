@@ -1,0 +1,116 @@
+{
+  "doc_id": "Anonymous - 1677 - The Case of His Majesties Plantations_page_3.xml",
+  "text": "(3)\nPlanters intended to have Address'd to this Parliament,\nfor reducing the Book of Rates to the present Value of\nSugars.\nThis low Value of the Commodity causes the Inhabitants\nof the English Colonies to forsake them, and remove\nto other places, whilst the King of France useth all Imaginable\nIndustry to strengthen and fill his Plantations ;\n(some of which are in sight of ours) with Inhabitants,\nhaving made Dunkirk a Free Port for his own Sugars,\nwhere no Customs are paid in or out; by reason of which\nthe Markets of Flanders and Holland, &c. are furnished\nwith French Sugars at 2 s. 6 d. per Hundred cheaper than\nthe English can, by reason of the Acts of Trade and Navigation.\n\nThis increase of the strength of the French Plantations\nand decrease of the English, hath made many of the Planters\nconsider of with-drawing their Stocks, for fear if a\nWar should happen with France all would be lost.\nThe English Sugar Trade being apparently decaying\nunder the present Impositions upon Sugar, can by no\nmeans bear more and subsist; and it is of great advantage\nto France to have our Plantations ruined by more\nImpositions on their Sugars: for should the French gain\nthe Sugar Trade from the English, England would lose\nthe Imployment of 400 Sail of Ships and 8000 Seamen,\nand France would gain it, which would differ the present\nBallance of Seamen 16000, besides the loss of a Native\nCommodity, that hath brought so much Wealth to\nthe Kingdom, and would also be the loss of the Trade of\nAfrica for Negro's.\nIt hath been ever the Practice and Policy of Trading\nNations, to set the Publick Taxes on Foreign Commodities\nand not those of their own growth.\nIn the time of the Usurper Cromwell, when all things\nwere",
+  "entities": [
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Dunkirk",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Flanders",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Holland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Africa",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "English Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "French Plantations",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Negro's",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "King of France",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Cromwell",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "Parliament",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}

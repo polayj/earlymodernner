@@ -1,0 +1,141 @@
+{
+  "doc_id": "Anonymous - 1690 - The compleat English and French cook describing the best and newest ways of ordering and dressing al_page_122.xml",
+  "text": "234\nAll sorts of\nthem with your knife, and season them\nwith Salt, Nutmeg, Mace and Pepper,\nand having first wash'd your Park on the\ninside with yolks of Eggs, wash the outside\nof your Veal therewith, and lay it\nwithin your Park; lastly, strow on your remaining\nseasoning, and rowl it up hard,\nbinding it with Tape: when it is boil'd,\nsouce it in some of the same liquor, with a\nlittle Vinegar, beaten Pepper and Ginger;\nwhen you serve it up, stick your Pork with\nBay-leaves or Rosemary and Flowers, garnishing\nyour Dish with Flowers and\nSage.\nRams head souced.\nCut the head off, with a good part of\nthe neck adjoyning to it, and boil it with\nthe skin on a good while; when it is\nthroughly boiled, (which will require a\nconsiderable time) take it up and pluck off\nthe skin, then take Broth you have boiled\nsome fresh meat in, and boil it over again,\nwith Vinegar, Salt, a good handful of\nSweet Herbs, Ginger, Pepper, a good piece-of\nHorse-raddish root scraped, and a quarter\nof a pound of French-barley; being\nboiled, strain them through a bag, and\nsouce the head in it; you may serve it\nup\nFlesh Souced.\n235\nup either in slices, or whole with the horns\non.\nSides of Lamb souced.\nBone your side of Lamb, soak it and\nsqueeze it well from the blood, wipe it dry,\nand season the inside with beaten Nutmeg,\nGinger, some sweet Herbs minced\nsmall, whole Coriander-seed, minced Lemon-pill\nand Salt; lastly, some slices of\nbroad Lard over all: then rowl it up in\na Coller, and tye it up in a clean cloth,\nput it into your liquor when it boils, and\nscum it very well, and then put in sliced\nGinger, sliced Nutmeg, Salt, Fennel and\nParsley roots, ; being almost boiled, put in\na quart of White wine, when it is enough\ntake it off, and put in slices of Lemon,\nwith the Pill of two whole Lemons;\nboil it close covered to make the Veal\nlook white.\nThus you may order a breast of Veal,\nor any joynt of Mutton, Kid, Fawn or\nVenison.\nSwan coller'd.\nBone your Swan, and part the two sides,\nseason it according to the foregoing directions\nin the soucing of Geese, season it\nwith",
+  "entities": [
+    {
+      "text": "Salt",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Nutmeg",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mace",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pepper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Vinegar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pepper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ginger",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Bay-leaves",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Vinegar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Salt",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sweet Herbs",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ginger",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Pepper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Horse-raddish",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "French-barley",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Nutmeg",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ginger",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sweet Herbs",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Coriander-seed",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Lemon-pill",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Salt",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ginger",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Nutmeg",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Salt",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "White wine",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Lemon",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Lemons",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

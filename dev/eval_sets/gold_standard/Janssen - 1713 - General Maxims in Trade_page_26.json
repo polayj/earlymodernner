@@ -1,0 +1,51 @@
+{
+  "doc_id": "Janssen - 1713 - General Maxims in Trade_page_26.xml",
+  "text": "[22]\nBefore the War, if I bought any Commodity\nin France which cost me a Livre, I paid\neighteen Pence English for it, as is well known\nto every Body that had Dealings there; if I buy\nnow the same thing in France for a Livre, I\npay but one Shilling for it, by which means all\ntheir Manufactures are rendered so very cheap\nto us, that if there was but moderate Duties\nupon their Importation, we should immediately\nbe over-whelmed with French Commodities.\nFor as their Work-men receive no more Sols\nor Pence for their Days-work or Wages than\nthey did formerly, they sell their Cloth, Paper,\nand Linnen for no more Sols than they used to\ndo: Therefore if I bought heretofore an Ell of\nLinnen for a Livre, it cost me then eighteen\nPence, and now buying an Ell of the same Linnen\nfor a Livre still, it costs me but one Shilling.\nOn the contrary, when the French bought any\nthing of us before the War, if it cost them one\nPound Sterling, they paid but thirteen Livres\nfor it; and if they buy now the same thing for\none Pound Sterling, they pay twenty Livres:\nWhich renders every Commodity we have so\nvery dear to them, that 'tis hardly possible they\nshould take any thing from us, but what they\nhave an absolute Necessity for.\nFor if they bought formerly a Yard of Cloth\nhere for fifteen Shillings, they paid but nine\nLivres three Quarters for it; and if they buy\nnow here a Yard of the same Cloth for fifteen\nShillings, they must pay fifteen Livres: Which\nas",
+  "entities": [
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Cloth",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Paper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Linnen",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Linnen",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Linnen",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cloth",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cloth",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

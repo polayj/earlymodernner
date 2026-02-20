@@ -1,0 +1,341 @@
+{
+  "doc_id": "Anonymous - 1731 - The Case of the British Sugar-Colonies_page_2.xml",
+  "text": "[2]\nBut that this has been so for many Years past can never be questioned or\ndenied. For the People of New-England, and other Parts of the Continent,\nhave supplied the French Sugar-Colonies with Provisions, and Necessaries of all\nkinds for their Plantations, and have taken from them sugars, and great\nQuantities of Rum, which the French never made before (as interfering with\nFrench Brandy) till they found a Vent for it by this Trade.\nAND they take off likewise great Quantities of the French Molosses, which\nwas useless to them before, for the same Reason, that the distilling it would hinder\nthe Consumption of Brandy.\nAND such French Rum and Molosses is often bought by them with Money\nreceived in our Sugar-Colonies, from their Cargoes sold there.\nTHE Mischiefs from this Commerce are very many and evident, and will\nencrease more and more every Year, if some effectual Stop be not put to it.\nBY this means the French have encreased their Plantations, and made new\nsettlements, and chiefly supply Hamburgh, Holland, Spain, the Levant, and the\nMedditerranean, with Sugars, which were formerly sent thither by us.\nTHE British Sugar-Colonies can't find the Market for their Sugars abroad,\nwhich they did formerly, but chiefly depend upon our own Consumption.\nMANY of the Inhabitants and Planters are so redusced, that they are removing\nto the Northern Colonies ; which, in Case of a War with France, in\nall Probability, will occasion the entire Loss of the Sugar Island ; there being\nin Martinico alone upwards of Nine Thousand well-disciplin'd Men.\nTHE British Sugar Islands are constantly drained of their current Monies\nby the Traders from the Northern Colonies, who carry it away to purchase\nSugar, Rum, and Molosses, from the French Plantations.\nTHAT by this Intercourse, they have an Opportunity of taking off great\nQuantities of Foreign European Manufactures, and India Goods, in a Clandestine\nManner, from the French and Dutch.\nAND what is worthy of great Consideration, is, that tho' the Northern Colonies\nmay be Gainers upon the whole by this Trade ; yet the French Sugar-\nColonies recieve much more Advantage thereby than the Northern Colonies\ndo, Rum and Molosses being clear Profit to the French ; and the Cattle and\nLumber they receive, absolutely necessary for them, and which they could not\nhave from any other Place. Nor do the Northern Colonies take from hence\nmore of the British Manufactures than they formerly did ; nor bring a Profit\nto Great Britian from this Trade, any way in Proportion to counterbalance the\nincreadible Damage Great Britain must suffer from the Mischief the Sugar-Colonies\nreceive by it ; The ruin of which must immediately affect Great Britain\nin the highest Degree.\nBESIDES the great Benefit the French Colonies receive from this Trade,\nwhich of itself alone must soon destroy the British Sugar-Colonies, there are\nother Causes which will contribute to make our Sugar-Colonies decline, and\nenable the French to supply foreign Markets with Sugar.\nTHE French Sugar-Colonies receive the greatest Encouragement from their\nMother-Country, and their Duties are less than ours.\nWHEREAS\n[3]\nWHEREAS the British Sugar-Colonies pay in the Plantations a Duty of Four\nand a half per Cent, for their Sugars before they can ship them to Great Britain,\nwhich is never drawn back on Exportation, no more than the Excise on Rum,\nwhich disables them from supplying Ireland with it : And if their Sugars are\ncarried to the Northern Colonies they must pay the Plantation Duty of Eighteen\nPence per Cent for their Muscavado Sugars, and Five Shillings per Cent for\ntheir white Sugar over and above the Four and a half per Cent Duty.\nUPON the whole ; If this Trade to the Foreign Sugar Colonies be not\nspeedily and effectually prevented, the British Sugar-Colonies will be in Danger\nof being ruined. The Consequence of which to Great Britain will be, that\nshe must lose the Export of all the British Manufactures now taken off by the\nSugar-Colonies, and the whole Benefit arising from the importation of their\nProduct.\nOUR Navigation and Seamen must necessarily fall off and diminish.\nTHE African Trade, as chiefly depending on the Sugar-Colonies, must\ndecay.\nAND our Sugar Works, and other Plantation Stocks, and Utensils, will be\nof no Use, and thereby so much Wealth will be actually sunk and lost to this\nNation.",
+  "entities": [
+    {
+      "text": "New-England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "French Sugar-Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Rum",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "French Brandy",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "French Molosses",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Brandy",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Rum",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Molosses",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Hamburgh",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Holland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Spain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Levant",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Medditerranean",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "British Sugar-Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Northern Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "France",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Martinico",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "British Sugar Islands",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Northern Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Rum",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Molosses",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "India",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Northern Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "French Sugar-Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Northern Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Rum",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Molosses",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cattle",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Lumber",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Northern Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Great Britian",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Great Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Great Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "French Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "British Sugar-Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "French Sugar-Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "British Sugar-Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Great Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Rum",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Ireland",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Northern Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Muscavado Sugars",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "white Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "British Sugar-Colonies",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Great Britain",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Africa",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Sugar",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    }
+  ]
+}

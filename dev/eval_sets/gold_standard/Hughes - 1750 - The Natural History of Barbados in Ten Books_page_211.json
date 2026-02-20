@@ -1,0 +1,36 @@
+{
+  "doc_id": "Hughes - 1750 - The Natural History of Barbados in Ten Books_page_211.xml",
+  "text": "Book VI.\nIsland of BARBADOS.\n165\nPurslain, White and Red.\nTHESE differ very little, if any thing, from those in England,\nexcept in the Rankness of their Growth here.\nThey are generally boiled and used, when more valuable Green are\nnot in Plenty.\nThe ARABIAN JESSAMMY; Lat. JASMINUM sive Sambac\nArabum.\nThis is a woody creeping Vine, cloathed with dark-green sharp-\npointed Leaves, of about Two Inches long, and one broad, bearing\nSeven-leaved white fragrant Flowers.\nThese are supported by Seven very sharp-pointed graminous Leaves.\nThis is planted chiefly in Gardens, or near Dwelling-houses.\nIt yields a very agreeable fragrant Smell, and keeps its Verdure all the\nYear.\nTITHYMALOIDES.\nTHE Roots of this are very numerous and strong.\nThe main Stalk branches near the Earth, into many spiral strong\nTwigs.\nThe Bark of the Trunk, near the Roots, is smooth and whitish; but\nall its Branches of a deep shining Green, keeping their grateful Verdure\nundiminished thro’ every Season of the Year.\nThese are cloathed with thick succulent green round-pointed Leaves,\nof about Four Inches long, and Two in Breadth, having their smooth\nEdges a little tinged with Yellow.\nThese are likewise set on the Branches alternately.\nThe Flower, which is of a fine deep Red, cannot be reduced to any\nClass that hath hitherto been described by any Botanical Writer, it being\na triangular sharp-pointed small horizontal Sheath; the Top of the Pistil\njutting out, making the Extremity of the longest Angle: This, on the Inside\nof the Flower, is covered with a yellow farinaceous Dust.\nFrom the same narrow Aperture appear several small Stamina, tipped\nwith green Apices.\nThese Flowers are succeeded by irregular small Berries, of a dark Red\nwhen ripe.\nEach of these incloses Three angular Seeds.\nThe Berries, Branches, and Leaves, are full of a thick glutinous milky\nJuice.\nThe only Place that I have seen this was at Cluff's Bay, in St. Lucy's\nParish.\nThis very seldom grows in any other Part of the Island.\nThe",
+  "entities": [
+    {
+      "text": "BARBADOS",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "England",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "Purslain",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "ARABIAN JESSAMMY",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Cluff's Bay",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    },
+    {
+      "text": "St. Lucy's Parish",
+      "type": "TOPONYM",
+      "label": "TOPONYM"
+    }
+  ]
+}

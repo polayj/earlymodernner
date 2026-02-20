@@ -1,0 +1,26 @@
+{
+  "doc_id": "Anonymous - 1768 - Letters from a farmer in pennsylvania_page_74.xml",
+  "text": "76\nLETTER VII.\nbut those who live under a government, so\nconstitutionally checked and controuled, that\nproper provision is made against its being otherwise\nexercised. The late act is founded on\nthe destruction of this constitutional security.\nIf the parliament have a right to lay a duty\nof four shillings and eight pence on a hundred\nweight of glass, or a ream of paper,\nthey have a right to lay a duty of any other\nsum on either. They may raise the duty\nas the author before qoted says, has been\ndone in some countries, till it \"exceeds\nseventeen or eighteen times the value of the\ncommodity.\" In short, if they have a\nright to levy a tax of one penny upon us,\nthey have a right to levy a million upon us.\nFor where does their right stop? At any given\nnumber of pence, shillings, or pounds?\nTo attempt to limit their right, after granting\nit to exist at all, is as contrary to reason,\nas granting it to exist at all is contrary to\njustice. If they have any right to tax us,\nthen, whether our own money shall continue\nin our own pockets, or not, depends no longer\non us, but on them. \"There is nothing\nwhich we can call our own\", or to use\nthe words of Mr. Locke, \"What property\nhave \" we \" in that, which another may,\nby right, take, when he pleases, to\nhimself.”\nThese duties, which will inevitably be levied\nupon us, and which are now levying upon\nus, are expressly laid for the sole purpose\nof taking money. This is the true definiti-",
+  "entities": [
+    {
+      "text": "glass",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "paper",
+      "type": "COMMODITY",
+      "label": "COMMODITY"
+    },
+    {
+      "text": "Mr. Locke",
+      "type": "PERSON",
+      "label": "PERSON"
+    },
+    {
+      "text": "parliament",
+      "type": "ORGANIZATION",
+      "label": "ORGANIZATION"
+    }
+  ]
+}
