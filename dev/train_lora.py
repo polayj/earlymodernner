@@ -40,7 +40,7 @@ from transformers import (
 # Add project root to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from earlymodernner.inference import ner_inference_for_text
+from earlymodernner.pipeline import extract_entities_from_text
 from earlymodernner.metrics import compute_unique_entity_f1
 from earlymodernner.constants import ALLOWED_ENTITY_TYPES
 
@@ -487,7 +487,7 @@ class NERMetricsCallback(TrainerCallback):
         for i, doc in enumerate(self.eval_docs):
             try:
                 # Run NER inference (shorter generation for speed during training)
-                result = ner_inference_for_text(
+                result = extract_entities_from_text(
                     doc["text"],
                     unwrapped_model,
                     self.tokenizer,
@@ -527,7 +527,7 @@ class NERMetricsCallback(TrainerCallback):
 
             # Run one more inference to get raw output for debugging
             try:
-                debug_result = ner_inference_for_text(
+                debug_result = extract_entities_from_text(
                     first_gold["text"][:500],  # First 500 chars only
                     unwrapped_model,
                     self.tokenizer,

@@ -20,6 +20,8 @@ from pathlib import Path
 from collections import defaultdict
 import shutil
 
+from earlymodernner.constants import ENTITY_TYPES, SYSTEM_PROMPTS
+
 # Paths
 GOLD_TRAINING_DIR = Path("data/training")
 HIPE_CONVERTED_DIR = Path("data/hipe2022/converted")
@@ -28,85 +30,12 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 CONFIG_OUTPUT_DIR = Path("earlymodernner/config")
 
-# Entity types we train for
-ENTITY_TYPES = ["TOPONYM", "PERSON", "ORGANIZATION", "COMMODITY"]
-
-# System prompt for entity-specific models
 def get_system_prompt(entity_type):
-    """Get system prompt for single-entity-type extraction."""
+    """Get system prompt for single-entity-type extraction.
 
-    # Entity-specific prompts with precision-focused rules
-    if entity_type == "PERSON":
-        return """You are EarlyModernNER specialized in extracting PERSON entities.
-
-Your ONLY task is to extract all PERSON entities from the TEXT.
-
-PERSON includes: individual people (authors, merchants, officials, historical figures)
-
-CRITICAL RULES:
-1. Extract the exact text of each entity as it appears in the document.
-2. "type" MUST be exactly "PERSON".
-3. If no PERSON entities exist, return empty list.
-4. Do NOT extract generic titles alone: "King", "Queen", "Captain", "Mr.", "Sir" without a name.
-5. Do NOT extract nationalities (French, English, Spanish) as entities.
-6. Do NOT extract place names as PERSON - places like Virginia, Carolina, Georgia are NOT people.
-7. Do NOT extract organization names as PERSON - "East India Company", "Parliament" are NOT people.
-8. Do NOT extract ship names as PERSON.
-9. Only extract when you are CONFIDENT it refers to an individual human being.
-10. When uncertain, do NOT extract - prefer precision over recall.
-
-OUTPUT FORMAT (VERY IMPORTANT):
-- Return a SINGLE JSON object.
-- The object MUST have exactly one key: "entities".
-- "entities" MUST be a list of objects with "text" and "type" fields.
-- Do NOT output any explanations, comments, or markdown.
-- Do NOT wrap JSON in backticks or code fences.
-
-Example output:
-{"entities": [{"text": "John Smith", "type": "PERSON"}]}
-
-If no PERSON entities:
-{"entities": []}
-"""
-
-    type_descriptions = {
-        "TOPONYM": "place names (cities, ports, regions, islands, countries, rivers, seas)",
-        "ORGANIZATION": "institutions (companies, guilds, courts, parishes, governments)",
-        "COMMODITY": "goods, foodstuffs, agricultural products, spices, materials, trade goods"
-    }
-
-    desc = type_descriptions.get(entity_type, entity_type.lower())
-
-    extra_rules = ""
-    if entity_type == "COMMODITY":
-        extra_rules = "\n6. Do NOT extract currency terms (money, guineas) as commodities."
-
-    return f"""You are EarlyModernNER specialized in extracting {entity_type} entities.
-
-Your ONLY task is to extract all {entity_type} entities from the TEXT.
-
-{entity_type} includes: {desc}
-
-CRITICAL RULES:
-1. Extract the exact text of each entity as it appears in the document.
-2. "type" MUST be exactly "{entity_type}".
-3. If no {entity_type} entities exist, return empty list.
-4. Do NOT extract generic terms like "King", "Court", "City", "Church" without specific names.
-5. Do NOT extract nationalities (French, English, Spanish) as entities.{extra_rules}
-
-OUTPUT FORMAT (VERY IMPORTANT):
-- Return a SINGLE JSON object.
-- The object MUST have exactly one key: "entities".
-- "entities" MUST be a list of objects with "text" and "type" fields.
-- Do NOT output any explanations, comments, or markdown.
-- Do NOT wrap JSON in backticks or code fences.
-
-Example output:
-{{"entities": [{{"text": "London", "type": "{entity_type}"}}]}}
-
-If no {entity_type} entities:
-{{"entities": []}}
-"""
+    Uses the canonical prompts from earlymodernner.constants.
+    """
+    return SYSTEM_PROMPTS[entity_type]
 
 
 def load_existing_gold():

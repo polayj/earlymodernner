@@ -242,15 +242,16 @@ def compute_strict_span_scores(
     return results
 
 
-def print_unique_entity_report(scores: Dict[str, Dict[str, float]]) -> None:
+def print_scores_report(scores: Dict[str, Dict[str, float]], title: str) -> None:
     """
-    Print a formatted report for Unique-Entity F1 (PRIMARY METRIC).
+    Print a formatted evaluation report.
 
     Args:
-        scores: Output from compute_unique_entity_f1
+        scores: Dict with 'overall' and per-label keys, each containing P/R/F1/TP/FP/FN
+        title: Report title to display
     """
     print("\n" + "=" * 80)
-    print("UNIQUE-ENTITY F1 EVALUATION (PRIMARY METRIC)")
+    print(title)
     print("=" * 80)
 
     # Overall scores
@@ -284,50 +285,16 @@ def print_unique_entity_report(scores: Dict[str, Dict[str, float]]) -> None:
         )
 
     print("\n" + "=" * 80)
+
+
+def print_unique_entity_report(scores: Dict[str, Dict[str, float]]) -> None:
+    """Print Unique-Entity F1 report (PRIMARY METRIC)."""
+    print_scores_report(scores, "UNIQUE-ENTITY F1 EVALUATION (PRIMARY METRIC)")
 
 
 def print_evaluation_report(scores: Dict[str, Dict[str, float]]) -> None:
-    """
-    Print a formatted evaluation report for strict span matching (SECONDARY METRIC).
-
-    Args:
-        scores: Output from compute_strict_span_scores
-    """
-    print("\n" + "=" * 80)
-    print("STRICT SPAN EVALUATION (SECONDARY/DIAGNOSTIC METRIC)")
-    print("=" * 80)
-
-    # Overall scores
-    overall = scores["overall"]
-    print(f"\nOverall Performance:")
-    print(f"  Precision: {overall['precision']:.4f}")
-    print(f"  Recall:    {overall['recall']:.4f}")
-    print(f"  F1:        {overall['f1']:.4f}")
-    print(f"  TP:        {overall['tp']}")
-    print(f"  FP:        {overall['fp']}")
-    print(f"  FN:        {overall['fn']}")
-
-    # Per-label scores
-    print(f"\nPer-Label Performance:")
-    print(f"  {'Label':<15} {'Precision':>10} {'Recall':>10} {'F1':>10} {'TP':>6} {'FP':>6} {'FN':>6}")
-    print("  " + "-" * 75)
-
-    # Sort labels alphabetically
-    labels = sorted([k for k in scores.keys() if k != "overall"])
-
-    for label in labels:
-        vals = scores[label]
-        print(
-            f"  {label:<15} "
-            f"{vals['precision']:>10.4f} "
-            f"{vals['recall']:>10.4f} "
-            f"{vals['f1']:>10.4f} "
-            f"{vals['tp']:>6} "
-            f"{vals['fp']:>6} "
-            f"{vals['fn']:>6}"
-        )
-
-    print("\n" + "=" * 80)
+    """Print strict span evaluation report (SECONDARY METRIC)."""
+    print_scores_report(scores, "STRICT SPAN EVALUATION (SECONDARY/DIAGNOSTIC METRIC)")
 
 
 def compute_per_doc_scores(

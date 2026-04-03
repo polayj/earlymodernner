@@ -17,17 +17,6 @@ ABBREVIATION_MAP: Dict[str, str] = {
     # Add more as needed based on corpus analysis
 }
 
-# Commodity allowlist - always keep these when normalizing
-# Seeded from common false negatives
-COMMODITY_ALLOWLIST = {
-    "salt", "bread", "fish", "butter", "spice", "spices",
-    "pepper", "slave", "slaves", "sugar", "rice", "flour",
-    "eggs", "mace", "cotton", "indigo", "tea", "coffee",
-    "cocoa", "rum", "brandy", "tobacco", "silk", "wine",
-    "timber", "cloth", "wool", "iron", "gold", "silver",
-    "coal", "tin", "lead", "wheat", "grain",
-}
-
 # Simple singularization rules for commodities
 COMMODITY_PLURAL_MAP: Dict[str, str] = {
     "slaves": "slave",

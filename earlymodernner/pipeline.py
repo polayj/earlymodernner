@@ -7,7 +7,7 @@ Orchestrates: preprocessing → inference → output
 import csv
 import gc
 import json
-import os
+import re
 import time
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -29,12 +29,13 @@ except ImportError:
     HF_HUB_AVAILABLE = False
 
 from .constants import ENTITY_TYPES, SYSTEM_PROMPTS
-from .normalization import normalize_entity_text
 
 
-# Default model paths
+# Default model paths (pinned to specific revisions for reproducibility and security)
 DEFAULT_BASE_MODEL = "Qwen/Qwen3-4B-Instruct-2507"
+DEFAULT_BASE_MODEL_REVISION = "cdbee75f17c01a7cc42f958dc650907174af0554"
 HF_ADAPTER_REPO = "jacobpol/earlymodernner-adapters"
+HF_ADAPTER_REVISION = "5cf550717d92455a7daec4b461b8c8ae24a72758"
 DEFAULT_ADAPTER_NAMES = {
     "TOPONYM": "toponym_lora",
     "PERSON": "person_lora",
@@ -75,9 +76,10 @@ def get_adapter_path(adapter_name: str, cache_dir: Optional[Path] = None) -> Pat
 
     print(f"  Downloading {adapter_name} from Hugging Face Hub...")
 
-    # Download the specific adapter subfolder
+    # Download the specific adapter subfolder (pinned revision)
     downloaded_path = snapshot_download(
         repo_id=HF_ADAPTER_REPO,
+        revision=HF_ADAPTER_REVISION,
         allow_patterns=[f"{adapter_name}/*"],
         local_dir=cache_dir,
         local_dir_use_symlinks=False,
@@ -110,6 +112,7 @@ def download_all_adapters(cache_dir: Optional[Path] = None, verbose: bool = Fals
 
     downloaded_path = snapshot_download(
         repo_id=HF_ADAPTER_REPO,
+        revision=HF_ADAPTER_REVISION,
         local_dir=cache_dir,
         local_dir_use_symlinks=False,
     )
@@ -178,8 +181,6 @@ def preprocess_input(input_path: Path, verbose: bool = False) -> List[Dict]:
 
 def extract_json_from_output(output: str) -> dict:
     """Extract JSON object from model output."""
-    import re
-
     output = output.strip()
 
     # Try direct parse first
@@ -257,6 +258,60 @@ def build_prompt(text: str, entity_type: str, tokenizer) -> str:
     )
 
 
+def extract_entities_from_text(
+    text: str,
+    model,
+    tokenizer,
+    max_new_tokens: int = 512,
+    temperature: float = 0.0,
+    entity_type: str = None,
+) -> dict:
+    """
+    Run entity extraction on a single text string.
+
+    Used by training callbacks for dev-set evaluation during training.
+
+    Args:
+        text: Document text to extract entities from
+        model: Loaded model (base + adapter)
+        tokenizer: Tokenizer
+        max_new_tokens: Maximum tokens to generate
+        temperature: Sampling temperature (0.0 = greedy)
+        entity_type: Entity type to extract (e.g. "TOPONYM")
+
+    Returns:
+        Dict with 'entities' list and 'raw_output' string
+    """
+    prompt = build_prompt(text, entity_type, tokenizer)
+    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+
+    generate_kwargs = {
+        "max_new_tokens": max_new_tokens,
+        "pad_token_id": tokenizer.pad_token_id or tokenizer.eos_token_id,
+    }
+    if temperature == 0.0:
+        generate_kwargs["do_sample"] = False
+    else:
+        generate_kwargs["do_sample"] = True
+        generate_kwargs["temperature"] = temperature
+
+    with torch.no_grad():
+        outputs = model.generate(**inputs, **generate_kwargs)
+
+    raw_output = tokenizer.decode(
+        outputs[0][inputs['input_ids'].shape[1]:],
+        skip_special_tokens=True
+    )
+
+    obj = extract_json_from_output(raw_output)
+    entities = normalize_entities(obj.get("entities", []), entity_type, text)
+
+    return {
+        "entities": entities,
+        "raw_output": raw_output,
+    }
+
+
 def load_model_with_adapter(base_model_name: str, adapter_path: str, device: str = "cuda"):
     """Load base model with LoRA adapter."""
     if not PEFT_AVAILABLE:
@@ -272,6 +327,7 @@ def load_model_with_adapter(base_model_name: str, adapter_path: str, device: str
 
     model = AutoModelForCausalLM.from_pretrained(
         base_model_name,
+        revision=DEFAULT_BASE_MODEL_REVISION,
         quantization_config=bnb_config,
         device_map="auto" if device == "cuda" else device,
         trust_remote_code=True,
@@ -280,6 +336,7 @@ def load_model_with_adapter(base_model_name: str, adapter_path: str, device: str
 
     tokenizer = AutoTokenizer.from_pretrained(
         base_model_name,
+        revision=DEFAULT_BASE_MODEL_REVISION,
         trust_remote_code=True,
     )
 
@@ -419,7 +476,6 @@ def run_pipeline(
     entity_types: List[str],
     model_dir: Optional[str] = None,
     output_csv: bool = False,
-    batch_size: int = 1,
     device: str = "cuda",
     verbose: bool = False,
 ):
@@ -432,7 +488,6 @@ def run_pipeline(
         entity_types: List of entity types to extract
         model_dir: Directory containing LoRA adapters (None = use bundled)
         output_csv: If True, output CSV instead of JSONL
-        batch_size: Documents per batch (currently unused, for future)
         device: cuda or cpu
         verbose: Show detailed progress
     """

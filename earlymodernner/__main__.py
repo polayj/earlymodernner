@@ -68,8 +68,9 @@ and cached in ~/.cache/earlymodernner/
     )
     parser.add_argument(
         "--entity-types",
-        type=str,
+        type=str.upper,
         nargs="+",
+        choices=["TOPONYM", "PERSON", "ORGANIZATION", "COMMODITY"],
         default=["TOPONYM", "PERSON", "ORGANIZATION", "COMMODITY"],
         help="Entity types to extract (default: all four)",
     )
@@ -78,12 +79,6 @@ and cached in ~/.cache/earlymodernner/
         type=str,
         default=None,
         help="Directory containing LoRA adapters (default: download from Hugging Face Hub)",
-    )
-    parser.add_argument(
-        "--batch-size",
-        type=int,
-        default=1,
-        help="Documents to process at once (default: 1)",
     )
     parser.add_argument(
         "--device",
@@ -143,7 +138,6 @@ def main():
             entity_types=args.entity_types,
             model_dir=args.model_dir,
             output_csv=args.csv,
-            batch_size=args.batch_size,
             device=args.device,
             verbose=args.verbose,
         )

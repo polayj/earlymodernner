@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "earlymodernner"
-version = "0.1.0"
+version = "0.2.0"
 description = "Named Entity Recognition for Early Modern English documents (1500-1800)"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -26,12 +26,12 @@ classifiers = [
 ]
 
 dependencies = [
-    "torch>=2.0.0",
-    "transformers>=4.40.0",
-    "peft>=0.10.0",
-    "bitsandbytes>=0.43.0",
-    "accelerate>=0.30.0",
-    "huggingface_hub>=0.20.0",
+    "torch>=2.0.0,<3.0.0",
+    "transformers>=4.40.0,<6.0.0",
+    "peft>=0.10.0,<1.0.0",
+    "bitsandbytes>=0.43.0,<1.0.0",
+    "accelerate>=0.30.0,<2.0.0",
+    "huggingface_hub>=0.20.0,<2.0.0",
 ]
 
 [project.optional-dependencies]

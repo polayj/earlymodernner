@@ -5,23 +5,27 @@ This script:
 2. Compares predictions using text-based matching
 3. Reports precision, recall, F1 for all entity types
 """
+import argparse
 import json
 import sys
 from pathlib import Path
 from collections import Counter
 
+from earlymodernner.constants import ENTITY_TYPES
+from earlymodernner.metrics import _precision_recall_f1
+from earlymodernner.normalization import normalize_entity_text
 
-GOLD_DIR = Path(__file__).parent / "eval_sets" / "gold_standard"
+
+DEFAULT_GOLD_DIR = Path(__file__).parent / "eval_sets" / "gold_standard"
 OUTPUT_DIR = Path("evaluation_results")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-ENTITY_TYPES = ["TOPONYM", "PERSON", "ORGANIZATION", "COMMODITY"]
 
-
-def load_gold_standard():
+def load_gold_standard(gold_dir=None):
     """Load all gold standard documents, keyed by doc_id (without extension)."""
+    gold_dir = gold_dir or DEFAULT_GOLD_DIR
     docs = {}
-    for file_path in sorted(GOLD_DIR.glob("*.json")):
+    for file_path in sorted(gold_dir.glob("*.json")):
         with open(file_path, 'r', encoding='utf-8') as f:
             doc = json.load(f)
         # Key by stem (no extension) so it matches prediction doc_ids that may differ in extension
@@ -38,22 +42,14 @@ def load_gold_standard():
 def normalize_text(text):
     """Normalize entity text for comparison.
 
-    Handles common variations in historical texts:
-    - Case differences
-    - Hyphen vs space (east-india vs east india)
-    - Leading articles (the East India Company vs East India Company)
-    - Multiple spaces
+    Uses the shared normalization from earlymodernner.normalization,
+    with hyphen removal and person normalization (leading "the" stripping).
     """
-    import re
-    t = text.lower().strip()
-    # Remove leading "the "
-    if t.startswith("the "):
-        t = t[4:]
-    # Normalize hyphens to spaces
-    t = t.replace("-", " ")
-    # Collapse multiple spaces
-    t = re.sub(r'\s+', ' ', t)
-    return t.strip()
+    return normalize_entity_text(
+        text,
+        remove_hyphens=True,
+        person_normalize=True,
+    )
 
 
 def evaluate_predictions(gold_docs, predictions, entity_type):
@@ -86,14 +82,14 @@ def evaluate_predictions(gold_docs, predictions, entity_type):
             skipped += 1
             continue
 
-        # Get gold entities of target type (gold uses 'label')
+        # Get gold entities of target type
         gold_entities = set(
             normalize_text(e['text'])
             for e in gold_doc['entities']
-            if e.get('label') == entity_type
+            if e.get('type') == entity_type
         )
 
-        # Get predicted entities of target type (predictions use 'type')
+        # Get predicted entities of target type
         pred_entities = set(
             normalize_text(e['text'])
             for e in pred_doc.get('entities', [])
@@ -133,18 +129,11 @@ def evaluate_predictions(gold_docs, predictions, entity_type):
         for item in remaining_fn:
             false_negatives[item] += 1
 
-    # Calculate metrics
-    precision = overall_tp / (overall_tp + overall_fp) if (overall_tp + overall_fp) > 0 else 0
-    recall = overall_tp / (overall_tp + overall_fn) if (overall_tp + overall_fn) > 0 else 0
-    f1 = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0
+    # Calculate metrics using shared function
+    scores = _precision_recall_f1(overall_tp, overall_fp, overall_fn)
 
     return {
-        'precision': precision,
-        'recall': recall,
-        'f1': f1,
-        'tp': overall_tp,
-        'fp': overall_fp,
-        'fn': overall_fn,
+        **scores,
         'false_positives': false_positives,
         'false_negatives': false_negatives,
         'true_positives': true_positives,
@@ -153,9 +142,9 @@ def evaluate_predictions(gold_docs, predictions, entity_type):
 
 
 def main():
-    import argparse
     parser = argparse.ArgumentParser(description="Evaluate on gold standard")
     parser.add_argument("--predictions", required=True, help="Predictions JSONL file")
+    parser.add_argument("--gold-dir", type=Path, default=DEFAULT_GOLD_DIR, help="Gold standard directory (default: dev/eval_sets/gold_standard)")
     parser.add_argument("--entity-type", default=None, help="Entity type to evaluate (default: all)")
     parser.add_argument("--show-errors", type=int, default=20, help="Number of errors to show per type")
     args = parser.parse_args()
@@ -171,15 +160,16 @@ def main():
     print("=" * 70)
 
     # Load gold
-    print(f"\nLoading gold standard from {GOLD_DIR}...")
-    gold_docs = load_gold_standard()
+    gold_dir = args.gold_dir
+    print(f"\nLoading gold standard from {gold_dir}...")
+    gold_docs = load_gold_standard(gold_dir)
     print(f"  Loaded {len(gold_docs)} documents")
 
     # Count gold entities by type
     print("\n  Gold entity counts:")
     for etype in ENTITY_TYPES:
         count = sum(
-            sum(1 for e in doc['entities'] if e.get('label') == etype)
+            sum(1 for e in doc['entities'] if e.get('type') == etype)
             for doc in gold_docs.values()
         )
         print(f"    {etype}: {count}")
